@@ -1,0 +1,2142 @@
+Department,Category,Condition Group,Sales Week,Gross Revenue,Return Value,Net Item Revenue (Fulfilled),Gross Items (Fullfilled),Net Items (Fulfilled),Gross Orders (Fulfilled),Net Sell Through Items (Week),MSRP of Sold Items,Avg. Item Age When Sold,Avg. Item Age EOW,EOW Inventory For Sale $,EOW Inventory For Sale Items,MSRP of EOW Inventory
+Kitchen and Dining,Gadgets,Perfect,1/13/19,194,0,194,4,4,5,0.31,243,14.63,27.02,614,9.9,698
+Kitchen and Dining,Gadgets,Perfect,1/6/19,87,0,87,2,2,3,0.13,109,11.09,11.48,886,14,1006
+Kitchen and Dining,Gadgets,Perfect,12/30/18,285.83,40.83,245,7,6,7,0.3,306,13.86,10.64,847,14,963
+Kitchen and Dining,Gadgets,Perfect,12/23/18,1340,0,1340,19,19,16,0.66,1675,5.85,7.98,606,10,689
+Kitchen and Dining,Gadgets,Perfect,12/16/18,950.4,86.4,864,11,10,10,0.3,1080,20.02,9.73,1739,23,1976
+Kitchen and Dining,Gadgets,Perfect,12/9/18,396,0,396,7,7,7,0.28,495,41.81,22.12,1840,18,2091
+Kitchen and Dining,Gadgets,Perfect,12/2/18,1359,0,1359,15,15,16,0.47,1699,19.87,24.5,1553,17,1765
+Kitchen and Dining,Gadgets,Perfect,11/25/18,692,0,692,11,11,11,0.31,865,59.37,31.43,2456,24,2791
+Kitchen and Dining,Gadgets,Perfect,11/18/18,985.6,89.6,896,11,10,9,0.23,1120,11.32,29.19,2988,33,3395
+Kitchen and Dining,Gadgets,Perfect,11/11/18,568,0,568,6,6,6,0.14,710,37.42,26.88,3280,38,3728
+Kitchen and Dining,Gadgets,Perfect,11/4/18,452.67,64.67,388,7,6,6,0.21,485,78.62,49.63,1686,23,1916
+Kitchen and Dining,Gadgets,Perfect,10/28/18,188,0,188,3,3,3,0.19,235,52.13,99.96,602,13,684
+Kitchen and Dining,Gadgets,Perfect,10/21/18,255.6,42.6,213,6,5,4,0.25,266,121.2,104.16,671,15,763
+Kitchen and Dining,Gadgets,Perfect,10/14/18,143,0,143,3,3,3,0.14,179,73.54,98.84,837,19,951
+Kitchen and Dining,Gadgets,Perfect,10/7/18,258,129,129,2,1,4,0.05,161,96.25,96.6,894,20,1016
+Kitchen and Dining,Gadgets,Great,1/13/19,127.5,42.5,85,3,2,2,0.67,106,14.17,16.45,59,1,68
+Kitchen and Dining,Gadgets,Great,1/6/19,0,0,0,0,0,0,0,0,0,12.67,158,3,180
+Kitchen and Dining,Gadgets,Great,12/30/18,223.75,44.75,179,5,4,4,0.67,224,19.79,16.59,118,2,134
+Kitchen and Dining,Gadgets,Great,12/23/18,284,142,142,4,2,2,0.29,178,5.7,12.81,283,5,321
+Kitchen and Dining,Gadgets,Great,12/16/18,364.8,60.8,304,6,5,5,0.46,380,1.31,9.38,371,6,421
+Kitchen and Dining,Gadgets,Great,12/9/18,82,0,82,2,2,2,0.33,103,94.86,24.15,293,4,333
+Kitchen and Dining,Gadgets,Great,12/2/18,142,71,71,2,1,1,0.2,89,0.15,36.4,208,4,236
+Kitchen and Dining,Gadgets,Great,11/25/18,522,87,435,6,5,5,0.56,544,8.09,21.07,208,4,236
+Kitchen and Dining,Gadgets,Great,11/18/18,682.71,151.71,531,9,7,6,0.47,664,5.7,17.15,655,8,744
+Kitchen and Dining,Gadgets,Great,11/11/18,201.33,50.33,151,4,3,3,0.2,189,3.77,12.6,834,12,948
+Kitchen and Dining,Gadgets,Great,11/4/18,0,0,0,0,0,0,0,0,0,17.64,314,6,356
+Kitchen and Dining,Gadgets,Great,10/28/18,81,0,81,2,2,2,0.67,101,14.01,50.33,45,1,51
+Kitchen and Dining,Gadgets,Great,10/21/18,94,0,94,2,2,2,0.4,118,9.09,32.55,110,3,125
+Kitchen and Dining,Gadgets,Great,10/14/18,100,50,50,2,1,1,0.25,63,13.4,34.16,132,3,150
+Kitchen and Dining,Gadgets,Great,10/7/18,50,0,50,1,1,1,0.2,63,15.63,31.57,191,4,218
+Kitchen and Dining,Gadgets,OK,12/16/18,56,0,56,1,1,1,1,70,1.23,3.71,0,0,0
+Kitchen and Dining,Gadgets,OK,12/9/18,20,0,20,1,1,1,1,25,4.08,4.48,0,0,0
+Kitchen and Dining,Gadgets,OK,12/2/18,0,0,0,0,0,0,0,0,0,6.72,22,1,25
+Kitchen and Dining,Gadgets,OK,11/25/18,32,16,16,2,1,1,1,20,7.16,4.55,0,0,0
+Kitchen and Dining,Gadgets,OK,11/18/18,280,140,140,2,1,1,0.5,175,6.39,6.44,13,1,15
+Kitchen and Dining,Gadgets,OK,11/11/18,0,0,0,0,0,0,0,0,0,2.1,178,2,203
+Kitchen and Dining,Gadgets,OK,11/4/18,280,0,280,2,2,2,1,350,0.54,1.96,0,0,0
+Kitchen and Dining,Pots,Perfect,1/13/19,13,0,13,1,1,1,0.11,19,13.55,16.87,182,8,324
+Kitchen and Dining,Pots,Perfect,1/6/19,0,0,0,0,0,0,0,0,0,12.04,196,9,350
+Kitchen and Dining,Pots,Perfect,12/30/18,140,0,140,6,6,6,0.4,200,4.16,6.16,196,9,350
+Kitchen and Dining,Pots,Perfect,12/23/18,58,0,58,3,3,3,0.27,83,17.71,5.39,217,8,387
+Kitchen and Dining,Pots,Perfect,12/16/18,21,0,21,1,1,1,0.25,30,2,22.75,70,3,126
+Kitchen and Dining,Pots,Perfect,12/9/18,134,0,134,6,6,6,0.75,191,213.75,109.83,37,2,67
+Kitchen and Dining,Pots,Perfect,12/2/18,98.67,24.67,74,4,3,3,0.38,106,17.17,88.27,122,5,218
+Kitchen and Dining,Pots,Perfect,11/25/18,84,0,84,2,2,2,0.22,120,54.59,105.98,139,7,248
+Kitchen and Dining,Pots,Perfect,11/18/18,61.5,20.5,41,3,2,2,0.2,59,409.49,184.66,210,8,375
+Kitchen and Dining,Pots,Perfect,11/11/18,21,0,21,1,1,1,0.1,30,406.1,215.53,205,9,365
+Kitchen and Dining,Pots,Perfect,11/4/18,381.33,95.33,286,4,3,3,0.23,409,265.42,217.63,219,10,391
+Kitchen and Dining,Pots,Perfect,10/28/18,167,0,167,6,6,4,0.33,239,134.06,196.21,249,12,444
+Kitchen and Dining,Pots,Perfect,10/21/18,42,21,21,2,1,1,0.07,30,386.85,267.89,207,13,369
+Kitchen and Dining,Pots,Perfect,10/14/18,115,0,115,4,4,4,0.22,164,205.13,270.48,221,14,395
+Kitchen and Dining,Pots,Perfect,10/7/18,105,35,70,3,2,2,0.11,100,1,257.32,246,16,440
+Kitchen and Dining,Pots,Great,12/23/18,126,63,63,2,1,1,1,90,2.54,11.55,0,0,0
+Kitchen and Dining,Pots,Great,12/16/18,126,63,63,2,1,1,0.5,90,0.46,19.67,74,1,132
+Kitchen and Dining,Pots,Great,12/9/18,678.7,61.7,617,11,10,10,1,881,2.62,5.04,0,0,0
+Kitchen and Dining,Pots,Great,12/2/18,14.65,13.65,1,1,0,1,0,1,161.93,26.32,594,8,1061
+Kitchen and Dining,Pots,Great,11/25/18,47,0,47,3,3,2,1,67,22.87,20.09,0,0,0
+Kitchen and Dining,Pots,Great,11/18/18,170,85,85,2,1,1,0.25,121,4.08,13.93,56,3,100
+Kitchen and Dining,Pots,Great,11/11/18,600,400,200,3,1,2,0.2,286,2.54,8.82,156,4,279
+Kitchen and Dining,Pots,Great,11/4/18,439.5,146.5,293,3,2,2,0.4,419,2,5.81,216,3,385
+Kitchen and Dining,Pots,Great,10/28/18,351,117,234,6,4,4,0.57,334,1.93,3.15,122,3,218
+Kitchen and Dining,Pots,Great,10/21/18,154.5,51.5,103,3,2,2,0.33,147,38.04,11.83,74,4,132
+Kitchen and Dining,Pots,Great,10/14/18,0,0,0,0,0,0,0,0,0,35,13,1,24
+Kitchen and Dining,Pots,Great,10/7/18,88,44,44,2,1,1,0.5,63,25.64,44.1,13,1,24
+Kitchen and Dining,Pots,OK,12/30/18,17,0,17,1,1,1,1,24,3.31,3.78,0,0,0
+Kitchen and Dining,Pots,OK,12/23/18,0,0,0,0,0,0,0,0,0,1.68,20,1,35
+Kitchen and Dining,Pots,OK,12/9/18,17,0,17,1,1,1,1,24,0.23,0.35,0,0,0
+Kitchen and Dining,Pots,OK,12/2/18,4,0,4,1,1,1,1,6,65.6,60.48,0,0,0
+Kitchen and Dining,Pots,OK,11/25/18,22,0,22,1,1,1,0.5,31,68.61,60.13,4,1,8
+Kitchen and Dining,Pots,OK,11/18/18,154,0,154,1,1,1,0.33,220,12.4,39.27,29,2,51
+Kitchen and Dining,Pots,OK,11/11/18,0,0,0,0,0,0,0,0,0,32.27,161,3,287
+Kitchen and Dining,Pots,OK,11/4/18,0,0,0,0,0,0,0,0,0,27.37,161,3,287
+Kitchen and Dining,Pots,OK,10/28/18,14,0,14,1,1,1,0.33,20,2.46,18.76,29,2,51
+Kitchen and Dining,Pots,OK,10/21/18,0,0,0,0,0,0,0,0,0,22.54,45,3,81
+Kitchen and Dining,Pots,OK,10/14/18,0,0,0,0,0,0,0,0,0,31.36,29,2,51
+Kitchen and Dining,Pots,OK,10/7/18,78,39,39,2,1,1,0.33,56,21.25,25.97,29,2,51
+Kitchen and Dining,Pans,Perfect,1/13/19,0,0,0,0,0,0,0,0,0,144.83,266,4,403
+Kitchen and Dining,Pans,Perfect,1/6/19,342,171,171,2,1,1,0.2,285,97.1,129.78,266,4,403
+Kitchen and Dining,Pans,Perfect,12/30/18,0,171,-171,0,-1,0,-0.33,-285,0,118.58,266,4,403
+Kitchen and Dining,Pans,Perfect,12/23/18,0,0,0,0,0,0,0,0,0,174.58,172,2,260
+Kitchen and Dining,Pans,Perfect,12/16/18,14,0,14,1,1,1,0.33,23,18.02,168.91,172,2,260
+Kitchen and Dining,Pans,Perfect,12/9/18,183,0,183,2,2,2,0.33,305,42.97,126.63,207,4,313
+Kitchen and Dining,Pans,Perfect,12/2/18,24,12,12,2,1,1,0.17,20,9.55,124.74,260,5,393
+Kitchen and Dining,Pans,Perfect,11/25/18,268.5,89.5,179,3,2,2,0.25,298,81.47,109.97,273,6,413
+Kitchen and Dining,Pans,Perfect,11/18/18,126,0,126,2,2,2,0.2,210,69.22,126.63,473,8,717
+Kitchen and Dining,Pans,Perfect,11/11/18,128,0,128,1,1,1,0.13,213,53.52,121.94,510,7,773
+Kitchen and Dining,Pans,Perfect,11/4/18,336,168,168,2,1,1,0.11,280,34.27,108.71,637,8,965
+Kitchen and Dining,Pans,Perfect,10/28/18,439.5,146.5,293,3,2,2,0.2,488,66.91,106.12,800,8,1212
+Kitchen and Dining,Pans,Perfect,10/21/18,56,28,28,2,1,1,0.09,47,12.71,94.36,1036,10,1570
+Kitchen and Dining,Pans,Perfect,10/14/18,54,27,27,2,1,1,0.08,45,9.7,90.16,1069,11,1620
+Kitchen and Dining,Pans,Perfect,10/7/18,0,126,-126,0,-1,0,-0.09,-210,0,81.27,1101,12,1668
+Kitchen and Dining,Pans,Great,1/13/19,0,0,0,0,0,0,0,0,0,25.41,11,1,17
+Kitchen and Dining,Pans,Great,1/6/19,30,20,10,3,1,1,0.5,17,6.62,19.46,11,1,17
+Kitchen and Dining,Pans,Great,12/30/18,0,0,0,0,0,0,0,0,0,15.61,22,2,33
+Kitchen and Dining,Pans,Great,12/23/18,0,0,0,0,0,0,,0,0,10.71,0,0,0
+Kitchen and Dining,Pans,Great,12/9/18,82,0,82,1,1,1,1,137,8.7,8.75,0,0,0
+Kitchen and Dining,Pans,Great,12/2/18,0,0,0,0,0,0,0,0,0,5.95,97,1,147
+Kitchen and Dining,Pans,Great,11/25/18,0,0,0,0,0,0,0,0,0,1.05,97,1,147
+Kitchen and Dining,Pans,Great,10/28/18,440,220,220,2,1,1,1,367,24.18,23.38,0,0,0
+Kitchen and Dining,Pans,Great,10/21/18,0,0,0,0,0,0,0,0,0,20.58,260,1,393
+Kitchen and Dining,Pans,Great,10/14/18,48,32,16,3,1,1,0.5,27,8.7,13.3,260,1,393
+Kitchen and Dining,Pans,Great,10/7/18,0,0,0,0,0,0,0,0,0,8.61,274,2,415
+Kitchen and Dining,Pans,OK,11/25/18,11,0,11,1,1,1,1,18,4.16,13.72,0,0,0
+Kitchen and Dining,Pans,OK,11/18/18,0,0,0,0,0,0,0,0,0,10.22,13,1,20
+Kitchen and Dining,Serving Utensils,Perfect,1/13/19,446.33,34.33,412,13,12,10,0.12,589,158.31,150.36,6239,88,11141
+Kitchen and Dining,Serving Utensils,Perfect,1/6/19,522.67,74.67,448,7,6,6,0.06,640,133.6,144.41,6549,98,11695
+Kitchen and Dining,Serving Utensils,Perfect,12/30/18,591.27,49.27,542,12,11,11,0.1,774,54.82,135.38,6845,102,12224
+Kitchen and Dining,Serving Utensils,Perfect,12/23/18,436.36,36.36,400,12,11,12,0.09,571,30.11,118.65,7413,109,13237
+Kitchen and Dining,Serving Utensils,Perfect,12/16/18,1898,0,1898,11,11,13,0.09,2711,26.18,118.09,7170,110,12803
+Kitchen and Dining,Serving Utensils,Perfect,12/9/18,885,0,885,20,20,17,0.15,1264,101.95,118.86,9166,110,16368
+Kitchen and Dining,Serving Utensils,Perfect,12/2/18,935,0,935,16,16,17,0.12,1336,50.44,114.73,7740,120,13821
+Kitchen and Dining,Serving Utensils,Perfect,11/25/18,594,0,594,9,9,8,0.07,849,99.18,114.24,7764,124,13864
+Kitchen and Dining,Serving Utensils,Perfect,11/18/18,530,53,477,10,9,9,0.07,681,107.8,124.04,7972,126,14235
+Kitchen and Dining,Serving Utensils,Perfect,11/11/18,458.4,76.4,382,6,5,7,0.04,546,99.48,118.23,8092,129,14449
+Kitchen and Dining,Serving Utensils,Perfect,11/4/18,989.06,52.06,937,19,18,15,0.12,1339,64.45,113.82,8382,129,14968
+Kitchen and Dining,Serving Utensils,Perfect,10/28/18,145.33,36.33,109,4,3,3,0.02,156,14.94,108.78,9329,144,16659
+Kitchen and Dining,Serving Utensils,Perfect,10/21/18,195,0,195,5,5,6,0.04,279,17.63,105.84,8820,137,15750
+Kitchen and Dining,Serving Utensils,Perfect,10/14/18,306,0,306,7,7,7,0.05,437,105.57,112.56,8575,131,15312
+Kitchen and Dining,Serving Utensils,Perfect,10/7/18,208,104,104,2,1,2,0.01,149,0,111.02,8487,132,15154
+Kitchen and Dining,Serving Utensils,Great,1/13/19,0,0,0,0,0,0,0,0,0,170.45,1430,8,2554
+Kitchen and Dining,Serving Utensils,Great,1/6/19,206,103,103,2,1,1,0.11,147,196.35,166.95,1430,8,2554
+Kitchen and Dining,Serving Utensils,Great,12/30/18,0,174,-174,0,-2,0,-0.29,-249,0,156.66,1558,9,2781
+Kitchen and Dining,Serving Utensils,Great,12/23/18,212,0,212,4,4,4,0.36,303,58.44,128.59,1397,7,2495
+Kitchen and Dining,Serving Utensils,Great,12/16/18,374.67,93.67,281,4,3,3,0.25,401,109.11,150.92,1522,9,2719
+Kitchen and Dining,Serving Utensils,Great,12/9/18,355.5,118.5,237,3,2,2,0.17,339,40.73,140.49,1316,10,2349
+Kitchen and Dining,Serving Utensils,Great,12/2/18,433.2,72.2,361,6,5,5,0.29,516,151.15,145.11,1642,12,2933
+Kitchen and Dining,Serving Utensils,Great,11/25/18,-4,-2,-2,2,1,2,0.06,-3,103.1,132.58,2052,17,3663
+Kitchen and Dining,Serving Utensils,Great,11/18/18,160.5,53.5,107,3,2,2,0.1,153,67.07,129.85,2064,18,3685
+Kitchen and Dining,Serving Utensils,Great,11/11/18,350,0,350,5,5,5,0.21,500,92.71,117.39,2191,19,3913
+Kitchen and Dining,Serving Utensils,Great,11/4/18,186,62,124,3,2,2,0.08,177,58.6,108.57,2629,24,4695
+Kitchen and Dining,Serving Utensils,Great,10/28/18,20,0,20,2,2,2,0.07,29,124.59,111.02,2571,25,4591
+Kitchen and Dining,Serving Utensils,Great,10/21/18,0,113,-113,0,-1,0,-0.04,-161,0,110.53,2444,25,4365
+Kitchen and Dining,Serving Utensils,Great,10/14/18,0,0,0,0,0,0,0,0,0,105.07,2609,26,4659
+Kitchen and Dining,Serving Utensils,Great,10/7/18,183,0,183,2,2,2,0.07,261,51.51,96.53,2609,26,4659
+Kitchen and Dining,Serving Utensils,OK,1/13/19,45,0,45,1,1,1,0.5,64,36.42,62.51,110,1,196
+Kitchen and Dining,Serving Utensils,OK,1/6/19,0,0,0,0,0,0,0,0,0,58.31,161,2,287
+Kitchen and Dining,Serving Utensils,OK,12/30/18,0,91,-91,0,-1,0,,-130,0,62.79,50,1,88
+Kitchen and Dining,Serving Utensils,OK,12/23/18,81,0,81,2,2,2,0.67,116,96.48,66.78,50,1,88
+Kitchen and Dining,Serving Utensils,OK,12/16/18,0,0,0,0,0,0,0,0,0,63.28,145,3,259
+Kitchen and Dining,Serving Utensils,OK,12/9/18,0,0,0,0,0,0,0,0,0,58.38,113,2,202
+Kitchen and Dining,Serving Utensils,OK,12/2/18,115,0,115,2,2,2,0.5,164,67.53,72.24,113,2,202
+Kitchen and Dining,Serving Utensils,OK,11/25/18,0,113,-113,0,-1,0,-0.33,-161,0,66.64,256,4,458
+Kitchen and Dining,Serving Utensils,OK,11/18/18,116,58,58,2,1,1,0.33,83,2.7,84.21,96,2,171
+Kitchen and Dining,Serving Utensils,OK,11/11/18,148,0,148,3,3,3,0.5,211,29.95,47.53,171,3,304
+Kitchen and Dining,Serving Utensils,OK,11/4/18,178,0,178,2,2,2,0.29,254,22.1,43.47,299,5,534
+Kitchen and Dining,Serving Utensils,OK,10/28/18,168,84,84,2,1,1,0.17,120,22.64,49.77,371,5,662
+Kitchen and Dining,Serving Utensils,OK,10/21/18,0,0,0,0,0,0,0,0,0,45.5,470,6,839
+Kitchen and Dining,Serving Utensils,OK,10/14/18,39,0,39,1,1,1,0.14,56,30.49,39.69,470,6,839
+Kitchen and Dining,Serving Utensils,OK,10/7/18,344,86,258,4,3,3,0.3,369,36.42,34.09,516,7,921
+Kitchen and Dining,Knives,Perfect,1/13/19,223.75,44.75,179,5,4,4,0.27,358,116.96,112.21,514,11,934
+Kitchen and Dining,Knives,Perfect,1/6/19,36,0,36,1,1,2,0.06,72,64.99,103.67,711,15,1292
+Kitchen and Dining,Knives,Perfect,12/30/18,0,51,-51,0,0,2,0,-102,5.78,82.81,750,16,1364
+Kitchen and Dining,Knives,Perfect,12/23/18,121.5,40.5,81,3,2,2,0.14,162,59.68,94.99,557,12,1012
+Kitchen and Dining,Knives,Perfect,12/16/18,214,0,214,5,5,6,0.26,428,30.34,78.33,648,14,1178
+Kitchen and Dining,Knives,Perfect,12/9/18,916,0,916,19,19,19,0.56,1832,34.03,55.23,697,15,1268
+Kitchen and Dining,Knives,Perfect,12/2/18,853,0,853,12,12,12,0.27,1706,50.44,53.41,1576,33,2866
+Kitchen and Dining,Knives,Perfect,11/25/18,418.67,104.67,314,4,3,3,0.07,628,43.89,49.49,2355,42,4282
+Kitchen and Dining,Knives,Perfect,11/18/18,0,108,-108,0,-1,0,-0.02,-216,0,51.87,2388,42,4342
+Kitchen and Dining,Knives,Perfect,11/11/18,372,0,372,4,4,4,0.1,744,26.49,46.69,2046,38,3720
+Kitchen and Dining,Knives,Perfect,11/4/18,98,0,98,2,2,2,0.05,196,44.97,46.34,2148,40,3906
+Kitchen and Dining,Knives,Perfect,10/28/18,70,0,70,1,1,1,0.03,140,6.47,44.1,1892,39,3440
+Kitchen and Dining,Knives,Perfect,10/21/18,0,0,0,0,0,0,0,0,0,42.63,1801,37,3274
+Kitchen and Dining,Knives,Perfect,10/14/18,298.5,99.5,199,3,2,2,0.08,398,133.44,62.02,1285,24,2336
+Kitchen and Dining,Knives,Perfect,10/7/18,70,0,70,1,1,1,0.04,140,7.32,59.99,1353,25,2460
+Kitchen and Dining,Knives,Great,1/13/19,40.54,30.54,10,1,0,1,0,20,15.71,103.88,418,7,760
+Kitchen and Dining,Knives,Great,1/6/19,52,0,52,1,1,2,0.13,104,11.78,78.47,429,7,780
+Kitchen and Dining,Knives,Great,12/30/18,216,0,216,3,3,3,0.27,432,27.49,73.08,482,8,876
+Kitchen and Dining,Knives,Great,12/23/18,0,0,0,0,0,0,0,0,0,76.23,735,10,1336
+Kitchen and Dining,Knives,Great,12/16/18,0,0,0,0,0,0,0,0,0,95.9,648,8,1178
+Kitchen and Dining,Knives,Great,12/9/18,328.5,109.5,219,6,4,4,0.4,438,41.81,84.7,437,6,794
+Kitchen and Dining,Knives,Great,12/2/18,18,0,18,1,1,2,0.09,36,32.19,70.21,701,10,1274
+Kitchen and Dining,Knives,Great,11/25/18,75,50,25,3,1,1,0.09,50,136.68,74.62,660,10,1200
+Kitchen and Dining,Knives,Great,11/18/18,0,0,0,0,0,0,0,0,0,80.22,679,11,1234
+Kitchen and Dining,Knives,Great,11/11/18,0,0,0,0,0,0,0,0,0,79.17,645,10,1172
+Kitchen and Dining,Knives,Great,11/4/18,0,0,0,0,0,0,0,0,0,74.27,645,10,1172
+Kitchen and Dining,Knives,Great,10/28/18,91,0,91,2,2,2,0.17,182,21.02,61.11,645,10,1172
+Kitchen and Dining,Knives,Great,10/21/18,0,0,0,0,0,0,0,0,0,56.42,752,12,1368
+Kitchen and Dining,Knives,Great,10/14/18,196.5,65.5,131,3,2,2,0.14,262,19.87,49,752,12,1368
+Kitchen and Dining,Knives,Great,10/7/18,0,0,0,0,0,0,0,0,0,42.35,884,14,1608
+Kitchen and Dining,Knives,OK,1/13/19,47,0,47,1,1,1,0.33,94,181.72,90.86,169,2,308
+Kitchen and Dining,Knives,OK,1/6/19,69,0,69,1,1,1,0.25,138,9.7,67.34,221,3,402
+Kitchen and Dining,Knives,OK,12/30/18,0,0,0,0,0,0,0,0,0,63.14,297,4,540
+Kitchen and Dining,Knives,OK,12/23/18,27,0,27,1,1,1,0.25,54,66.53,74.69,165,3,300
+Kitchen and Dining,Knives,OK,12/16/18,47,0,47,1,1,1,0.25,94,79.08,91.56,121,3,220
+Kitchen and Dining,Knives,OK,12/9/18,82,0,82,2,2,2,0.33,164,50.67,72.24,173,4,314
+Kitchen and Dining,Knives,OK,12/2/18,0,0,0,0,0,0,0,0,0,68.46,263,6,478
+Kitchen and Dining,Knives,OK,11/25/18,134,0,134,2,2,2,0.25,268,48.74,58.87,263,6,478
+Kitchen and Dining,Knives,OK,11/18/18,0,0,0,0,0,0,0,0,0,54.88,372,8,676
+Kitchen and Dining,Knives,OK,11/11/18,0,0,0,0,0,0,0,0,0,49.98,372,8,676
+Kitchen and Dining,Knives,OK,11/4/18,45,0,45,1,1,1,0.11,90,123.43,52.5,372,8,676
+Kitchen and Dining,Knives,OK,10/28/18,0,0,0,0,0,0,0,0,0,47.88,416,9,756
+Kitchen and Dining,Knives,OK,10/21/18,0,0,0,0,0,0,0,0,0,42.98,416,9,756
+Kitchen and Dining,Knives,OK,10/14/18,67,0,67,2,2,2,0.18,134,35.81,37.73,416,9,756
+Kitchen and Dining,Knives,OK,10/7/18,0,0,0,0,0,0,0,0,0,32.9,474,11,862
+Kitchen and Dining,Wine Glasses,Perfect,1/13/19,670,134,536,5,4,6,0.15,596,75.54,98.98,1698,23,2359
+Kitchen and Dining,Wine Glasses,Perfect,1/6/19,573.6,95.6,478,6,5,6,0.15,531,55.9,91.91,2435,29,3383
+Kitchen and Dining,Wine Glasses,Perfect,12/30/18,886.86,110.86,776,8,7,8,0.18,862,54.52,85.26,2826,33,3925
+Kitchen and Dining,Wine Glasses,Perfect,12/23/18,1203.27,100.27,1103,12,11,14,0.22,1226,54.36,71.96,3677,40,5107
+Kitchen and Dining,Wine Glasses,Perfect,12/16/18,691,0,691,10,10,14,0.17,768,34.27,65.94,4679,48,6499
+Kitchen and Dining,Wine Glasses,Perfect,12/9/18,2406,0,2406,28,28,28,0.37,2673,49.82,62.16,4671,47,6487
+Kitchen and Dining,Wine Glasses,Perfect,12/2/18,2700.39,84.39,2616,32,31,32,0.33,2907,27.49,53.34,6419,64,8915
+Kitchen and Dining,Wine Glasses,Perfect,11/25/18,1089,0,1089,11,11,15,0.12,1210,42.66,52.92,8111,82,11266
+Kitchen and Dining,Wine Glasses,Perfect,11/18/18,1090.1,99.1,991,11,10,10,0.1,1101,55.29,58.8,8620,88,11972
+Kitchen and Dining,Wine Glasses,Perfect,11/11/18,2693,0,2693,22,22,22,0.21,2992,42.66,55.02,8073,82,11212
+Kitchen and Dining,Wine Glasses,Perfect,11/4/18,1151,0,1151,12,12,12,0.11,1279,58.44,57.05,9533,94,13240
+Kitchen and Dining,Wine Glasses,Perfect,10/28/18,3503.77,129.77,3374,27,26,26,0.21,3749,21.71,49.07,10002,97,13892
+Kitchen and Dining,Wine Glasses,Perfect,10/21/18,1006.92,71.92,935,14,13,12,0.11,1039,21.25,46.62,11068,107,15373
+Kitchen and Dining,Wine Glasses,Perfect,10/14/18,1883.65,104.65,1779,18,17,16,0.15,1977,31.19,50.05,9928,100,13788
+Kitchen and Dining,Wine Glasses,Perfect,10/7/18,1057.5,117.5,940,9,8,8,0.08,1044,7.24,52.64,9848,94,13678
+Kitchen and Dining,Wine Glasses,Great,1/13/19,264,66,198,4,3,3,0.38,220,79.31,188.86,175,5,243
+Kitchen and Dining,Wine Glasses,Great,1/6/19,446,223,223,2,1,1,0.11,248,2.77,164.64,394,8,547
+Kitchen and Dining,Wine Glasses,Great,12/30/18,0,0,0,0,0,0,0,0,0,160.09,638,9,886
+Kitchen and Dining,Wine Glasses,Great,12/23/18,544.8,90.8,454,6,5,5,0.42,504,21.1,125.72,242,7,336
+Kitchen and Dining,Wine Glasses,Great,12/16/18,700,175,525,8,6,6,0.35,583,2.23,92.82,518,11,720
+Kitchen and Dining,Wine Glasses,Great,12/9/18,377.5,75.5,302,5,4,4,0.31,336,10.86,81.48,460,9,639
+Kitchen and Dining,Wine Glasses,Great,12/2/18,317.33,79.33,238,4,3,4,0.2,264,30.72,86.17,677,12,940
+Kitchen and Dining,Wine Glasses,Great,11/25/18,422,211,211,4,2,2,0.15,234,81.08,99.61,741,11,1030
+Kitchen and Dining,Wine Glasses,Great,11/18/18,586.67,146.67,440,4,3,3,0.19,489,14.17,111.23,991,13,1377
+Kitchen and Dining,Wine Glasses,Great,11/11/18,0,151,-151,0,-1,0,-0.09,-168,0,101.29,915,12,1271
+Kitchen and Dining,Wine Glasses,Great,11/4/18,619.2,103.2,516,6,5,5,0.29,573,21.25,90.58,915,12,1271
+Kitchen and Dining,Wine Glasses,Great,10/28/18,20.42,14.42,6,1,0,1,0,7,75,83.23,1417,17,1968
+Kitchen and Dining,Wine Glasses,Great,10/21/18,290,145,145,2,1,1,0.07,161,8.16,94.43,861,13,1196
+Kitchen and Dining,Wine Glasses,Great,10/14/18,665,133,532,5,4,4,0.25,591,22.87,93.17,849,12,1179
+Kitchen and Dining,Wine Glasses,Great,10/7/18,424.5,141.5,283,3,2,6,0.12,314,9.78,58.94,1283,15,1781
+Kitchen and Dining,Wine Glasses,OK,1/6/19,0,0,0,0,0,0,,0,0,39.62,0,0,0
+Kitchen and Dining,Wine Glasses,OK,12/30/18,0,0,0,0,0,0,,0,0,34.72,0,0,0
+Kitchen and Dining,Wine Glasses,OK,12/23/18,259,0,259,4,4,4,1,288,54.52,46.41,0,0,0
+Kitchen and Dining,Wine Glasses,OK,12/16/18,0,131,-131,0,-1,0,-0.5,-146,0,54.81,235,3,327
+Kitchen and Dining,Wine Glasses,OK,12/9/18,10.11,75.11,-65,1,0,1,0,-72,152.61,115.15,167,2,232
+Kitchen and Dining,Wine Glasses,OK,12/2/18,388,97,291,4,3,3,0.6,323,35.5,54.11,167,2,232
+Kitchen and Dining,Wine Glasses,OK,11/25/18,45,0,45,1,1,1,0.17,50,64.37,52.5,507,5,704
+Kitchen and Dining,Wine Glasses,OK,11/18/18,567,0,567,5,5,5,0.5,630,35.81,39.41,418,5,581
+Kitchen and Dining,Wine Glasses,OK,11/11/18,173,0,173,2,2,2,0.15,192,25.33,35.28,1087,11,1509
+Kitchen and Dining,Wine Glasses,OK,11/4/18,229,0,229,2,2,2,0.18,254,0.69,41.02,674,9,937
+Kitchen and Dining,Wine Glasses,OK,10/28/18,42,0,42,1,1,1,0.11,47,20.25,47.74,581,8,807
+Kitchen and Dining,Wine Glasses,OK,10/21/18,0,0,0,0,0,0,0,0,0,44.87,490,8,680
+Kitchen and Dining,Wine Glasses,OK,10/14/18,134,0,134,2,2,2,0.2,149,32.19,38.85,490,8,680
+Kitchen and Dining,Wine Glasses,OK,10/7/18,123,0,123,1,1,1,0.09,137,23.33,31.15,571,10,793
+Kitchen and Dining,Spoons,Perfect,1/13/19,8730.36,82.36,8648,106,105,101,0.11,10174,21.64,29.75,82211,882,87926
+Kitchen and Dining,Spoons,Perfect,1/6/19,15811.02,104.02,15707,152,151,134,0.14,18479,21.71,25.9,87197,945,93259
+Kitchen and Dining,Spoons,Perfect,12/30/18,16170,0,16170,175,175,149,0.17,19024,18.56,24.99,78645,856,84112
+Kitchen and Dining,Spoons,Perfect,12/23/18,21594,0,21594,209,209,182,0.19,25405,17.48,23.87,83043,886,88816
+Kitchen and Dining,Spoons,Perfect,12/16/18,19067.78,97.78,18970,195,194,164,0.17,22318,17.4,22.54,93548,955,100052
+Kitchen and Dining,Spoons,Perfect,12/9/18,17086,0,17086,202,202,179,0.23,20101,21.87,25.55,64654,666,69148
+Kitchen and Dining,Spoons,Perfect,12/2/18,30552,0,30552,277,277,239,0.28,35944,23.64,27.16,73523,717,78634
+Kitchen and Dining,Spoons,Perfect,11/25/18,16043.68,107.68,15936,149,148,121,0.17,18748,17.79,28.77,84634,744,90518
+Kitchen and Dining,Spoons,Perfect,11/18/18,5762.47,94.47,5668,61,60,55,0.08,6668,12.94,37.38,72367,655,77398
+Kitchen and Dining,Spoons,Perfect,11/11/18,4436,0,4436,43,43,45,0.07,5219,18.63,34.58,61410,536,65679
+Kitchen and Dining,Spoons,Perfect,11/4/18,7229.49,120.49,7109,60,59,58,0.13,8364,35.34,40.81,47243,411,50527
+Kitchen and Dining,Spoons,Perfect,10/28/18,6568,0,6568,60,60,67,0.13,7727,34.96,45.5,47872,406,51200
+Kitchen and Dining,Spoons,Perfect,10/21/18,8098.83,103.83,7995,78,77,71,0.14,9406,30.34,39.27,55259,470,59100
+Kitchen and Dining,Spoons,Perfect,10/14/18,12146.55,106.55,12040,114,113,101,0.17,14165,26.95,34.02,62560,537,66909
+Kitchen and Dining,Spoons,Perfect,10/7/18,11300,0,11300,115,115,100,0.16,13294,23.1,27.86,72598,626,77645
+Kitchen and Dining,Spoons,Great,1/13/19,2832.76,128.76,2704,44,42,46,0.12,3181,19.71,25.55,26237,317,28061
+Kitchen and Dining,Spoons,Great,1/6/19,5088.24,86.24,5002,59,58,57,0.14,5885,23.33,22.12,28995,352,31011
+Kitchen and Dining,Spoons,Great,12/30/18,7354.82,75.82,7279,97,96,89,0.21,8564,21.25,19.88,30023,361,32111
+Kitchen and Dining,Spoons,Great,12/23/18,7093,0,7093,78,78,70,0.16,8345,14.01,16.73,33660,398,36000
+Kitchen and Dining,Spoons,Great,12/16/18,9507,0,9507,102,102,88,0.21,11185,17.25,15.89,33376,388,35696
+Kitchen and Dining,Spoons,Great,12/9/18,12804,0,12804,132,132,114,0.3,15064,11.55,15.82,29975,308,32059
+Kitchen and Dining,Spoons,Great,12/2/18,13140,0,13140,132,132,117,0.27,15459,14.78,15.75,38299,361,40961
+Kitchen and Dining,Spoons,Great,11/25/18,7494.74,189.74,7305,79,77,70,0.19,8594,13.86,16.66,37549,339,40159
+Kitchen and Dining,Spoons,Great,11/18/18,3282.41,109.41,3173,30,29,30,0.09,3733,13.4,20.79,33134,295,35438
+Kitchen and Dining,Spoons,Great,11/11/18,3095.28,229.28,2866,27,25,25,0.12,3372,23.64,20.37,23049,192,24652
+Kitchen and Dining,Spoons,Great,11/4/18,4334.48,144.48,4190,30,29,32,0.17,4929,27.03,26.11,18218,141,19485
+Kitchen and Dining,Spoons,Great,10/28/18,4559,0,4559,42,42,35,0.24,5364,22.1,29.19,18802,137,20109
+Kitchen and Dining,Spoons,Great,10/21/18,5702.6,107.6,5595,53,52,48,0.23,6582,19.25,24.08,24003,178,25672
+Kitchen and Dining,Spoons,Great,10/14/18,6924.92,104.92,6820,66,65,62,0.23,8024,12.71,19.18,29315,223,31353
+Kitchen and Dining,Spoons,Great,10/7/18,6583.28,101.28,6482,65,64,64,0.2,7626,11.24,13.51,32800,253,35080
+Kitchen and Dining,Spoons,OK,1/13/19,688,0,688,7,7,8,0.1,809,10.7,21.14,5768,67,6169
+Kitchen and Dining,Spoons,OK,1/6/19,2177.7,103.7,2074,21,20,20,0.22,2440,9.16,15.4,6175,71,6605
+Kitchen and Dining,Spoons,OK,12/30/18,1579,0,1579,21,21,19,0.25,1858,10.93,14.07,5213,63,5575
+Kitchen and Dining,Spoons,OK,12/23/18,2653,0,2653,27,27,27,0.27,3121,5.54,10.85,6037,74,6456
+Kitchen and Dining,Spoons,OK,12/16/18,4885,0,4885,34,34,33,0.3,5747,8.24,8.68,6401,78,6846
+Kitchen and Dining,Spoons,OK,12/9/18,2926,0,2926,23,23,22,0.34,3442,13.17,12.18,3904,45,4175
+Kitchen and Dining,Spoons,OK,12/2/18,2602,0,2602,24,24,22,0.33,3061,9.16,13.23,5212,48,5574
+Kitchen and Dining,Spoons,OK,11/25/18,1169,0,1169,13,13,12,0.22,1375,15.48,13.16,5431,47,5808
+Kitchen and Dining,Spoons,OK,11/18/18,347,0,347,3,3,3,0.07,408,4.24,19.25,4462,40,4772
+Kitchen and Dining,Spoons,OK,11/11/18,573,0,573,5,5,5,0.15,674,1.93,15.33,3537,29,3782
+Kitchen and Dining,Spoons,OK,11/4/18,156,0,156,2,2,3,0.17,184,23.02,20.16,1271,10,1359
+Kitchen and Dining,Spoons,OK,10/28/18,430,0,430,3,3,4,0.21,506,13.63,31.64,1289,11,1379
+Kitchen and Dining,Spoons,OK,10/21/18,1195,0,1195,8,8,8,0.36,1406,22.48,26.53,1796,14,1921
+Kitchen and Dining,Spoons,OK,10/14/18,763,0,763,8,8,7,0.28,898,18.1,21.7,2782,21,2975
+Kitchen and Dining,Spoons,OK,10/7/18,768,0,768,10,10,9,0.29,904,7.93,14.7,3091,25,3306
+Kitchen and Dining,Casual Glasses,Perfect,1/13/19,655,0,655,3,3,3,0.07,873,128.13,165.83,4741,38,7902
+Kitchen and Dining,Casual Glasses,Perfect,1/6/19,606.67,151.67,455,4,3,3,0.07,607,139.68,158.9,5462,41,9103
+Kitchen and Dining,Casual Glasses,Perfect,12/30/18,267,0,267,3,3,3,0.06,356,67.61,148.33,5962,44,9937
+Kitchen and Dining,Casual Glasses,Perfect,12/23/18,0,38,-38,0,-1,0,-0.02,-51,0,145.95,6244,46,10406
+Kitchen and Dining,Casual Glasses,Perfect,12/16/18,303.75,60.75,243,5,4,4,0.08,324,138.68,134.4,6244,46,10406
+Kitchen and Dining,Casual Glasses,Perfect,12/9/18,145,0,145,3,3,3,0.06,193,166.63,137.2,6152,45,10254
+Kitchen and Dining,Casual Glasses,Perfect,12/2/18,243,0,243,3,3,3,0.06,324,124.74,131.46,6312,48,10520
+Kitchen and Dining,Casual Glasses,Perfect,11/25/18,117,0,117,2,2,2,0.04,156,78.93,127.05,6384,49,10641
+Kitchen and Dining,Casual Glasses,Perfect,11/18/18,156,78,78,2,1,1,0.02,104,58.06,129.5,6520,51,10866
+Kitchen and Dining,Casual Glasses,Perfect,11/11/18,210,0,210,2,2,2,0.04,280,17.33,120.61,6563,51,10938
+Kitchen and Dining,Casual Glasses,Perfect,11/4/18,8,0,8,1,1,1,0.02,11,49.36,116.69,6853,53,11422
+Kitchen and Dining,Casual Glasses,Perfect,10/28/18,0,111,-111,0,-1,0,-0.02,-148,0,110.53,6862,54,11436
+Kitchen and Dining,Casual Glasses,Perfect,10/21/18,754.67,188.67,566,4,3,3,0.06,755,99.02,109.34,6665,52,11108
+Kitchen and Dining,Casual Glasses,Perfect,10/14/18,140,0,140,1,1,1,0.02,187,34.27,107.94,6940,53,11567
+Kitchen and Dining,Casual Glasses,Perfect,10/7/18,392,196,196,2,1,1,0.02,261,2.62,104.44,6970,52,11616
+Kitchen and Dining,Casual Glasses,Great,1/13/19,0,0,0,0,0,0,0,0,0,126.07,1472,18,2453
+Kitchen and Dining,Casual Glasses,Great,1/6/19,80,40,40,2,1,1,0.05,53,138.83,121.45,1472,18,2453
+Kitchen and Dining,Casual Glasses,Great,12/30/18,431.67,172.67,259,5,3,3,0.13,345,35.88,105.84,1623,20,2704
+Kitchen and Dining,Casual Glasses,Great,12/23/18,0,0,0,0,0,0,0,0,0,101.36,1943,23,3238
+Kitchen and Dining,Casual Glasses,Great,12/16/18,70,35,35,2,1,1,0.04,47,31.72,95.13,1943,23,3238
+Kitchen and Dining,Casual Glasses,Great,12/9/18,0,0,0,0,0,0,0,0,0,92.96,1849,23,3082
+Kitchen and Dining,Casual Glasses,Great,12/2/18,86,0,86,1,1,1,0.04,115,104.8,88.41,1849,23,3082
+Kitchen and Dining,Casual Glasses,Great,11/25/18,98,49,49,2,1,1,0.04,65,65.53,82.67,1925,24,3208
+Kitchen and Dining,Casual Glasses,Great,11/18/18,0,0,0,0,0,0,0,0,0,75.53,1995,25,3326
+Kitchen and Dining,Casual Glasses,Great,11/11/18,0,0,0,0,0,0,0,0,0,70.63,1995,25,3326
+Kitchen and Dining,Casual Glasses,Great,11/4/18,0,0,0,0,0,0,0,0,0,65.73,1995,25,3326
+Kitchen and Dining,Casual Glasses,Great,10/28/18,0,0,0,0,0,0,0,0,0,63.42,1835,23,3058
+Kitchen and Dining,Casual Glasses,Great,10/21/18,0,0,0,0,0,0,0,0,0,61.11,1835,23,3058
+Kitchen and Dining,Casual Glasses,Great,10/14/18,107,0,107,1,1,1,0.04,143,16.94,57.96,1835,23,3058
+Kitchen and Dining,Casual Glasses,Great,10/7/18,440,220,220,4,2,2,0.12,293,22.64,78.05,1604,15,2673
+Kitchen and Dining,Casual Glasses,OK,1/13/19,0,64,-64,0,-1,0,-0.5,-85,0,265.86,175,3,292
+Kitchen and Dining,Casual Glasses,OK,1/6/19,0,0,0,0,0,0,0,0,0,65.1,112,2,187
+Kitchen and Dining,Casual Glasses,OK,12/30/18,0,0,0,0,0,0,0,0,0,60.2,112,2,187
+Kitchen and Dining,Casual Glasses,OK,12/23/18,64,0,64,1,1,1,0.33,85,484.02,184.94,112,2,187
+Kitchen and Dining,Casual Glasses,OK,12/16/18,0,0,0,0,0,0,0,0,0,180.95,175,3,292
+Kitchen and Dining,Casual Glasses,OK,12/9/18,0,0,0,0,0,0,0,0,0,176.05,175,3,292
+Kitchen and Dining,Casual Glasses,OK,12/2/18,0,0,0,0,0,0,0,0,0,171.15,175,3,292
+Kitchen and Dining,Casual Glasses,OK,11/25/18,0,0,0,0,0,0,0,0,0,166.25,175,3,292
+Kitchen and Dining,Casual Glasses,OK,11/18/18,0,0,0,0,0,0,0,0,0,161.35,175,3,292
+Kitchen and Dining,Casual Glasses,OK,11/11/18,0,0,0,0,0,0,0,0,0,156.45,175,3,292
+Kitchen and Dining,Casual Glasses,OK,11/4/18,280,0,280,1,1,1,0.25,373,44.81,124.04,175,3,292
+Kitchen and Dining,Casual Glasses,OK,10/28/18,0,0,0,0,0,0,0,0,0,120.05,468,4,779
+Kitchen and Dining,Casual Glasses,OK,10/21/18,0,0,0,0,0,0,0,0,0,115.15,422,3,704
+Kitchen and Dining,Casual Glasses,OK,10/14/18,0,0,0,0,0,0,0,0,0,148.54,422,3,704
+Kitchen and Dining,Casual Glasses,OK,10/7/18,47,0,47,1,1,1,0.25,63,24.1,113.4,422,3,704
+Kitchen and Dining,Bowls,Perfect,1/13/19,291,0,291,3,3,3,0.33,728,71.15,190.4,541,6,1230
+Kitchen and Dining,Bowls,Perfect,1/6/19,171,57,114,3,2,2,0.2,285,105.88,169.96,793,8,1803
+Kitchen and Dining,Bowls,Perfect,12/30/18,314.4,52.4,262,6,5,6,0.33,655,26.41,117.04,919,10,2088
+Kitchen and Dining,Bowls,Perfect,12/23/18,343,0,343,4,4,5,0.21,858,90.71,110.88,1334,15,3033
+Kitchen and Dining,Bowls,Perfect,12/16/18,833,0,833,7,7,8,0.29,2083,13.32,91.35,1376,17,3128
+Kitchen and Dining,Bowls,Perfect,12/9/18,473,0,473,9,9,10,0.3,1183,120.35,103.88,1837,21,4175
+Kitchen and Dining,Bowls,Perfect,12/2/18,1110,0,1110,17,17,16,0.41,2775,126.43,124.6,1854,25,4213
+Kitchen and Dining,Bowls,Perfect,11/25/18,491,0,491,8,8,7,0.18,1228,133.06,125.16,2738,36,6223
+Kitchen and Dining,Bowls,Perfect,11/18/18,422.33,60.33,362,7,6,5,0.12,905,9.93,115.08,3335,44,7580
+Kitchen and Dining,Bowls,Perfect,11/11/18,246.67,61.67,185,4,3,4,0.06,463,166.94,113.54,3446,45,7833
+Kitchen and Dining,Bowls,Perfect,11/4/18,117.6,19.6,98,6,5,5,0.1,245,118.58,116.9,3581,46,8138
+Kitchen and Dining,Bowls,Perfect,10/28/18,165,55,110,3,2,3,0.04,275,126.28,123.83,3260,46,7410
+Kitchen and Dining,Bowls,Perfect,10/21/18,451,0,451,6,6,7,0.12,1128,62.14,116.55,2885,44,6558
+Kitchen and Dining,Bowls,Perfect,10/14/18,457.5,91.5,366,5,4,5,0.08,915,37.27,115.99,3046,45,6923
+Kitchen and Dining,Bowls,Perfect,10/7/18,365,0,365,6,6,6,0.14,913,81.08,122.99,2641,38,6003
+Kitchen and Dining,Bowls,Great,1/13/19,77,0,77,1,1,1,0.33,193,252.02,107.59,146,2,333
+Kitchen and Dining,Bowls,Great,1/6/19,0,0,0,0,0,0,0,0,0,103.88,231,3,525
+Kitchen and Dining,Bowls,Great,12/30/18,100.5,33.5,67,3,2,2,0.4,168,19.64,87.92,231,3,525
+Kitchen and Dining,Bowls,Great,12/23/18,0,0,0,0,0,0,0,0,0,83.86,297,5,675
+Kitchen and Dining,Bowls,Great,12/16/18,237,79,158,3,2,2,0.29,395,233.16,101.5,297,5,675
+Kitchen and Dining,Bowls,Great,12/9/18,174,87,87,4,2,2,0.25,218,141.83,108.78,358,6,813
+Kitchen and Dining,Bowls,Great,12/2/18,87,58,29,3,1,2,0.11,73,194.5,117.6,448,8,1018
+Kitchen and Dining,Bowls,Great,11/25/18,377.5,75.5,302,5,4,4,0.36,755,33.5,97.58,411,7,935
+Kitchen and Dining,Bowls,Great,11/18/18,174,116,58,3,1,1,0.1,145,196.58,116.55,650,9,1478
+Kitchen and Dining,Bowls,Great,11/11/18,58,0,58,1,1,1,0.1,145,55.52,111.37,538,9,1223
+Kitchen and Dining,Bowls,Great,11/4/18,57,19,38,3,2,3,0.18,95,90.71,117.46,538,9,1223
+Kitchen and Dining,Bowls,Great,10/28/18,242,121,121,2,1,2,0.08,303,64.14,96.46,658,12,1495
+Kitchen and Dining,Bowls,Great,10/21/18,442.5,88.5,354,5,4,4,0.29,885,67.38,81.27,640,10,1455
+Kitchen and Dining,Bowls,Great,10/14/18,0,0,0,0,0,0,0,0,0,76.93,939,13,2135
+Kitchen and Dining,Bowls,Great,10/7/18,243,81,162,3,2,2,0.17,405,94.09,99.96,480,10,1090
+Kitchen and Dining,Bowls,OK,1/13/19,0,0,0,0,0,0,0,0,0,74.9,116,2,263
+Kitchen and Dining,Bowls,OK,1/6/19,0,0,0,0,0,0,0,0,0,70,116,2,263
+Kitchen and Dining,Bowls,OK,12/30/18,0,0,0,0,0,0,0,0,0,65.1,116,2,263
+Kitchen and Dining,Bowls,OK,12/23/18,0,0,0,0,0,0,0,0,0,60.2,116,2,263
+Kitchen and Dining,Bowls,OK,12/16/18,0,0,0,0,0,0,0,0,0,55.3,116,2,263
+Kitchen and Dining,Bowls,OK,12/9/18,129,0,129,3,3,3,0.6,323,67.76,57.75,116,2,263
+Kitchen and Dining,Bowls,OK,12/2/18,0,0,0,0,0,0,0,0,0,54.11,210,4,478
+Kitchen and Dining,Bowls,OK,11/25/18,0,0,0,0,0,0,0,0,0,62.72,210,4,478
+Kitchen and Dining,Bowls,OK,11/18/18,60,0,60,1,1,1,0.25,150,219.68,122.29,168,3,383
+Kitchen and Dining,Bowls,OK,11/11/18,0,0,0,0,0,0,0,0,0,135.52,219,3,498
+Kitchen and Dining,Bowls,OK,11/4/18,159,0,159,2,2,2,0.4,398,105.8,117.32,219,3,498
+Kitchen and Dining,Bowls,OK,10/28/18,0,0,0,0,0,0,0,0,0,113.26,446,5,1013
+Kitchen and Dining,Bowls,OK,10/21/18,0,0,0,0,0,0,0,0,0,136.36,281,4,638
+Kitchen and Dining,Bowls,OK,10/14/18,0,0,0,0,0,0,0,0,0,131.46,281,4,638
+Kitchen and Dining,Bowls,OK,10/7/18,0,0,0,0,0,0,0,0,0,126.56,281,4,638
+Kitchen and Dining,Forks,Perfect,1/13/19,288,96,192,3,2,2,0.25,320,30.72,63.07,603,6,1256
+Kitchen and Dining,Forks,Perfect,1/6/19,394,0,394,2,2,4,0.22,657,41.73,48.93,626,7,1304
+Kitchen and Dining,Forks,Perfect,12/30/18,261.6,43.6,218,6,5,10,0.33,363,68.84,61.74,1221,10,2544
+Kitchen and Dining,Forks,Perfect,12/23/18,1303,0,1303,11,11,12,0.52,2172,34.34,46.34,865,10,1801
+Kitchen and Dining,Forks,Perfect,12/16/18,5299,0,5299,35,35,34,0.63,8832,7.01,26.81,2136,21,4450
+Kitchen and Dining,Forks,Perfect,12/9/18,5421,0,5421,36,36,34,0.47,9035,27.18,23.24,5962,40,12421
+Kitchen and Dining,Forks,Perfect,12/2/18,2418.15,115.15,2303,21,20,20,0.46,3838,24.1,51.59,2254,24,4696
+Kitchen and Dining,Forks,Perfect,11/25/18,8450.65,153.65,8297,55,54,56,0.57,13828,4.93,24.78,4072,41,8484
+Kitchen and Dining,Forks,Perfect,11/18/18,6222,0,6222,39,39,39,0.33,10370,3.47,24.15,10588,79,22057
+Kitchen and Dining,Forks,Perfect,11/11/18,4383.33,175.33,4208,25,24,26,0.26,7013,3.23,19.81,8517,68,17744
+Kitchen and Dining,Forks,Perfect,11/4/18,3248,0,3248,22,22,23,0.33,5413,8.16,23.52,5233,44,10901
+Kitchen and Dining,Forks,Perfect,10/28/18,700,350,350,2,1,1,0.05,583,12.63,86.45,682,18,1421
+Kitchen and Dining,Forks,Perfect,10/21/18,681.33,170.33,511,4,3,3,0.14,852,105.57,83.65,869,19,1810
+Kitchen and Dining,Forks,Perfect,10/14/18,1541.71,192.71,1349,8,7,7,0.26,2248,6.39,75.39,1212,20,2525
+Kitchen and Dining,Forks,Perfect,10/7/18,2671.07,178.07,2493,15,14,15,0.34,4155,3.31,44.31,2597,27,5411
+Kitchen and Dining,Forks,Great,1/13/19,170,0,170,2,2,3,0.67,283,198.74,118.93,30,1,62
+Kitchen and Dining,Forks,Great,1/6/19,48.49,48.49,0,2,0,1,0,0,21.79,115.5,219,3,456
+Kitchen and Dining,Forks,Great,12/30/18,30.26,261.26,-231,2,0,3,0,-385,25.72,74.34,79,2,165
+Kitchen and Dining,Forks,Great,12/23/18,631,0,631,4,4,4,0.57,1052,18.94,73.64,153,3,319
+Kitchen and Dining,Forks,Great,12/16/18,2382.86,158.86,2224,15,14,15,0.67,3707,5.01,36.05,893,7,1861
+Kitchen and Dining,Forks,Great,12/9/18,865.67,123.67,742,7,6,6,0.4,1237,7.93,26.18,1539,9,3206
+Kitchen and Dining,Forks,Great,12/2/18,460.8,76.8,384,6,5,7,0.42,640,28.18,44.03,666,7,1386
+Kitchen and Dining,Forks,Great,11/25/18,1779,0,1779,15,15,16,0.58,2965,18.17,33.04,807,11,1682
+Kitchen and Dining,Forks,Great,11/18/18,3044.8,276.8,2768,22,20,20,0.44,4613,3.08,27.23,2803,25,5839
+Kitchen and Dining,Forks,Great,11/11/18,2622.31,187.31,2435,14,13,13,0.3,4058,4.47,20.16,3617,30,7535
+Kitchen and Dining,Forks,Great,11/4/18,496,0,496,2,2,2,0.22,827,0.46,56,847,7,1765
+Kitchen and Dining,Forks,Great,10/28/18,0,252,-252,0,-1,0,-0.33,-420,0,128.03,265,4,552
+Kitchen and Dining,Forks,Great,10/21/18,755,302,453,5,3,3,0.43,755,48.66,121.66,265,4,552
+Kitchen and Dining,Forks,Great,10/14/18,1234.67,308.67,926,4,3,3,0.3,1543,7.32,98.14,669,7,1393
+Kitchen and Dining,Forks,Great,10/7/18,1363,0,1363,10,10,10,0.5,2272,1.62,41.37,1575,10,3282
+Kitchen and Dining,Forks,OK,1/13/19,90,0,90,1,1,1,1,150,51.74,47.11,0,0,0
+Kitchen and Dining,Forks,OK,1/6/19,247,0,247,1,1,2,0.5,412,21.02,26.04,99,1,206
+Kitchen and Dining,Forks,OK,12/30/18,0,350,-350,0,-2,0,2,-583,0,28.63,99,1,206
+Kitchen and Dining,Forks,OK,12/23/18,0,-272,272,0,0,1,,453,7.93,15.05,0,0,0
+Kitchen and Dining,Forks,OK,12/16/18,1798.89,179.89,1619,10,9,9,0.9,2698,3.39,4.55,422,1,880
+Kitchen and Dining,Forks,OK,12/9/18,612,0,612,7,7,7,0.58,1020,13.94,7.91,1173,5,2443
+Kitchen and Dining,Forks,OK,12/2/18,348,0,348,4,4,4,0.4,580,12.01,14.77,504,6,1050
+Kitchen and Dining,Forks,OK,11/25/18,1298,0,1298,11,11,11,0.52,2163,3.7,7.35,865,10,1801
+Kitchen and Dining,Forks,OK,11/18/18,218,0,218,2,2,2,0.1,363,6.08,6.02,1796,18,3742
+Kitchen and Dining,Forks,OK,11/11/18,660,220,440,3,2,2,0.17,733,1.54,2.94,956,10,1991
+Kitchen and Dining,Forks,OK,11/4/18,0,0,0,0,0,0,0,0,0,0.84,386,2,804
+Kitchen and Dining,Forks,OK,10/14/18,111,0,111,1,1,1,1,185,2.46,3.15,0,0,0
+Kitchen and Dining,Forks,OK,10/7/18,112,56,56,2,1,1,0.5,93,4.85,3.43,131,1,273
+Kitchen and Dining,Plates,Perfect,1/13/19,336.25,67.25,269,5,4,4,0.06,408,87.47,80.57,6400,64,8815
+Kitchen and Dining,Plates,Perfect,1/6/19,0,0,0,0,0,0,0,0,0,75.74,6749,68,9295
+Kitchen and Dining,Plates,Perfect,12/30/18,122,0,122,1,1,1,0.01,185,7.93,70,6749,68,9295
+Kitchen and Dining,Plates,Perfect,12/23/18,109.5,36.5,73,3,2,3,0.03,111,9.78,64.47,6719,67,9255
+Kitchen and Dining,Plates,Perfect,12/16/18,396.67,56.67,340,7,6,6,0.08,515,27.57,58.45,6636,68,9141
+Kitchen and Dining,Plates,Perfect,12/9/18,369,0,369,6,6,6,0.08,559,26.03,55.09,6262,66,8626
+Kitchen and Dining,Plates,Perfect,12/2/18,546,91,455,6,5,5,0.07,689,48.74,53.62,6335,69,8726
+Kitchen and Dining,Plates,Perfect,11/25/18,202.5,67.5,135,3,2,3,0.03,205,15.4,48.09,6355,67,8753
+Kitchen and Dining,Plates,Perfect,11/18/18,212,0,212,4,4,4,0.05,321,17.48,46.55,6601,70,9092
+Kitchen and Dining,Plates,Perfect,11/11/18,416.25,83.25,333,5,4,4,0.05,505,10.24,40.11,6746,71,9292
+Kitchen and Dining,Plates,Perfect,11/4/18,507,0,507,8,8,7,0.1,768,46.97,38.64,6639,71,9144
+Kitchen and Dining,Plates,Perfect,10/28/18,220,55,165,4,3,3,0.05,250,4.54,46.9,4305,54,5930
+Kitchen and Dining,Plates,Perfect,10/21/18,302,0,302,5,5,6,0.08,458,7.32,42,4349,55,5991
+Kitchen and Dining,Plates,Perfect,10/14/18,195,65,130,3,2,2,0.04,197,37.96,41.16,4183,52,5762
+Kitchen and Dining,Plates,Perfect,10/7/18,104,0,104,1,1,1,0.02,158,3.31,36.82,3878,47,5341
+Kitchen and Dining,Plates,Great,1/13/19,205.33,51.33,154,4,3,3,0.16,233,201.43,108.29,1544,16,2127
+Kitchen and Dining,Plates,Great,1/6/19,0,0,0,0,0,0,0,0,0,103.74,1724,19,2374
+Kitchen and Dining,Plates,Great,12/30/18,0,0,0,0,0,0,0,0,0,98.84,1724,19,2374
+Kitchen and Dining,Plates,Great,12/23/18,0,0,0,0,0,0,0,0,0,93.94,1724,19,2374
+Kitchen and Dining,Plates,Great,12/16/18,133.5,44.5,89,3,2,2,0.1,135,0.85,82.81,1724,19,2374
+Kitchen and Dining,Plates,Great,12/9/18,0,0,0,0,0,0,0,0,0,80.01,1724,19,2374
+Kitchen and Dining,Plates,Great,12/2/18,313,0,313,4,4,4,0.17,474,5.78,66.64,1724,19,2374
+Kitchen and Dining,Plates,Great,11/25/18,187,0,187,3,3,3,0.13,283,26.1,60.27,1905,21,2624
+Kitchen and Dining,Plates,Great,11/18/18,22.17,12.17,10,1,0,1,0,15,2.46,58.73,1999,23,2753
+Kitchen and Dining,Plates,Great,11/11/18,0,0,0,0,0,0,0,0,0,53.83,1823,21,2511
+Kitchen and Dining,Plates,Great,11/4/18,366.67,146.67,220,5,3,3,0.13,333,23.56,52.36,1799,20,2477
+Kitchen and Dining,Plates,Great,10/28/18,270,135,135,2,1,1,0.05,205,1.62,53.55,1661,19,2288
+Kitchen and Dining,Plates,Great,10/21/18,276,69,207,4,3,3,0.14,314,5.47,45.36,1557,18,2144
+Kitchen and Dining,Plates,Great,10/14/18,562.5,112.5,450,5,4,4,0.17,682,49.67,45.08,1727,20,2379
+Kitchen and Dining,Plates,Great,10/7/18,360,180,180,2,1,1,0.04,273,1.77,42.7,1998,22,2752
+Kitchen and Dining,Plates,OK,1/13/19,0,0,0,0,0,0,0,0,0,98.49,135,5,186
+Kitchen and Dining,Plates,OK,1/6/19,0,56,-56,0,-1,0,-0.25,-85,0,88.27,135,5,186
+Kitchen and Dining,Plates,OK,12/30/18,0,0,0,0,0,0,0,0,0,88.69,135,5,186
+Kitchen and Dining,Plates,OK,12/23/18,0,0,0,0,0,0,0,0,0,83.79,135,5,186
+Kitchen and Dining,Plates,OK,12/16/18,0,0,0,0,0,0,0,0,0,78.89,135,5,186
+Kitchen and Dining,Plates,OK,12/9/18,0,0,0,0,0,0,0,0,0,73.99,135,5,186
+Kitchen and Dining,Plates,OK,12/2/18,179,0,179,2,2,2,0.29,271,21.48,55.37,135,5,186
+Kitchen and Dining,Plates,OK,11/25/18,64,0,64,1,1,1,0.13,97,10.24,46.13,270,7,371
+Kitchen and Dining,Plates,OK,11/18/18,121,0,121,3,3,3,0.27,183,3.85,31.64,344,8,474
+Kitchen and Dining,Plates,OK,11/11/18,0,0,0,0,0,0,0,0,0,28.77,435,9,598
+Kitchen and Dining,Plates,OK,11/4/18,120,0,120,2,2,1,0.29,182,1.46,31.85,234,5,323
+Kitchen and Dining,Plates,OK,10/28/18,0,0,0,0,0,0,0,0,0,32.06,309,6,426
+Kitchen and Dining,Plates,OK,10/21/18,0,0,0,0,0,0,0,0,0,68.88,101,3,139
+Kitchen and Dining,Plates,OK,10/14/18,56,0,56,1,1,1,0.25,85,0.23,55.09,101,3,139
+Kitchen and Dining,Plates,OK,10/7/18,78,0,78,1,1,1,0.25,118,0.15,44.59,101,3,139
+Kitchen and Dining,Appliances,Perfect,1/13/19,72,0,72,4,4,6,0.06,131,21.64,71.61,2690,66,6113
+Kitchen and Dining,Appliances,Perfect,1/6/19,138,0,138,6,6,7,0.08,251,42.12,70.77,2654,66,6033
+Kitchen and Dining,Appliances,Perfect,12/30/18,656,0,656,11,11,12,0.13,1193,86.32,65.52,2809,72,6385
+Kitchen and Dining,Appliances,Perfect,12/23/18,1052,0,1052,20,20,18,0.21,1913,20.79,57.54,3167,74,7198
+Kitchen and Dining,Appliances,Perfect,12/16/18,1260.46,43.46,1217,29,28,25,0.24,2213,38.65,54.11,4061,88,9230
+Kitchen and Dining,Appliances,Perfect,12/9/18,1171.85,41.85,1130,28,27,24,0.22,2055,77,57.54,4297,94,9765
+Kitchen and Dining,Appliances,Perfect,12/2/18,1475.6,47.6,1428,31,30,27,0.24,2596,31.88,65.45,4293,95,9758
+Kitchen and Dining,Appliances,Perfect,11/25/18,930,0,930,20,20,19,0.15,1691,49.74,61.46,5421,117,12320
+Kitchen and Dining,Appliances,Perfect,11/18/18,863.57,57.57,806,15,14,12,0.1,1465,37.81,63.21,5584,126,12690
+Kitchen and Dining,Appliances,Perfect,11/11/18,750.2,68.2,682,11,10,10,0.07,1240,14.71,57.68,5869,127,13338
+Kitchen and Dining,Appliances,Perfect,11/4/18,1113,0,1113,16,16,16,0.12,2024,25.03,56.77,5754,121,13078
+Kitchen and Dining,Appliances,Perfect,10/28/18,829,0,829,12,12,11,0.09,1507,17.71,53.06,6340,127,14410
+Kitchen and Dining,Appliances,Perfect,10/21/18,1569.08,112.08,1457,14,13,12,0.09,2649,4.54,50.47,6140,125,13955
+Kitchen and Dining,Appliances,Perfect,10/14/18,785.25,87.25,698,9,8,9,0.06,1269,57.44,50.05,7066,128,16060
+Kitchen and Dining,Appliances,Perfect,10/7/18,862,0,862,10,10,10,0.08,1567,37.96,55.58,5630,110,12795
+Kitchen and Dining,Appliances,Great,1/13/19,90,0,90,5,5,5,0.08,164,41.66,75.46,1522,62,3460
+Kitchen and Dining,Appliances,Great,1/6/19,423.75,84.75,339,5,4,4,0.06,616,63.06,72.24,1580,65,3590
+Kitchen and Dining,Appliances,Great,12/30/18,-172.5,-57.5,-115,3,2,4,0.03,-209,38.42,65.87,1668,67,3790
+Kitchen and Dining,Appliances,Great,12/23/18,285,0,285,6,6,6,0.08,518,31.72,60.9,1755,67,3988
+Kitchen and Dining,Appliances,Great,12/16/18,203,0,203,3,3,3,0.04,369,1.16,56.42,2067,73,4698
+Kitchen and Dining,Appliances,Great,12/9/18,530.83,40.83,490,13,12,12,0.16,891,37.35,52.15,1731,64,3935
+Kitchen and Dining,Appliances,Great,12/2/18,686.64,105.64,581,13,11,11,0.14,1056,31.03,54.81,2056,67,4673
+Kitchen and Dining,Appliances,Great,11/25/18,166.67,41.67,125,4,3,3,0.04,227,8.7,50.68,2272,71,5163
+Kitchen and Dining,Appliances,Great,11/18/18,105,0,105,2,2,2,0.03,191,3.39,53.34,2166,67,4923
+Kitchen and Dining,Appliances,Great,11/11/18,549.71,68.71,481,8,7,7,0.1,875,48.9,48.23,2240,67,5090
+Kitchen and Dining,Appliances,Great,11/4/18,386.25,77.25,309,5,4,4,0.06,562,25.26,47.04,2440,68,5545
+Kitchen and Dining,Appliances,Great,10/28/18,307,0,307,5,5,4,0.07,558,14.94,41.44,2321,69,5275
+Kitchen and Dining,Appliances,Great,10/21/18,326,0,326,4,4,4,0.06,593,19.1,39.2,2368,68,5383
+Kitchen and Dining,Appliances,Great,10/14/18,100,50,50,2,1,2,0.01,91,79.16,36.89,2593,69,5893
+Kitchen and Dining,Appliances,Great,10/7/18,477.5,95.5,382,5,4,3,0.06,695,15.63,33.18,2427,66,5515
+Kitchen and Dining,Appliances,OK,1/13/19,123,0,123,3,3,3,0.43,224,44.97,66.08,349,4,793
+Kitchen and Dining,Appliances,OK,1/6/19,183,0,183,4,4,4,0.36,333,57.21,59.5,484,7,1100
+Kitchen and Dining,Appliances,OK,12/30/18,0,38,-38,0,0,1,0,-69,37.19,53.2,620,10,1410
+Kitchen and Dining,Appliances,OK,12/23/18,83,0,83,2,2,2,0.17,151,25.64,48.93,584,10,1328
+Kitchen and Dining,Appliances,OK,12/16/18,63,0,63,3,3,3,0.2,115,5.31,40.25,672,12,1528
+Kitchen and Dining,Appliances,OK,12/9/18,157.33,39.33,118,4,3,3,0.23,215,31.26,34.3,625,10,1420
+Kitchen and Dining,Appliances,OK,12/2/18,172,86,86,2,1,2,0.08,156,59.21,46.41,738,12,1678
+Kitchen and Dining,Appliances,OK,11/25/18,0,0,0,0,0,0,0,0,0,42.77,811,12,1843
+Kitchen and Dining,Appliances,OK,11/18/18,184,0,184,3,3,3,0.21,335,75.85,48.51,784,11,1783
+Kitchen and Dining,Appliances,OK,11/11/18,-5,0,-5,-1,-1,1,-0.08,-9,25.1,43.4,956,13,2173
+Kitchen and Dining,Appliances,OK,11/4/18,106,0,106,1,1,1,0.08,193,46.59,47.25,844,11,1918
+Kitchen and Dining,Appliances,OK,10/28/18,207,69,138,3,2,2,0.14,251,39.58,41.86,968,12,2200
+Kitchen and Dining,Appliances,OK,10/21/18,13.98,89.98,-76,1,0,1,0,-138,22.72,36.4,1016,14,2310
+Kitchen and Dining,Appliances,OK,10/14/18,151,0,151,1,1,1,0.07,275,7.93,33.32,895,13,2035
+Kitchen and Dining,Appliances,OK,10/7/18,83,0,83,1,1,1,0.07,151,4.85,26.18,1007,14,2288
+Outdoor Furniture,Dining Tables,Perfect,1/13/19,373.33,23.33,350,16,15,12,0.06,455,119.97,145.46,6101,252,9904
+Outdoor Furniture,Dining Tables,Perfect,1/6/19,362,0,362,16,16,12,0.06,470,130.13,139.23,6486,267,10529
+Outdoor Furniture,Dining Tables,Perfect,12/30/18,181.13,20.13,161,9,8,6,0.03,209,124.36,134.68,6747,281,10954
+Outdoor Furniture,Dining Tables,Perfect,12/23/18,204.57,25.57,179,8,7,7,0.02,232,212.52,132.37,6819,285,11070
+Outdoor Furniture,Dining Tables,Perfect,12/16/18,94,0,94,6,6,5,0.02,122,75.85,124.88,6958,290,11295
+Outdoor Furniture,Dining Tables,Perfect,12/9/18,236.57,29.57,207,8,7,9,0.02,269,98.79,119,6937,291,11261
+Outdoor Furniture,Dining Tables,Perfect,12/2/18,288,0,288,13,13,10,0.04,374,109.26,118.16,6915,293,11225
+Outdoor Furniture,Dining Tables,Perfect,11/25/18,226.33,32.33,194,7,6,7,0.02,252,90.09,114.24,7119,302,11557
+Outdoor Furniture,Dining Tables,Perfect,11/18/18,222.55,18.55,204,12,11,11,0.04,265,95.33,116.62,7191,300,11673
+Outdoor Furniture,Dining Tables,Perfect,11/11/18,219.43,27.43,192,8,7,5,0.02,249,157.85,114.87,7137,299,11586
+Outdoor Furniture,Dining Tables,Perfect,11/4/18,147,0,147,8,8,9,0.03,191,83.93,109.62,7165,302,11632
+Outdoor Furniture,Dining Tables,Perfect,10/28/18,41,0,41,1,1,2,0,53,147.3,106.54,7124,305,11564
+Outdoor Furniture,Dining Tables,Perfect,10/21/18,59,0,59,3,3,3,0.01,77,171.25,105.63,6905,296,11209
+Outdoor Furniture,Dining Tables,Perfect,10/14/18,70,0,70,3,3,4,0.01,91,55.36,104.37,6667,288,10823
+Outdoor Furniture,Dining Tables,Perfect,10/7/18,134.17,19.17,115,7,6,6,0.02,149,129.51,101.78,6463,281,10491
+Outdoor Furniture,Dining Tables,Great,1/13/19,24,0,24,1,1,1,0.03,31,74.84,134.96,794,30,1289
+Outdoor Furniture,Dining Tables,Great,1/6/19,0,0,0,0,0,0,0,0,0,130.13,822,31,1334
+Outdoor Furniture,Dining Tables,Great,12/30/18,0,0,0,0,0,0,0,0,0,134.05,739,29,1200
+Outdoor Furniture,Dining Tables,Great,12/23/18,80,40,40,2,1,1,0.03,52,63.37,126.91,739,29,1200
+Outdoor Furniture,Dining Tables,Great,12/16/18,0,0,0,0,0,0,0,0,0,119.35,779,30,1264
+Outdoor Furniture,Dining Tables,Great,12/9/18,35,0,35,2,2,2,0.06,45,18.79,108.57,779,30,1264
+Outdoor Furniture,Dining Tables,Great,12/2/18,48,24,24,2,1,1,0.03,31,88.7,103.04,816,32,1325
+Outdoor Furniture,Dining Tables,Great,11/25/18,31.4,25.4,6,2,0,1,0,8,55.59,97.65,801,31,1300
+Outdoor Furniture,Dining Tables,Great,11/18/18,43.5,14.5,29,3,2,2,0.06,38,109.19,101.5,821,32,1332
+Outdoor Furniture,Dining Tables,Great,11/11/18,45,30,15,3,1,1,0.03,19,8.09,95.55,824,32,1338
+Outdoor Furniture,Dining Tables,Great,11/4/18,90,45,45,2,1,1,0.03,58,135.06,94.43,835,33,1355
+Outdoor Furniture,Dining Tables,Great,10/28/18,10.6,1.6,9,1,0,1,0,12,75.08,92.19,857,33,1391
+Outdoor Furniture,Dining Tables,Great,10/21/18,0,0,0,0,0,0,0,0,0,86.94,854,32,1386
+Outdoor Furniture,Dining Tables,Great,10/14/18,0,0,0,0,0,0,0,0,0,82.04,854,32,1386
+Outdoor Furniture,Dining Tables,Great,10/7/18,0,2,-2,0,0,1,0,-3,101.87,82.46,734,28,1191
+Outdoor Furniture,Dining Tables,OK,1/13/19,0,0,0,0,0,0,0,0,0,103.88,36,1,59
+Outdoor Furniture,Dining Tables,OK,1/6/19,64,0,64,2,2,2,0.67,83,105.57,98.07,36,1,59
+Outdoor Furniture,Dining Tables,OK,12/30/18,0,0,0,0,0,0,0,0,0,94.57,107,3,173
+Outdoor Furniture,Dining Tables,OK,12/23/18,0,0,0,0,0,0,0,0,0,89.67,107,3,173
+Outdoor Furniture,Dining Tables,OK,12/16/18,0,0,0,0,0,0,0,0,0,72.73,107,3,173
+Outdoor Furniture,Dining Tables,OK,12/9/18,0,0,0,0,0,0,0,0,0,67.83,107,3,173
+Outdoor Furniture,Dining Tables,OK,12/2/18,0,0,0,0,0,0,0,0,0,62.93,107,3,173
+Outdoor Furniture,Dining Tables,OK,11/25/18,20,0,20,1,1,1,0.25,26,275.35,96.74,107,3,173
+Outdoor Furniture,Dining Tables,OK,11/18/18,0,0,0,0,0,0,0,0,0,110.95,129,4,209
+Outdoor Furniture,Dining Tables,OK,11/11/18,0,0,0,0,0,0,0,0,0,106.05,129,4,209
+Outdoor Furniture,Dining Tables,OK,11/4/18,0,0,0,0,0,0,0,0,0,101.15,129,4,209
+Outdoor Furniture,Dining Tables,OK,10/28/18,0,0,0,0,0,0,0,0,0,80.29,129,4,209
+Outdoor Furniture,Dining Tables,OK,10/21/18,0,0,0,0,0,0,0,0,0,75.39,129,4,209
+Outdoor Furniture,Dining Tables,OK,10/14/18,0,0,0,0,0,0,0,0,0,70.49,129,4,209
+Outdoor Furniture,Dining Tables,OK,10/7/18,0,0,0,0,0,0,0,0,0,65.59,129,4,209
+Outdoor Furniture,Chairs,Perfect,1/13/19,781.52,35.52,746,22,21,15,0.08,848,178.95,142.17,10374,260,10717
+Outdoor Furniture,Chairs,Perfect,1/6/19,724.11,38.11,686,19,18,17,0.06,780,164.4,140,11092,277,11459
+Outdoor Furniture,Chairs,Perfect,12/30/18,811.06,45.06,766,18,17,13,0.05,870,58.44,133.42,11904,297,12298
+Outdoor Furniture,Chairs,Perfect,12/23/18,94,0,94,2,2,2,0.01,107,54.98,130.34,12390,309,12800
+Outdoor Furniture,Chairs,Perfect,12/16/18,441,0,441,12,12,9,0.04,501,123.89,130.06,12350,308,12758
+Outdoor Furniture,Chairs,Perfect,12/9/18,892.32,34.32,858,26,25,18,0.07,975,128.21,127.54,12646,314,13064
+Outdoor Furniture,Chairs,Perfect,12/2/18,1021.85,37.85,984,27,26,21,0.07,1118,127.44,124.81,13246,333,13684
+Outdoor Furniture,Chairs,Perfect,11/25/18,476,0,476,11,11,10,0.03,541,112.42,123.55,13763,343,14218
+Outdoor Furniture,Chairs,Perfect,11/18/18,455,0,455,14,14,13,0.04,517,114.96,118.58,13811,344,14267
+Outdoor Furniture,Chairs,Perfect,11/11/18,928.19,42.19,886,22,21,14,0.06,1007,49.59,112.63,13325,337,13766
+Outdoor Furniture,Chairs,Perfect,11/4/18,487,0,487,13,13,11,0.04,553,83.93,113.05,13220,333,13657
+Outdoor Furniture,Chairs,Perfect,10/28/18,576,0,576,15,15,11,0.04,655,64.22,110.6,13398,339,13841
+Outdoor Furniture,Chairs,Perfect,10/21/18,411,0,411,9,9,6,0.03,467,76.23,110.6,13199,338,13635
+Outdoor Furniture,Chairs,Perfect,10/14/18,1022.7,48.7,974,21,20,14,0.06,1107,65.45,107.45,13188,336,13624
+Outdoor Furniture,Chairs,Perfect,10/7/18,997.5,52.5,945,19,18,14,0.05,1074,60.37,105.49,13476,339,13922
+Outdoor Furniture,Chairs,Great,1/13/19,233.33,93.33,140,5,3,3,0.06,159,71.84,146.3,1852,45,1914
+Outdoor Furniture,Chairs,Great,1/6/19,234,78,156,6,4,4,0.08,177,157.47,141.96,2006,48,2073
+Outdoor Furniture,Chairs,Great,12/30/18,97.5,32.5,65,3,2,2,0.04,74,76,134.75,1987,49,2052
+Outdoor Furniture,Chairs,Great,12/23/18,121.5,40.5,81,3,2,2,0.04,92,64.53,140.35,1946,49,2010
+Outdoor Furniture,Chairs,Great,12/16/18,0,-4,4,0,0,1,0,5,46.28,135.45,2000,50,2066
+Outdoor Furniture,Chairs,Great,12/9/18,33,0,33,1,1,1,0.02,38,73.3,136.08,1904,48,1967
+Outdoor Furniture,Chairs,Great,12/2/18,150,30,120,5,4,4,0.08,136,124.05,130.83,1954,49,2018
+Outdoor Furniture,Chairs,Great,11/25/18,93,62,31,3,1,1,0.02,35,1.77,128.8,1969,51,2034
+Outdoor Furniture,Chairs,Great,11/18/18,90,45,45,2,1,1,0.02,51,55.59,125.65,1998,52,2064
+Outdoor Furniture,Chairs,Great,11/11/18,90,30,60,3,2,2,0.04,68,39.58,119.28,1981,51,2047
+Outdoor Furniture,Chairs,Great,11/4/18,72,36,36,2,1,1,0.02,41,15.63,112.84,2060,53,2128
+Outdoor Furniture,Chairs,Great,10/28/18,38.38,69.38,-31,1,0,1,0,-35,272.81,113.4,1962,50,2027
+Outdoor Furniture,Chairs,Great,10/21/18,153,102,51,3,1,1,0.02,58,4.7,118.51,1862,48,1924
+Outdoor Furniture,Chairs,Great,10/14/18,127,0,127,3,3,3,0.06,144,32.49,111.23,1879,48,1941
+Outdoor Furniture,Chairs,Great,10/7/18,78,0,78,2,2,2,0.04,89,23.95,105.56,1846,48,1907
+Outdoor Furniture,Chairs,OK,1/13/19,0,0,0,0,0,0,0,0,0,84.14,298,8,308
+Outdoor Furniture,Chairs,OK,1/6/19,0,0,0,0,0,0,0,0,0,79.24,259,7,267
+Outdoor Furniture,Chairs,OK,12/30/18,0,0,0,0,0,0,0,0,0,85.4,216,6,223
+Outdoor Furniture,Chairs,OK,12/23/18,0,0,0,0,0,0,0,0,0,94.71,216,6,223
+Outdoor Furniture,Chairs,OK,12/16/18,0,0,0,0,0,0,0,0,0,89.81,216,6,223
+Outdoor Furniture,Chairs,OK,12/9/18,57,0,57,2,2,2,0.25,65,283.59,129.64,216,6,223
+Outdoor Furniture,Chairs,OK,12/2/18,76,38,38,2,1,1,0.11,43,15.86,113.4,274,8,283
+Outdoor Furniture,Chairs,OK,11/25/18,42,0,42,1,1,1,0.1,48,15.79,99.54,323,9,334
+Outdoor Furniture,Chairs,OK,11/18/18,0,0,0,0,0,0,0,0,0,91.35,378,10,391
+Outdoor Furniture,Chairs,OK,11/11/18,0,0,0,0,0,0,0,0,0,83.3,378,10,391
+Outdoor Furniture,Chairs,OK,11/4/18,0,0,0,0,0,0,0,0,0,78.4,329,9,340
+Outdoor Furniture,Chairs,OK,10/28/18,0,0,0,0,0,0,0,0,0,90.72,274,8,283
+Outdoor Furniture,Chairs,OK,10/21/18,0,0,0,0,0,0,0,0,0,111.23,218,6,225
+Outdoor Furniture,Chairs,OK,10/14/18,29,0,29,1,1,1,0.14,33,37.04,117.39,218,6,225
+Outdoor Furniture,Chairs,OK,10/7/18,46,0,46,1,1,1,0.13,52,14.09,95.34,248,7,256
+Outdoor Furniture,Rugs,Perfect,1/13/19,12692,0,12692,160,160,163,0.05,21512,166.09,184.31,296896,3333,457466
+Outdoor Furniture,Rugs,Perfect,1/6/19,12520,0,12520,160,160,140,0.04,21220,177.72,178.57,310308,3485,478132
+Outdoor Furniture,Rugs,Perfect,12/30/18,7149.26,88.26,7061,81,80,85,0.02,11968,173.1,173.6,324202,3646,499541
+Outdoor Furniture,Rugs,Perfect,12/23/18,5746.79,89.79,5657,64,63,71,0.02,9588,177.64,169.19,328733,3707,506522
+Outdoor Furniture,Rugs,Perfect,12/16/18,6062,0,6062,61,61,67,0.02,10275,170.86,164.71,333240,3758,513466
+Outdoor Furniture,Rugs,Perfect,12/9/18,9197,0,9197,104,104,101,0.03,15588,145.45,160.37,334357,3763,515188
+Outdoor Furniture,Rugs,Perfect,12/2/18,6189,0,6189,70,70,79,0.02,10490,162.32,158.69,338491,3817,521558
+Outdoor Furniture,Rugs,Perfect,11/25/18,6393,0,6393,71,71,72,0.02,10836,191.96,155.68,341121,3846,525610
+Outdoor Furniture,Rugs,Perfect,11/18/18,4648.55,81.55,4567,57,56,55,0.01,7741,170.63,153.37,342411,3868,527598
+Outdoor Furniture,Rugs,Perfect,11/11/18,3445.02,82.02,3363,42,41,42,0.01,5700,142.76,149.87,339701,3843,523422
+Outdoor Furniture,Rugs,Perfect,11/4/18,2995,0,2995,36,36,40,0.01,5076,156.46,148.47,336918,3813,519134
+Outdoor Furniture,Rugs,Perfect,10/28/18,1401.44,82.44,1319,17,16,26,0,2236,133.13,145.39,333919,3794,514514
+Outdoor Furniture,Rugs,Perfect,10/21/18,2731,0,2731,26,26,26,0.01,4629,101.72,143.78,325674,3711,501808
+Outdoor Furniture,Rugs,Perfect,10/14/18,3626.45,88.45,3538,41,40,47,0.01,5997,140.99,143.01,317392,3627,489047
+Outdoor Furniture,Rugs,Perfect,10/7/18,6640,0,6640,60,60,58,0.02,11254,128.82,141.12,312490,3580,481495
+Outdoor Furniture,Rugs,Great,1/13/19,2589,0,2589,28,28,29,0.04,4388,102.8,156.38,59060,656,91002
+Outdoor Furniture,Rugs,Great,1/6/19,2513.14,162.14,2351,31,29,36,0.04,3985,156,153.02,61340,679,94515
+Outdoor Furniture,Rugs,Great,12/30/18,1573.93,104.93,1469,15,14,15,0.02,2490,181.87,147.98,61714,683,95092
+Outdoor Furniture,Rugs,Great,12/23/18,175,0,175,4,4,5,0.01,297,94.09,148.54,63258,698,97469
+Outdoor Furniture,Rugs,Great,12/16/18,856.9,77.9,779,11,10,10,0.01,1320,132.67,144.55,62597,695,96451
+Outdoor Furniture,Rugs,Great,12/9/18,1747.06,97.06,1650,18,17,18,0.02,2797,112.11,139.93,61643,684,94981
+Outdoor Furniture,Rugs,Great,12/2/18,1413,157,1256,9,8,11,0.01,2129,108.42,137.06,63254,699,97464
+Outdoor Furniture,Rugs,Great,11/25/18,822.5,164.5,658,10,8,11,0.01,1115,160.01,135.52,63175,693,97342
+Outdoor Furniture,Rugs,Great,11/18/18,867.78,86.78,781,10,9,10,0.01,1324,109.8,132.09,62498,686,96298
+Outdoor Furniture,Rugs,Great,11/11/18,607,0,607,7,7,8,0.01,1029,123.97,128.87,61622,679,94949
+Outdoor Furniture,Rugs,Great,11/4/18,543.67,77.67,466,7,6,6,0.01,790,20.25,125.65,60453,669,93147
+Outdoor Furniture,Rugs,Great,10/28/18,548.33,78.33,470,7,6,7,0.01,797,61.99,122.36,60306,667,92922
+Outdoor Furniture,Rugs,Great,10/21/18,244,61,183,4,3,5,0.01,310,250.87,120.68,59148,657,91137
+Outdoor Furniture,Rugs,Great,10/14/18,752.14,167.14,585,9,7,9,0.01,992,143.07,120.89,56796,634,87514
+Outdoor Furniture,Rugs,Great,10/7/18,615,246,369,5,3,7,0.01,625,134.98,120.75,55028,616,84788
+Outdoor Furniture,Rugs,OK,1/13/19,835,0,835,11,11,12,0.05,1415,140.06,168.56,15916,198,24524
+Outdoor Furniture,Rugs,OK,1/6/19,828,0,828,10,10,11,0.05,1403,152.54,168,16305,201,25124
+Outdoor Furniture,Rugs,OK,12/30/18,320,0,320,4,4,5,0.02,542,266.96,164.08,16348,201,25190
+Outdoor Furniture,Rugs,OK,12/23/18,421.33,105.33,316,4,3,4,0.01,536,185.26,167.23,16641,205,25641
+Outdoor Furniture,Rugs,OK,12/16/18,350,0,350,4,4,4,0.02,593,218.76,164.71,16518,205,25451
+Outdoor Furniture,Rugs,OK,12/9/18,-41,0,-41,1,1,2,0.01,-69,109.57,159.95,16335,205,25169
+Outdoor Furniture,Rugs,OK,12/2/18,615,0,615,7,7,7,0.03,1042,145.22,157.43,16573,206,25536
+Outdoor Furniture,Rugs,OK,11/25/18,601.2,100.2,501,6,5,6,0.02,849,107.18,151.9,17146,212,26419
+Outdoor Furniture,Rugs,OK,11/18/18,295,0,295,3,3,3,0.01,500,138.37,149.17,17646,218,27190
+Outdoor Furniture,Rugs,OK,11/11/18,0,0,0,0,0,0,0,0,0,144.97,17721,219,27305
+Outdoor Furniture,Rugs,OK,11/4/18,277,0,277,3,3,3,0.01,469,52.75,140.14,17441,216,26873
+Outdoor Furniture,Rugs,OK,10/28/18,0,106,-106,0,0,1,0,-180,3.31,136.85,17410,216,26825
+Outdoor Furniture,Rugs,OK,10/21/18,-15,0,-15,1,1,2,0.01,-25,104.41,134.68,17118,212,26376
+Outdoor Furniture,Rugs,OK,10/14/18,586.25,117.25,469,5,4,4,0.02,795,59.91,131.6,16773,208,25844
+Outdoor Furniture,Rugs,OK,10/7/18,496,0,496,3,3,2,0.01,841,51.82,129.29,16898,207,26037
+Outdoor Furniture,Side Tables,Perfect,1/13/19,3594,0,3594,106,106,92,0.05,7987,205.36,192.43,96520,2090,268110
+Outdoor Furniture,Side Tables,Perfect,1/6/19,4275.84,37.84,4238,113,112,89,0.05,9418,176.72,186.83,99514,2181,276427
+Outdoor Furniture,Side Tables,Perfect,12/30/18,2202,0,2202,62,62,58,0.03,4893,200.82,182.35,104429,2300,290079
+Outdoor Furniture,Side Tables,Perfect,12/23/18,2695.12,34.12,2661,79,78,68,0.03,5913,164.09,178.5,104789,2332,291081
+Outdoor Furniture,Side Tables,Perfect,12/16/18,1403.94,37.94,1366,37,36,41,0.02,3036,119.5,173.53,106741,2398,296502
+Outdoor Furniture,Side Tables,Perfect,12/9/18,3136,0,3136,83,83,80,0.03,6969,212.37,171.57,105807,2381,293908
+Outdoor Furniture,Side Tables,Perfect,12/2/18,5338.33,37.33,5301,143,142,110,0.06,11780,178.64,171.36,106849,2410,296801
+Outdoor Furniture,Side Tables,Perfect,11/25/18,2947,0,2947,84,84,69,0.03,6549,171.02,169.82,109408,2484,303912
+Outdoor Furniture,Side Tables,Perfect,11/18/18,2771.21,34.21,2737,81,80,65,0.03,6082,137.52,169.4,110217,2531,306158
+Outdoor Furniture,Side Tables,Perfect,11/11/18,2571.56,39.56,2532,65,64,54,0.03,5627,142.84,164.99,109501,2539,304168
+Outdoor Furniture,Side Tables,Perfect,11/4/18,2362,0,2362,74,74,61,0.03,5249,133.52,165.41,109225,2523,303401
+Outdoor Furniture,Side Tables,Perfect,10/28/18,2188.07,39.07,2149,56,55,53,0.02,4776,116.66,162.89,108458,2533,301272
+Outdoor Furniture,Side Tables,Perfect,10/21/18,3038.39,33.39,3005,91,90,71,0.04,6678,134.83,162.61,105822,2487,293951
+Outdoor Furniture,Side Tables,Perfect,10/14/18,3486.7,31.7,3455,110,109,81,0.04,7678,162.62,161.63,105557,2512,293214
+Outdoor Furniture,Side Tables,Perfect,10/7/18,2891.84,34.84,2857,83,82,84,0.03,6349,151.92,161.77,104727,2531,290907
+Outdoor Furniture,Side Tables,Great,1/13/19,676,0,676,13,13,14,0.05,1502,106.18,156.87,13672,247,37978
+Outdoor Furniture,Side Tables,Great,1/6/19,821.31,48.31,773,17,16,18,0.06,1718,160.24,153.3,14137,254,39270
+Outdoor Furniture,Side Tables,Great,12/30/18,194.29,24.29,170,8,7,9,0.03,378,91.55,149.59,14416,265,40043
+Outdoor Furniture,Side Tables,Great,12/23/18,456.43,101.43,355,9,7,8,0.03,789,135.83,152.46,13884,261,38567
+Outdoor Furniture,Side Tables,Great,12/16/18,90,180,-90,1,-1,5,0,-200,146.69,150.36,14196,267,39432
+Outdoor Furniture,Side Tables,Great,12/9/18,856.06,45.06,811,19,18,20,0.07,1802,126.9,142.73,13707,258,38075
+Outdoor Furniture,Side Tables,Great,12/2/18,543.21,36.21,507,15,14,16,0.05,1127,161.24,141.54,14350,274,39860
+Outdoor Furniture,Side Tables,Great,11/25/18,530.36,35.36,495,15,14,16,0.05,1100,126.51,139.65,14853,284,41259
+Outdoor Furniture,Side Tables,Great,11/18/18,311.25,62.25,249,10,8,9,0.03,553,226.77,138.46,15128,291,42023
+Outdoor Furniture,Side Tables,Great,11/11/18,363.86,80.86,283,9,7,9,0.02,629,182.18,136.22,15221,295,42280
+Outdoor Furniture,Side Tables,Great,11/4/18,353.45,29.45,324,12,11,9,0.04,720,142.84,134.19,15181,298,42170
+Outdoor Furniture,Side Tables,Great,10/28/18,307.67,23.67,284,13,12,12,0.04,631,60.98,128.17,15136,302,42044
+Outdoor Furniture,Side Tables,Great,10/21/18,330,66,264,10,8,11,0.03,587,113.73,130.27,14791,300,41085
+Outdoor Furniture,Side Tables,Great,10/14/18,666.43,44.43,622,15,14,16,0.05,1382,101.95,131.18,13980,288,38833
+Outdoor Furniture,Side Tables,Great,10/7/18,630,84,546,15,13,13,0.04,1213,92.55,129.71,13688,283,38023
+Outdoor Furniture,Side Tables,OK,1/13/19,124,0,124,3,3,4,0.06,276,297.07,146.16,2583,48,7174
+Outdoor Furniture,Side Tables,OK,1/6/19,122.67,30.67,92,4,3,3,0.06,204,183.95,143.5,2633,49,7315
+Outdoor Furniture,Side Tables,OK,12/30/18,0,76,-76,0,-1,0,-0.02,-169,0,148.54,2251,48,6252
+Outdoor Furniture,Side Tables,OK,12/23/18,20,0,20,1,1,1,0.02,44,5.7,150.01,1880,44,5222
+Outdoor Furniture,Side Tables,OK,12/16/18,0,18,-18,0,-1,0,-0.02,-40,0,152.53,1819,44,5054
+Outdoor Furniture,Side Tables,OK,12/9/18,92,0,92,2,2,2,0.05,204,391.55,158.69,1781,42,4947
+Outdoor Furniture,Side Tables,OK,12/2/18,81.33,20.33,61,4,3,3,0.06,136,190.04,155.19,1855,44,5152
+Outdoor Furniture,Side Tables,OK,11/25/18,0,0,0,0,0,0,0,0,0,153.86,1872,46,5201
+Outdoor Furniture,Side Tables,OK,11/18/18,67,0,67,4,4,4,0.08,149,282.36,156.73,1872,46,5201
+Outdoor Furniture,Side Tables,OK,11/11/18,10,0,10,1,1,2,0.02,22,161.16,150.71,1955,50,5430
+Outdoor Furniture,Side Tables,OK,11/4/18,100,0,100,5,5,6,0.09,222,151.38,146.44,1957,50,5436
+Outdoor Furniture,Side Tables,OK,10/28/18,-42,0,-42,-1,-1,1,-0.02,-93,161.01,145.95,2001,52,5558
+Outdoor Furniture,Side Tables,OK,10/21/18,96,0,96,4,4,4,0.08,213,153.77,152.25,1912,49,5311
+Outdoor Furniture,Side Tables,OK,10/14/18,152.4,25.4,127,6,5,5,0.09,282,67.61,146.44,1920,52,5332
+Outdoor Furniture,Side Tables,OK,10/7/18,129,0,129,5,5,5,0.08,287,120.74,138.25,1998,55,5549
+Outdoor Furniture,Desks,Perfect,1/13/19,1783.78,23.78,1760,75,74,53,0.04,3911,227,186.83,52422,1948,105902
+Outdoor Furniture,Desks,Perfect,1/6/19,1906.7,22.7,1884,84,83,65,0.04,4187,254.87,186.13,53961,1997,109011
+Outdoor Furniture,Desks,Perfect,12/30/18,1953,0,1953,81,81,58,0.04,4340,238.93,183.33,56367,2090,113873
+Outdoor Furniture,Desks,Perfect,12/23/18,1492,0,1492,62,62,38,0.03,3316,251.48,179.55,58111,2163,117396
+Outdoor Furniture,Desks,Perfect,12/16/18,1337.76,26.76,1311,50,49,40,0.02,2913,212.37,175.14,59220,2208,119636
+Outdoor Furniture,Desks,Perfect,12/9/18,2505.57,22.57,2483,111,110,76,0.05,5518,233.93,174.93,58807,2201,118802
+Outdoor Furniture,Desks,Perfect,12/2/18,2062.71,21.71,2041,95,94,67,0.04,4536,252.25,178.57,59582,2257,120367
+Outdoor Furniture,Desks,Perfect,11/25/18,2192,0,2192,96,96,62,0.04,4871,215.06,179.27,59806,2288,120820
+Outdoor Furniture,Desks,Perfect,11/18/18,1387.75,22.75,1365,61,60,41,0.03,3033,214.45,180.6,61459,2361,124160
+Outdoor Furniture,Desks,Perfect,11/11/18,872.78,20.78,852,42,41,36,0.02,1893,203.36,177.87,60916,2349,123062
+Outdoor Furniture,Desks,Perfect,11/4/18,1644.1,26.1,1618,63,62,48,0.03,3596,182.11,179.06,59663,2321,120531
+Outdoor Furniture,Desks,Perfect,10/28/18,1234,0,1234,51,51,45,0.02,2742,152.61,175.42,60234,2344,121684
+Outdoor Furniture,Desks,Perfect,10/21/18,1799,0,1799,76,76,45,0.03,3998,173.17,174.3,59701,2333,120609
+Outdoor Furniture,Desks,Perfect,10/14/18,2466,0,2466,100,100,69,0.04,5480,170.02,173.32,60259,2353,121736
+Outdoor Furniture,Desks,Perfect,10/7/18,2297,0,2297,89,89,70,0.04,5104,164.01,171.01,61437,2405,124116
+Outdoor Furniture,Desks,Great,1/13/19,240.78,43.78,197,11,9,9,0.03,438,123.74,156.59,7823,330,15804
+Outdoor Furniture,Desks,Great,1/6/19,213.43,47.43,166,9,7,8,0.02,369,96.25,150.08,8036,337,16233
+Outdoor Furniture,Desks,Great,12/30/18,348.35,19.35,329,18,17,16,0.05,731,241.55,150.92,8239,343,16644
+Outdoor Furniture,Desks,Great,12/23/18,67,0,67,2,2,4,0.01,149,107.72,145.53,8512,356,17196
+Outdoor Furniture,Desks,Great,12/16/18,73,0,73,4,4,8,0.01,162,163.47,143.15,8424,351,17018
+Outdoor Furniture,Desks,Great,12/9/18,45.6,7.6,38,6,5,8,0.02,84,175.1,139.09,8070,338,16302
+Outdoor Furniture,Desks,Great,12/2/18,409.13,48.13,361,17,15,17,0.04,802,222.68,142.52,8062,340,16287
+Outdoor Furniture,Desks,Great,11/25/18,329.6,20.6,309,16,15,14,0.04,687,232.39,146.23,8016,338,16193
+Outdoor Furniture,Desks,Great,11/18/18,223.71,49.71,174,9,7,7,0.02,387,188.96,150.01,8082,342,16327
+Outdoor Furniture,Desks,Great,11/11/18,110.4,18.4,92,6,5,7,0.01,204,130.28,145.53,8139,345,16442
+Outdoor Furniture,Desks,Great,11/4/18,8,4,4,4,2,8,0.01,9,130.67,144.48,7855,337,15869
+Outdoor Furniture,Desks,Great,10/28/18,0,52,-52,0,-1,6,0,-116,101.1,139.86,7768,334,15693
+Outdoor Furniture,Desks,Great,10/21/18,277,0,277,12,12,12,0.04,616,167.4,134.61,7541,327,15233
+Outdoor Furniture,Desks,Great,10/14/18,358.4,22.4,336,16,15,14,0.05,747,199.2,139.02,7428,322,15007
+Outdoor Furniture,Desks,Great,10/7/18,155.17,22.17,133,7,6,8,0.02,296,167.71,140.07,7492,329,15136
+Outdoor Furniture,Desks,OK,1/13/19,71.25,14.25,57,5,4,4,0.05,127,269.42,197.05,1572,75,3176
+Outdoor Furniture,Desks,OK,1/6/19,25,0,25,1,1,2,0.01,56,125.36,190.05,1635,79,3302
+Outdoor Furniture,Desks,OK,12/30/18,38,0,38,2,2,2,0.03,84,180.03,185.29,1630,79,3293
+Outdoor Furniture,Desks,OK,12/23/18,30,0,30,1,1,1,0.01,67,19.56,178.5,1681,80,3396
+Outdoor Furniture,Desks,OK,12/16/18,12,0,12,1,1,1,0.01,27,362.29,178.29,1689,80,3411
+Outdoor Furniture,Desks,OK,12/9/18,71,0,71,4,4,4,0.05,158,248.79,175.91,1654,79,3342
+Outdoor Furniture,Desks,OK,12/2/18,22,11,11,2,1,1,0.01,24,501.5,178.5,1691,82,3416
+Outdoor Furniture,Desks,OK,11/25/18,25,0,25,2,2,2,0.02,56,227.61,176.47,1680,82,3393
+Outdoor Furniture,Desks,OK,11/18/18,0,0,0,0,0,0,0,0,0,186.2,1601,80,3233
+Outdoor Furniture,Desks,OK,11/11/18,12,0,12,1,1,2,0.01,27,9.55,179.06,1565,78,3162
+Outdoor Furniture,Desks,OK,11/4/18,50,0,50,2,2,2,0.03,111,227,182.42,1489,76,3009
+Outdoor Furniture,Desks,OK,10/28/18,42,0,42,2,2,2,0.03,93,45.89,176.4,1536,77,3102
+Outdoor Furniture,Desks,OK,10/21/18,0,22,-22,0,-1,0,-0.01,-49,0,174.09,1542,77,3116
+Outdoor Furniture,Desks,OK,10/14/18,55.5,18.5,37,3,2,2,0.03,82,184.42,175.63,1499,75,3029
+Outdoor Furniture,Desks,OK,10/7/18,49,0,49,2,2,2,0.03,109,106.8,171.29,1491,75,3011
+Outdoor Furniture,Beds,Perfect,1/13/19,1781,0,1781,52,52,38,0.07,1836,235.31,185.85,23453,674,21980
+Outdoor Furniture,Beds,Perfect,1/6/19,895,0,895,34,34,30,0.05,923,234.47,183.54,25279,723,23692
+Outdoor Furniture,Beds,Perfect,12/30/18,878.95,39.95,839,22,21,22,0.03,865,237.16,180.88,26333,758,24679
+Outdoor Furniture,Beds,Perfect,12/23/18,564,0,564,15,15,11,0.02,581,224.46,177.24,27063,778,25364
+Outdoor Furniture,Beds,Perfect,12/16/18,947.72,28.72,919,33,32,24,0.04,947,201.74,170.73,27324,787,25608
+Outdoor Furniture,Beds,Perfect,12/9/18,554.17,29.17,525,19,18,19,0.02,541,218.3,169.82,27684,804,25945
+Outdoor Furniture,Beds,Perfect,12/2/18,1268,0,1268,38,38,30,0.04,1307,198.2,168.42,28021,816,26262
+Outdoor Furniture,Beds,Perfect,11/25/18,551.44,32.44,519,17,16,15,0.02,535,240.39,169.54,28281,827,26505
+Outdoor Furniture,Beds,Perfect,11/18/18,784.09,34.09,750,23,22,14,0.03,773,206.9,169.05,28052,825,26291
+Outdoor Furniture,Beds,Perfect,11/11/18,536.25,41.25,495,13,12,8,0.01,510,192.19,166.32,28058,827,26296
+Outdoor Furniture,Beds,Perfect,11/4/18,455,0,455,12,12,15,0.01,469,179.64,166.39,27849,821,26100
+Outdoor Furniture,Beds,Perfect,10/28/18,995.1,31.1,964,32,31,18,0.04,994,126.43,161.56,27842,823,26094
+Outdoor Furniture,Beds,Perfect,10/21/18,956.12,28.12,928,34,33,20,0.04,957,171.63,162.89,27798,820,26053
+Outdoor Furniture,Beds,Perfect,10/14/18,140,0,140,6,6,18,0.01,144,212.29,165.13,27543,823,25813
+Outdoor Furniture,Beds,Perfect,10/7/18,1557.79,31.79,1526,49,48,37,0.06,1573,149.61,163.59,26733,804,25055
+Outdoor Furniture,Beds,Great,1/13/19,108,27,81,4,3,3,0.04,84,130.98,177.45,2283,71,2139
+Outdoor Furniture,Beds,Great,1/6/19,325,65,260,10,8,5,0.1,268,227.15,176.89,2367,74,2219
+Outdoor Furniture,Beds,Great,12/30/18,145,29,116,5,4,4,0.05,120,54.75,168.7,2653,82,2487
+Outdoor Furniture,Beds,Great,12/23/18,0,28,-28,0,-1,0,-0.01,-29,0,166.25,2764,86,2591
+Outdoor Furniture,Beds,Great,12/16/18,105,35,70,3,2,2,0.02,72,172.63,156.8,2713,84,2542
+Outdoor Furniture,Beds,Great,12/9/18,183,61,122,6,4,4,0.05,126,279.9,165.69,2520,79,2362
+Outdoor Furniture,Beds,Great,12/2/18,76,38,38,4,2,2,0.02,39,223.53,165.69,2668,84,2500
+Outdoor Furniture,Beds,Great,11/25/18,50,0,50,1,1,2,0.01,52,188.96,166.53,2599,83,2436
+Outdoor Furniture,Beds,Great,11/18/18,10.93,0.93,10,1,0,1,0,10,355.43,164.36,2613,82,2448
+Outdoor Furniture,Beds,Great,11/11/18,82.5,27.5,55,3,2,2,0.02,57,165.7,158.48,2628,83,2463
+Outdoor Furniture,Beds,Great,11/4/18,-73,0,-73,-2,-2,1,-0.03,-75,149.61,163.03,2280,77,2137
+Outdoor Furniture,Beds,Great,10/28/18,105,35,70,3,2,3,0.03,72,117.81,163.66,2256,76,2114
+Outdoor Furniture,Beds,Great,10/21/18,10,5,5,2,1,2,0.01,5,197.81,165.13,2174,72,2037
+Outdoor Furniture,Beds,Great,10/14/18,0,0,0,0,0,0,0,0,0,165.55,2130,72,1996
+Outdoor Furniture,Beds,Great,10/7/18,167.5,33.5,134,5,4,4,0.06,138,117.5,165.41,1965,68,1841
+Outdoor Furniture,Beds,OK,1/13/19,0,0,0,0,0,0,0,0,0,244.37,123,6,115
+Outdoor Furniture,Beds,OK,1/6/19,18,0,18,1,1,1,0.14,19,288.44,243.39,123,6,115
+Outdoor Furniture,Beds,OK,12/30/18,0,0,0,0,0,0,0,0,0,238.98,143,7,134
+Outdoor Furniture,Beds,OK,12/23/18,0,0,0,0,0,0,0,0,0,234.08,143,7,134
+Outdoor Furniture,Beds,OK,12/16/18,0,0,0,0,0,0,0,0,0,229.18,143,7,134
+Outdoor Furniture,Beds,OK,12/9/18,29,0,29,2,2,2,0.22,30,243.24,223.93,143,7,134
+Outdoor Furniture,Beds,OK,12/2/18,20,0,20,1,1,1,0.1,21,151.15,211.47,173,9,162
+Outdoor Furniture,Beds,OK,11/25/18,0,0,0,0,0,0,0,0,0,206.71,191,10,179
+Outdoor Furniture,Beds,OK,11/18/18,0,0,0,0,0,0,0,0,0,201.81,191,10,179
+Outdoor Furniture,Beds,OK,11/11/18,0,0,0,0,0,0,0,0,0,196.91,191,10,179
+Outdoor Furniture,Beds,OK,11/4/18,0,0,0,0,0,0,0,0,0,192.01,191,10,179
+Outdoor Furniture,Beds,OK,10/28/18,40,20,20,2,1,1,0.1,21,240.55,209.23,158,9,148
+Outdoor Furniture,Beds,OK,10/21/18,0,0,0,0,0,0,0,0,0,204.68,180,10,169
+Outdoor Furniture,Beds,OK,10/14/18,0,0,0,0,0,0,0,0,0,199.78,180,10,169
+Outdoor Furniture,Beds,OK,10/7/18,0,0,0,0,0,0,0,0,0,194.88,180,10,169
+Outdoor Furniture,Beds,Perfect,1/13/19,1767,0,1767,52,52,40,0.07,1822,223.69,174.16,34821,740,32634
+Outdoor Furniture,Beds,Perfect,1/6/19,1324,0,1324,35,35,32,0.04,1365,177.56,170.38,36736,790,34429
+Outdoor Furniture,Beds,Perfect,12/30/18,1010.07,36.07,974,28,27,27,0.03,1004,151.77,164.71,38304,827,35899
+Outdoor Furniture,Beds,Perfect,12/23/18,346.5,49.5,297,7,6,10,0.01,306,137.29,160.72,39163,851,36704
+Outdoor Furniture,Beds,Perfect,12/16/18,532.36,44.36,488,12,11,14,0.01,503,169.79,156.17,39338,854,36868
+Outdoor Furniture,Beds,Perfect,12/9/18,1641.91,46.91,1595,35,34,29,0.04,1644,189.27,154.07,39005,845,36556
+Outdoor Furniture,Beds,Perfect,12/2/18,865,0,865,24,24,21,0.03,892,158.54,152.81,39976,863,37466
+Outdoor Furniture,Beds,Perfect,11/25/18,858.67,53.67,805,16,15,14,0.02,830,152.38,150.92,39762,870,37265
+Outdoor Furniture,Beds,Perfect,11/18/18,609.92,46.92,563,13,12,14,0.01,580,148.61,148.33,39791,875,37293
+Outdoor Furniture,Beds,Perfect,11/11/18,792.86,52.86,740,15,14,11,0.02,763,140.99,144.27,39210,863,36747
+Outdoor Furniture,Beds,Perfect,11/4/18,871.41,48.41,823,18,17,19,0.02,848,99.64,143.22,39074,855,36621
+Outdoor Furniture,Beds,Perfect,10/28/18,632.5,57.5,575,11,10,10,0.01,593,130.05,140.14,39314,859,36845
+Outdoor Furniture,Beds,Perfect,10/21/18,277,0,277,5,5,4,0.01,286,51.36,136.71,39400,860,36926
+Outdoor Furniture,Beds,Perfect,10/14/18,871.47,54.47,817,16,15,10,0.02,842,106.72,134.54,38603,844,36179
+Outdoor Furniture,Beds,Perfect,10/7/18,991,0,991,16,16,17,0.02,1022,115.12,130.48,38624,844,36199
+Outdoor Furniture,Beds,Great,1/13/19,413.75,82.75,331,10,8,7,0.07,341,178.18,162.05,4473,108,4192
+Outdoor Furniture,Beds,Great,1/6/19,166.25,33.25,133,5,4,4,0.03,137,20.94,152.81,4837,116,4533
+Outdoor Furniture,Beds,Great,12/30/18,143,0,143,3,3,3,0.03,147,194.04,148.68,4804,116,4502
+Outdoor Furniture,Beds,Great,12/23/18,138,0,138,4,4,3,0.03,142,178.56,152.04,4870,118,4564
+Outdoor Furniture,Beds,Great,12/16/18,72,36,36,2,1,1,0.01,37,2,147.28,4971,121,4659
+Outdoor Furniture,Beds,Great,12/9/18,166.67,41.67,125,4,3,4,0.03,129,125.9,144.48,4850,117,4545
+Outdoor Furniture,Beds,Great,12/2/18,0,36,-36,0,0,3,0,-37,91.94,135.17,5080,122,4761
+Outdoor Furniture,Beds,Great,11/25/18,54,0,54,1,1,1,0.01,56,1.85,133.14,5063,122,4745
+Outdoor Furniture,Beds,Great,11/18/18,52,0,52,1,1,1,0.01,54,127.9,130.34,5078,122,4759
+Outdoor Furniture,Beds,Great,11/11/18,45,0,45,1,1,1,0.01,46,4,125.51,4940,119,4630
+Outdoor Furniture,Beds,Great,11/4/18,159,0,159,3,3,3,0.03,164,121.97,123.41,4959,118,4647
+Outdoor Furniture,Beds,Great,10/28/18,188,94,94,4,2,2,0.02,97,122.28,121.38,4990,118,4676
+Outdoor Furniture,Beds,Great,10/21/18,0,0,0,0,0,0,0,0,0,120.61,4917,117,4608
+Outdoor Furniture,Beds,Great,10/14/18,106,53,53,2,1,1,0.01,55,110.11,116.69,4893,116,4586
+Outdoor Furniture,Beds,Great,10/7/18,177,59,118,3,2,2,0.02,122,70.38,117.04,4678,111,4385
+Outdoor Furniture,Beds,OK,1/13/19,60,0,60,1,1,1,0.03,62,392.93,148.19,1144,28,1072
+Outdoor Furniture,Beds,OK,1/6/19,0,0,0,0,0,0,0,0,0,148.61,1124,27,1054
+Outdoor Furniture,Beds,OK,12/30/18,0,0,0,0,0,0,0,0,0,149.17,1086,26,1018
+Outdoor Furniture,Beds,OK,12/23/18,20,0,20,1,1,1,0.04,21,181.95,150.57,1086,26,1018
+Outdoor Furniture,Beds,OK,12/16/18,0,0,0,0,0,0,0,0,0,145.74,1106,27,1036
+Outdoor Furniture,Beds,OK,12/9/18,18,0,18,1,1,1,0.04,19,272.2,144.69,1106,27,1036
+Outdoor Furniture,Beds,OK,12/2/18,64,0,64,1,1,1,0.03,66,64.14,137.13,1125,28,1055
+Outdoor Furniture,Beds,OK,11/25/18,0,-5,5,0,0,1,0,5,103.18,128.52,1188,29,1113
+Outdoor Furniture,Beds,OK,11/18/18,27,0,27,1,1,1,0.03,28,44.89,127.54,1189,29,1114
+Outdoor Furniture,Beds,OK,11/11/18,56,0,56,1,1,1,0.03,58,27.95,118.37,1224,30,1147
+Outdoor Furniture,Beds,OK,11/4/18,0,0,0,0,0,0,0,0,0,113.54,1276,31,1196
+Outdoor Furniture,Beds,OK,10/28/18,114,57,57,2,1,1,0.03,59,120.35,108.71,1276,31,1196
+Outdoor Furniture,Beds,OK,10/21/18,0,0,0,0,0,0,0,0,0,103.88,1320,32,1237
+Outdoor Furniture,Beds,OK,10/14/18,36,0,36,1,1,1,0.03,37,229.54,100.66,1320,32,1237
+Outdoor Furniture,Beds,OK,10/7/18,0,0,0,0,0,0,0,0,0,100.66,1305,32,1223
+Outdoor Storage,Boxes,Perfect,1/13/19,1106.14,38.14,1068,29,28,27,0.05,2373,185.03,191.87,27899,582,56362
+Outdoor Storage,Boxes,Perfect,1/6/19,1330,0,1330,34,34,35,0.05,2956,146.15,184.17,29014,609,58613
+Outdoor Storage,Boxes,Perfect,12/30/18,830.93,51.93,779,16,15,15,0.02,1731,150.77,177.24,30600,645,61818
+Outdoor Storage,Boxes,Perfect,12/23/18,550,0,550,12,12,13,0.02,1222,128.74,171.57,31258,659,63147
+Outdoor Storage,Boxes,Perfect,12/16/18,557.87,34.87,523,16,15,16,0.02,1162,162.09,167.23,31632,667,63902
+Outdoor Storage,Boxes,Perfect,12/9/18,1096.88,43.88,1053,25,24,24,0.03,2340,121.97,162.89,31609,675,63856
+Outdoor Storage,Boxes,Perfect,12/2/18,1215.65,50.65,1165,24,23,19,0.03,2589,147.53,159.25,32347,692,65347
+Outdoor Storage,Boxes,Perfect,11/25/18,660,44,616,15,14,16,0.02,1369,186.34,156.38,32572,703,65802
+Outdoor Storage,Boxes,Perfect,11/18/18,152,0,152,4,4,5,0.01,338,101.72,155.12,32518,704,65693
+Outdoor Storage,Boxes,Perfect,11/11/18,263,0,263,4,4,4,0.01,584,20.33,150.15,32673,707,66007
+Outdoor Storage,Boxes,Perfect,11/4/18,620,0,620,10,10,8,0.01,1378,162.09,147.42,32341,700,65336
+Outdoor Storage,Boxes,Perfect,10/28/18,355,71,284,5,4,6,0.01,631,76.38,142.94,32579,701,65816
+Outdoor Storage,Boxes,Perfect,10/21/18,582.75,64.75,518,9,8,9,0.01,1151,116.73,141.54,32111,690,64871
+Outdoor Storage,Boxes,Perfect,10/14/18,610,0,610,11,11,11,0.02,1356,103.72,139.16,31728,682,64098
+Outdoor Storage,Boxes,Perfect,10/7/18,630,0,630,10,10,9,0.02,1400,173.56,140.42,31131,666,62891
+Outdoor Storage,Boxes,Great,1/13/19,1082.1,94.1,988,23,21,19,0.08,2196,127.13,173.04,11142,246,22509
+Outdoor Storage,Boxes,Great,1/6/19,528,0,528,15,15,15,0.05,1173,133.98,165.27,12173,266,24591
+Outdoor Storage,Boxes,Great,12/30/18,481,0,481,10,10,10,0.03,1069,140.53,159.67,12771,281,25800
+Outdoor Storage,Boxes,Great,12/23/18,212,53,159,4,3,4,0.01,353,99.79,155.54,13126,289,26518
+Outdoor Storage,Boxes,Great,12/16/18,19,0,19,1,1,3,0,42,32.49,153.09,13025,287,26313
+Outdoor Storage,Boxes,Great,12/9/18,829.87,51.87,778,16,15,15,0.05,1729,139.52,148.4,12814,283,25887
+Outdoor Storage,Boxes,Great,12/2/18,539,98,441,11,9,10,0.03,980,88.4,142.1,13571,298,27416
+Outdoor Storage,Boxes,Great,11/25/18,450.67,112.67,338,8,6,5,0.02,751,170.63,138.88,13910,304,28100
+Outdoor Storage,Boxes,Great,11/18/18,162,81,81,2,1,1,0,180,69.76,135.87,13985,305,28253
+Outdoor Storage,Boxes,Great,11/11/18,105,35,70,3,2,3,0.01,156,172.63,131.95,13924,303,28129
+Outdoor Storage,Boxes,Great,11/4/18,166.5,55.5,111,3,2,3,0.01,247,194.27,132.44,13643,297,27562
+Outdoor Storage,Boxes,Great,10/28/18,19.44,12.44,7,1,0,2,0,16,25.95,128.66,13674,296,27624
+Outdoor Storage,Boxes,Great,10/21/18,264,66,198,4,3,6,0.01,440,64.22,125.93,13210,285,26687
+Outdoor Storage,Boxes,Great,10/14/18,184,0,184,3,3,7,0.01,409,101.26,124.18,13144,282,26553
+Outdoor Storage,Boxes,Great,10/7/18,361.25,72.25,289,5,4,5,0.01,642,33.34,121.73,12878,276,26016
+Outdoor Storage,Boxes,OK,1/13/19,179,0,179,4,4,4,0.08,398,101.87,119.35,2351,49,4749
+Outdoor Storage,Boxes,OK,1/6/19,55,0,55,1,1,2,0.02,122,110.34,112.98,2548,53,5147
+Outdoor Storage,Boxes,OK,12/30/18,324,54,270,6,5,5,0.09,600,80.54,106.05,2647,54,5347
+Outdoor Storage,Boxes,OK,12/23/18,56,0,56,1,1,1,0.02,124,94.25,101.15,2905,59,5869
+Outdoor Storage,Boxes,OK,12/16/18,54,0,54,2,2,2,0.03,120,71.84,100.87,2747,57,5549
+Outdoor Storage,Boxes,OK,12/9/18,128,0,128,3,3,3,0.05,284,96.56,96.67,2657,57,5367
+Outdoor Storage,Boxes,OK,12/2/18,78,39,39,2,1,2,0.02,87,46.12,94.64,2783,60,5622
+Outdoor Storage,Boxes,OK,11/25/18,81,0,81,2,2,2,0.03,180,119.5,87.92,2794,61,5644
+Outdoor Storage,Boxes,OK,11/18/18,47,0,47,1,1,1,0.02,104,101.33,83.93,2856,63,5769
+Outdoor Storage,Boxes,OK,11/11/18,54,0,54,1,1,1,0.02,120,17.94,78.68,2870,63,5798
+Outdoor Storage,Boxes,OK,11/4/18,95,0,95,2,2,2,0.03,211,154,77.07,2859,63,5776
+Outdoor Storage,Boxes,OK,10/28/18,56,0,56,1,1,1,0.02,124,4.85,72.45,2930,64,5920
+Outdoor Storage,Boxes,OK,10/21/18,87,0,87,2,2,2,0.03,193,86.09,71.26,2835,62,5727
+Outdoor Storage,Boxes,OK,10/14/18,0,0,0,0,0,0,0,0,0,67.55,2817,62,5691
+Outdoor Storage,Boxes,OK,10/7/18,0,-4,4,0,0,1,0,9,31.72,66.36,2676,59,5407
+Outdoor Storage,Bags,Perfect,1/13/19,0,19,-19,0,0,2,0,-28,59.68,98.14,521,9,958
+Outdoor Storage,Bags,Perfect,1/6/19,190,0,190,4,4,6,0.31,279,30.88,86.17,515,9,946
+Outdoor Storage,Bags,Perfect,12/30/18,205,0,205,4,4,5,0.24,301,16.17,49.28,729,13,1341
+Outdoor Storage,Bags,Perfect,12/23/18,326,0,326,7,7,6,0.33,479,153.15,79.24,790,14,1452
+Outdoor Storage,Bags,Perfect,12/16/18,-60,0,-60,-1,-1,2,-0.08,-88,80.23,111.09,694,13,1276
+Outdoor Storage,Bags,Perfect,12/9/18,242.5,48.5,194,5,4,4,0.25,285,127.2,125.79,649,12,1193
+Outdoor Storage,Bags,Perfect,12/2/18,233,0,233,5,5,5,0.24,343,124.43,116.83,840,16,1545
+Outdoor Storage,Bags,Perfect,11/25/18,169.5,56.5,113,3,2,2,0.1,166,48.82,126.14,939,19,1727
+Outdoor Storage,Bags,Perfect,11/18/18,195,65,130,3,2,3,0.09,191,8.47,115.36,988,20,1816
+Outdoor Storage,Bags,Perfect,11/11/18,155,0,155,2,2,2,0.09,228,4.31,103.39,1065,21,1957
+Outdoor Storage,Bags,Perfect,11/4/18,213,0,213,3,3,3,0.12,313,32.42,94.57,1154,22,2121
+Outdoor Storage,Bags,Perfect,10/28/18,57,0,57,1,1,3,0.05,84,20.94,91.7,970,19,1783
+Outdoor Storage,Bags,Perfect,10/21/18,0,0,0,0,0,0,0,0,0,102.9,1025,20,1885
+Outdoor Storage,Bags,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,114.8,825,17,1517
+Outdoor Storage,Bags,Perfect,10/7/18,189,0,189,3,3,3,0.17,278,2.23,104.93,679,15,1248
+Outdoor Storage,Bags,Great,1/13/19,0,66,-66,0,-1,2,-0.1,-97,35.19,88.62,645,11,1185
+Outdoor Storage,Bags,Great,1/6/19,453.71,56.71,397,8,7,9,0.54,584,51.05,78.68,345,6,635
+Outdoor Storage,Bags,Great,12/30/18,126,42,84,3,2,4,0.14,124,1.69,72.94,758,12,1393
+Outdoor Storage,Bags,Great,12/23/18,410.63,45.63,365,9,8,8,0.44,537,52.75,66.15,639,10,1175
+Outdoor Storage,Bags,Great,12/16/18,0,104,-104,0,-2,0,-0.17,-153,0,116.48,754,14,1385
+Outdoor Storage,Bags,Great,12/9/18,371.67,148.67,223,5,3,3,0.33,328,63.83,122.43,393,6,722
+Outdoor Storage,Bags,Great,12/2/18,112,0,112,3,3,3,0.25,165,182.18,131.53,605,9,1112
+Outdoor Storage,Bags,Great,11/25/18,0,0,0,0,0,0,0,0,0,126.91,673,11,1238
+Outdoor Storage,Bags,Great,11/18/18,0,0,0,0,0,0,0,0,0,133.56,673,11,1238
+Outdoor Storage,Bags,Great,11/11/18,129,86,43,3,1,1,0.08,63,18.71,119.7,673,11,1238
+Outdoor Storage,Bags,Great,11/4/18,153,102,51,3,1,2,0.08,75,93.4,112.7,633,11,1163
+Outdoor Storage,Bags,Great,10/28/18,0,0,0,0,0,0,0,0,0,123.83,703,12,1292
+Outdoor Storage,Bags,Great,10/21/18,47.95,40.95,7,2,0,2,0,10,2.85,112.21,570,10,1047
+Outdoor Storage,Bags,Great,10/14/18,266,133,133,4,2,2,0.14,196,87.63,102.62,677,12,1244
+Outdoor Storage,Bags,Great,10/7/18,159,53,106,3,2,3,0.14,156,2.62,82.18,719,12,1322
+Outdoor Storage,Bags,OK,1/13/19,28,0,28,1,1,1,0.5,41,250.56,117.46,74,1,135
+Outdoor Storage,Bags,OK,1/6/19,36,0,36,1,1,1,0.5,53,7.16,78.61,31,1,57
+Outdoor Storage,Bags,OK,12/30/18,0,-13,13,0,0,1,0,19,5.85,113.96,40,1,73
+Outdoor Storage,Bags,OK,12/23/18,33,0,33,1,1,2,0.33,49,23.79,12.53,83,2,152
+Outdoor Storage,Bags,OK,12/16/18,74,0,74,2,2,2,0.67,109,115.89,69.51,37,1,69
+Outdoor Storage,Bags,OK,12/9/18,0,7,-7,0,0,1,0,-10,141.91,79.1,106,3,194
+Outdoor Storage,Bags,OK,12/2/18,0,0,0,0,0,0,0,0,0,165.48,62,2,113
+Outdoor Storage,Bags,OK,11/25/18,0,0,0,0,0,0,0,0,0,160.58,62,2,113
+Outdoor Storage,Bags,OK,11/18/18,70,0,70,2,2,2,0.5,103,26.72,102.97,62,2,113
+Outdoor Storage,Bags,OK,11/11/18,56,0,56,1,1,1,0.2,82,48.74,79.66,131,4,241
+Outdoor Storage,Bags,OK,11/4/18,0,0,0,0,0,0,0,0,0,75.32,186,5,342
+Outdoor Storage,Bags,OK,10/28/18,0,-36,36,0,0,1,0,53,4.85,65.38,149,4,273
+Outdoor Storage,Bags,OK,10/21/18,144,72,72,2,1,1,0.2,106,157.93,91.14,184,4,338
+Outdoor Storage,Bags,OK,10/14/18,0,0,0,0,0,0,0,0,0,108.78,184,4,338
+Outdoor Storage,Bags,OK,10/7/18,106,0,106,2,2,2,0.33,156,8.7,72.24,184,4,338
+Outdoor Storage,Shelves,Perfect,1/13/19,1578.43,54.43,1524,29,28,32,0.04,3313,158.7,179.55,40340,629,79724
+Outdoor Storage,Shelves,Perfect,1/6/19,2042,0,2042,39,39,43,0.06,4439,182.57,175.21,41752,653,82513
+Outdoor Storage,Shelves,Perfect,12/30/18,1123.11,59.11,1064,19,18,23,0.03,2313,182.34,170.66,44118,693,87189
+Outdoor Storage,Shelves,Perfect,12/23/18,1162.35,55.35,1107,21,20,23,0.03,2407,175.95,167.09,44504,699,87952
+Outdoor Storage,Shelves,Perfect,12/16/18,866,0,866,14,14,23,0.02,1883,204.67,167.37,44982,709,88898
+Outdoor Storage,Shelves,Perfect,12/9/18,1428,0,1428,25,25,31,0.04,3104,131.82,166.53,43943,694,86843
+Outdoor Storage,Shelves,Perfect,12/2/18,3064,0,3064,51,51,48,0.07,6661,145.99,162.47,44734,708,88407
+Outdoor Storage,Shelves,Perfect,11/25/18,1805,0,1805,32,32,31,0.04,3924,145.84,160.23,46405,734,91709
+Outdoor Storage,Shelves,Perfect,11/18/18,441,0,441,6,6,11,0.01,959,134.9,159.95,47314,750,93507
+Outdoor Storage,Shelves,Perfect,11/11/18,1243.2,59.2,1184,21,20,22,0.03,2574,138.06,154.84,46658,740,92209
+Outdoor Storage,Shelves,Perfect,11/4/18,1794,0,1794,31,31,30,0.04,3900,144.68,155.12,47060,746,93004
+Outdoor Storage,Shelves,Perfect,10/28/18,872.31,62.31,810,14,13,20,0.02,1761,120.51,151.34,48079,762,95017
+Outdoor Storage,Shelves,Perfect,10/21/18,887.38,63.38,824,14,13,13,0.02,1791,101.18,150.5,47637,756,94143
+Outdoor Storage,Shelves,Perfect,10/14/18,1282.11,64.11,1218,20,19,26,0.03,2648,125.05,152.18,46233,733,91370
+Outdoor Storage,Shelves,Perfect,10/7/18,1709,0,1709,27,27,33,0.04,3715,110.8,154,44547,705,88037
+Outdoor Storage,Shelves,Great,1/13/19,725.83,55.83,670,13,12,15,0.02,1457,128.82,165.97,29289,479,57883
+Outdoor Storage,Shelves,Great,1/6/19,1258.43,109.43,1149,23,21,21,0.04,2498,127.28,160.23,29754,487,58802
+Outdoor Storage,Shelves,Great,12/30/18,757,0,757,14,14,15,0.03,1646,121.58,154.35,30879,505,61026
+Outdoor Storage,Shelves,Great,12/23/18,586.91,48.91,538,12,11,18,0.02,1170,163.55,155.96,29952,491,59193
+Outdoor Storage,Shelves,Great,12/16/18,523.33,52.33,471,10,9,15,0.02,1024,156,161.63,28989,477,57291
+Outdoor Storage,Shelves,Great,12/9/18,1478.77,54.77,1424,27,26,26,0.05,3096,192.58,161.84,28065,461,55465
+Outdoor Storage,Shelves,Great,12/2/18,2345.85,55.85,2290,42,41,41,0.08,4978,156.7,160.58,29204,480,57715
+Outdoor Storage,Shelves,Great,11/25/18,843.43,105.43,738,16,14,15,0.03,1604,156.31,157.22,31231,515,61722
+Outdoor Storage,Shelves,Great,11/18/18,683.85,48.85,635,14,13,17,0.02,1380,142.07,152.67,31709,523,62665
+Outdoor Storage,Shelves,Great,11/11/18,61,122,-61,1,-1,4,0,-133,84.16,147.49,32115,532,63467
+Outdoor Storage,Shelves,Great,11/4/18,907,0,907,17,17,20,0.03,1972,135.29,144.83,31780,527,62807
+Outdoor Storage,Shelves,Great,10/28/18,1003.5,111.5,892,18,16,19,0.03,1939,152.31,140.98,32511,541,64250
+Outdoor Storage,Shelves,Great,10/21/18,712,0,712,13,13,17,0.02,1548,114.65,136.57,33152,554,65517
+Outdoor Storage,Shelves,Great,10/14/18,846.93,52.93,794,16,15,19,0.03,1726,80.93,132.58,33460,561,66126
+Outdoor Storage,Shelves,Great,10/7/18,1145,0,1145,19,19,27,0.03,2489,131.67,129.71,33026,556,65270
+Outdoor Storage,Shelves,OK,1/13/19,163,0,163,4,4,5,0.02,354,75.31,167.44,9010,168,17807
+Outdoor Storage,Shelves,OK,1/6/19,289,0,289,6,6,7,0.03,628,88.09,158.27,9191,172,18163
+Outdoor Storage,Shelves,OK,12/30/18,168,0,168,3,3,3,0.02,365,94.86,153.65,9384,176,18546
+Outdoor Storage,Shelves,OK,12/23/18,132,0,132,2,2,2,0.01,287,143.99,155.47,9231,173,18243
+Outdoor Storage,Shelves,OK,12/16/18,-54,0,-54,-1,-1,1,-0.01,-117,177.18,169.54,8493,158,16785
+Outdoor Storage,Shelves,OK,12/9/18,320,0,320,7,7,5,0.04,696,96.64,166.04,8091,151,15989
+Outdoor Storage,Shelves,OK,12/2/18,372,0,372,8,8,8,0.05,809,127.28,161.14,8438,158,16676
+Outdoor Storage,Shelves,OK,11/25/18,181,0,181,4,4,6,0.02,393,223.84,157.5,8716,164,17226
+Outdoor Storage,Shelves,OK,11/18/18,140,0,140,3,3,3,0.02,304,120.51,154.63,8850,167,17489
+Outdoor Storage,Shelves,OK,11/11/18,106,0,106,3,3,4,0.02,230,137.21,151.48,9053,171,17891
+Outdoor Storage,Shelves,OK,11/4/18,144,48,96,3,2,2,0.01,209,144.53,144.55,9050,171,17885
+Outdoor Storage,Shelves,OK,10/28/18,0,-34,34,0,0,4,0,74,205.98,142.38,9148,173,18078
+Outdoor Storage,Shelves,OK,10/21/18,0,0,0,0,0,0,0,0,0,136.99,9120,172,18024
+Outdoor Storage,Shelves,OK,10/14/18,200,0,200,4,4,4,0.02,435,189.57,132.58,9120,172,18024
+Outdoor Storage,Shelves,OK,10/7/18,207,0,207,4,4,4,0.02,450,134.75,129.85,9272,175,18324
+Outdoor Storage,Boxes,Perfect,1/13/19,3727,0,3727,57,57,56,0.09,8282,149.07,182.49,45943,595,92813
+Outdoor Storage,Boxes,Perfect,1/6/19,3085.28,64.28,3021,48,47,52,0.07,6713,153.62,176.26,49535,645,100071
+Outdoor Storage,Boxes,Perfect,12/30/18,1645.57,68.57,1577,24,23,30,0.03,3504,88.78,168.98,52998,694,107067
+Outdoor Storage,Boxes,Perfect,12/23/18,1265.36,84.36,1181,15,14,20,0.02,2624,154.39,163.87,54126,709,109344
+Outdoor Storage,Boxes,Perfect,12/16/18,1536.84,76.84,1460,20,19,23,0.03,3244,136.91,161.14,54280,712,109656
+Outdoor Storage,Boxes,Perfect,12/9/18,2275,0,2275,31,31,32,0.04,5056,133.21,157.64,54667,718,110438
+Outdoor Storage,Boxes,Perfect,12/2/18,2947.67,79.67,2868,37,36,34,0.05,6373,145.3,154.49,55779,736,112684
+Outdoor Storage,Boxes,Perfect,11/25/18,1389,0,1389,21,21,25,0.03,3087,124.12,149.52,57961,764,117093
+Outdoor Storage,Boxes,Perfect,11/18/18,1022,0,1022,15,15,17,0.02,2271,178.87,150.64,57578,763,116320
+Outdoor Storage,Boxes,Perfect,11/11/18,1368.53,85.53,1283,16,15,17,0.02,2851,126.59,146.79,57921,768,117011
+Outdoor Storage,Boxes,Perfect,11/4/18,1640,0,1640,19,19,20,0.02,3644,94.17,144.9,57408,761,115976
+Outdoor Storage,Boxes,Perfect,10/28/18,2070.26,86.26,1984,24,23,23,0.03,4409,89.86,139.93,57779,765,116724
+Outdoor Storage,Boxes,Perfect,10/21/18,1060,0,1060,14,14,18,0.02,2356,103.64,138.04,58537,770,118256
+Outdoor Storage,Boxes,Perfect,10/14/18,1225.5,64.5,1161,19,18,23,0.02,2580,99.56,138.11,57580,757,116322
+Outdoor Storage,Boxes,Perfect,10/7/18,1271,0,1271,19,19,22,0.03,2824,88.78,139.65,54799,726,110704
+Outdoor Storage,Boxes,Great,1/13/19,2498.49,59.49,2439,42,41,41,0.11,5420,113.42,141.4,26465,351,53464
+Outdoor Storage,Boxes,Great,1/6/19,2748.03,67.03,2681,41,40,43,0.09,5958,83.31,130.83,28853,387,58289
+Outdoor Storage,Boxes,Great,12/30/18,2061.87,128.87,1933,32,30,32,0.07,4296,72.53,123.27,31310,420,63253
+Outdoor Storage,Boxes,Great,12/23/18,1668,0,1668,26,26,28,0.06,3707,71.53,122.22,30493,415,61602
+Outdoor Storage,Boxes,Great,12/16/18,947,0,947,14,14,15,0.03,2104,127.59,137.2,29256,399,59102
+Outdoor Storage,Boxes,Great,12/9/18,1850.15,132.15,1718,28,26,31,0.06,3818,116.89,132.58,27960,382,56484
+Outdoor Storage,Boxes,Great,12/2/18,2801.84,71.84,2730,39,38,43,0.09,6067,121.81,131.81,29560,406,59718
+Outdoor Storage,Boxes,Great,11/25/18,2201.76,64.76,2137,34,33,33,0.07,4749,116.66,128.1,32139,439,64927
+Outdoor Storage,Boxes,Great,11/18/18,859,0,859,10,10,13,0.02,1909,179.64,125.93,34206,468,69102
+Outdoor Storage,Boxes,Great,11/11/18,1135.71,75.71,1060,15,14,19,0.03,2356,117.43,120.47,34661,473,70022
+Outdoor Storage,Boxes,Great,11/4/18,2091.38,149.38,1942,28,26,26,0.05,4316,125.82,119,35196,477,71102
+Outdoor Storage,Boxes,Great,10/28/18,2225.6,85.6,2140,26,25,30,0.05,4756,80.93,114.03,36754,496,74251
+Outdoor Storage,Boxes,Great,10/21/18,1880.43,150.43,1730,25,23,27,0.04,3844,113.73,111.16,38123,513,77016
+Outdoor Storage,Boxes,Great,10/14/18,3094.34,79.34,3015,39,38,40,0.07,6700,96.71,108.15,39116,526,79022
+Outdoor Storage,Boxes,Great,10/7/18,1193.19,70.19,1123,17,16,24,0.03,2496,113.19,103.04,41185,551,83202
+Outdoor Storage,Boxes,OK,1/13/19,321,0,321,6,6,8,0.04,713,128.28,153.23,11895,165,24031
+Outdoor Storage,Boxes,OK,1/6/19,345,0,345,6,6,9,0.04,767,104.72,148.68,12025,167,24293
+Outdoor Storage,Boxes,OK,12/30/18,540,0,540,10,10,10,0.05,1200,147.92,142.31,12481,174,25213
+Outdoor Storage,Boxes,OK,12/23/18,245,0,245,5,5,9,0.03,544,128.67,142.66,12252,173,24751
+Outdoor Storage,Boxes,OK,12/16/18,330,0,330,4,4,5,0.02,733,121.97,148.26,12107,171,24458
+Outdoor Storage,Boxes,OK,12/9/18,529,0,529,9,9,10,0.05,1176,145.22,147.84,11740,164,23718
+Outdoor Storage,Boxes,OK,12/2/18,1033,0,1033,17,17,18,0.09,2296,115.89,139.86,12300,173,24849
+Outdoor Storage,Boxes,OK,11/25/18,612,0,612,10,10,12,0.05,1360,160.7,137.76,13344,188,26958
+Outdoor Storage,Boxes,OK,11/18/18,106.25,21.25,85,5,4,7,0.02,189,50.82,129.99,13908,197,28098
+Outdoor Storage,Boxes,OK,11/11/18,394,0,394,8,8,10,0.04,876,91.32,120.96,14175,203,28636
+Outdoor Storage,Boxes,OK,11/4/18,911,0,911,13,13,12,0.06,2024,93.63,118.79,14429,208,29149
+Outdoor Storage,Boxes,OK,10/28/18,160,0,160,5,5,9,0.02,356,98.95,115.78,15062,218,30429
+Outdoor Storage,Boxes,OK,10/21/18,503,0,503,6,6,6,0.03,1118,81.16,109.9,15294,224,30898
+Outdoor Storage,Boxes,OK,10/14/18,1010.15,72.15,938,14,13,14,0.05,2084,77.62,105.35,15689,227,31696
+Outdoor Storage,Boxes,OK,10/7/18,371,0,371,6,6,7,0.03,824,53.9,99.12,16116,233,32558
+Outdoor Storage,Shelves,Perfect,1/13/19,4214.17,50.17,4164,84,83,82,0.09,9052,195.58,181.86,49775,833,98370
+Outdoor Storage,Shelves,Perfect,1/6/19,5218.71,52.71,5166,99,98,96,0.1,11230,182.11,177.24,54116,913,106948
+Outdoor Storage,Shelves,Perfect,12/30/18,3095,0,3095,53,53,49,0.05,6728,157.16,170.52,60156,1016,118885
+Outdoor Storage,Shelves,Perfect,12/23/18,1949,0,1949,35,35,37,0.03,4237,164.78,167.44,61591,1045,121722
+Outdoor Storage,Shelves,Perfect,12/16/18,1962.06,56.06,1906,35,34,34,0.03,4143,182.18,166.46,62884,1071,124276
+Outdoor Storage,Shelves,Perfect,12/9/18,3533,0,3533,64,64,58,0.06,7680,194.5,165.41,62743,1077,123998
+Outdoor Storage,Shelves,Perfect,12/2/18,3895,0,3895,66,66,63,0.06,8467,151.84,161.7,65038,1126,128533
+Outdoor Storage,Shelves,Perfect,11/25/18,3204.63,61.63,3143,52,51,51,0.04,6833,142.91,157.85,67348,1170,133098
+Outdoor Storage,Shelves,Perfect,11/18/18,1537,0,1537,25,25,27,0.02,3341,136.37,155.12,68555,1194,135485
+Outdoor Storage,Shelves,Perfect,11/11/18,2591.33,56.33,2535,46,45,42,0.04,5511,143.84,151.2,69741,1216,137828
+Outdoor Storage,Shelves,Perfect,11/4/18,2440.53,59.53,2381,41,40,38,0.03,5176,104.64,147.49,70310,1232,138952
+Outdoor Storage,Shelves,Perfect,10/28/18,2019.13,65.13,1954,31,30,30,0.02,4248,108.49,143.29,71645,1257,141591
+Outdoor Storage,Shelves,Perfect,10/21/18,2482,0,2482,39,39,38,0.03,5396,99.25,139.93,71859,1263,142013
+Outdoor Storage,Shelves,Perfect,10/14/18,1787.64,61.64,1726,29,28,30,0.02,3752,132.98,137.62,72182,1272,142652
+Outdoor Storage,Shelves,Perfect,10/7/18,1645,0,1645,26,26,29,0.02,3576,110.19,138.67,70168,1240,138672
+Outdoor Storage,Shelves,Great,1/13/19,2712,0,2712,61,61,65,0.08,5896,169.25,167.51,38035,701,75167
+Outdoor Storage,Shelves,Great,1/6/19,3384,0,3384,71,71,75,0.09,7357,142.37,161.28,40822,758,80676
+Outdoor Storage,Shelves,Great,12/30/18,2916,0,2916,56,56,52,0.06,6339,133.6,155.19,44609,829,88161
+Outdoor Storage,Shelves,Great,12/23/18,1550.69,51.69,1499,30,29,35,0.03,3259,166.17,156.24,44726,838,88391
+Outdoor Storage,Shelves,Great,12/16/18,632,0,632,13,13,18,0.02,1374,121.2,162.82,43376,822,85724
+Outdoor Storage,Shelves,Great,12/9/18,1942.97,53.97,1889,36,35,38,0.04,4107,135.6,160.86,41438,793,81893
+Outdoor Storage,Shelves,Great,12/2/18,2743.76,52.76,2691,52,51,49,0.06,5850,139.22,157.01,43096,827,85170
+Outdoor Storage,Shelves,Great,11/25/18,1526.64,52.64,1474,29,28,29,0.03,3204,128.21,151.9,45108,866,89146
+Outdoor Storage,Shelves,Great,11/18/18,1089,0,1089,21,21,24,0.02,2367,101.79,147.07,46296,887,91493
+Outdoor Storage,Shelves,Great,11/11/18,1112.1,101.1,1011,22,20,20,0.02,2198,172.71,142.87,47671,911,94211
+Outdoor Storage,Shelves,Great,11/4/18,1095.15,52.15,1043,21,20,27,0.02,2267,108.49,139.72,47380,908,93637
+Outdoor Storage,Shelves,Great,10/28/18,954.67,59.67,895,16,15,22,0.02,1946,153.77,137.27,47907,920,94678
+Outdoor Storage,Shelves,Great,10/21/18,1338.38,116.38,1222,23,21,25,0.02,2657,117.04,133.07,48004,919,94870
+Outdoor Storage,Shelves,Great,10/14/18,1410,0,1410,25,25,31,0.03,3065,111.73,129.29,48558,929,95965
+Outdoor Storage,Shelves,Great,10/7/18,2075.61,118.61,1957,35,33,33,0.03,4254,105.72,124.53,48686,935,96217
+Outdoor Storage,Shelves,OK,1/13/19,528,0,528,12,12,11,0.06,1148,213.52,175.35,10034,206,19830
+Outdoor Storage,Shelves,OK,1/6/19,568,0,568,14,14,14,0.06,1235,167.09,168.91,10608,218,20965
+Outdoor Storage,Shelves,OK,12/30/18,273,0,273,6,6,7,0.03,593,189.04,164.57,11311,233,22354
+Outdoor Storage,Shelves,OK,12/23/18,84,0,84,2,2,4,0.01,183,232.54,163.03,11166,230,22067
+Outdoor Storage,Shelves,OK,12/16/18,309,0,309,7,7,7,0.03,672,253.48,171.64,10982,226,21704
+Outdoor Storage,Shelves,OK,12/9/18,345,0,345,8,8,8,0.04,750,192.65,173.81,10568,220,20885
+Outdoor Storage,Shelves,OK,12/2/18,63,0,63,2,2,6,0.01,137,84.93,165.76,10905,228,21552
+Outdoor Storage,Shelves,OK,11/25/18,252,0,252,5,5,5,0.02,548,105.41,161.77,10962,229,21663
+Outdoor Storage,Shelves,OK,11/18/18,340,0,340,7,7,8,0.03,739,165.24,157.92,11054,231,21846
+Outdoor Storage,Shelves,OK,11/11/18,326,0,326,7,7,8,0.03,709,176.41,153.65,11383,239,22496
+Outdoor Storage,Shelves,OK,11/4/18,354,0,354,7,7,7,0.03,770,108.34,148.19,11663,244,23050
+Outdoor Storage,Shelves,OK,10/28/18,0,10,-10,0,0,2,0,-22,125.66,144.2,11937,250,23591
+Outdoor Storage,Shelves,OK,10/21/18,206,0,206,4,4,5,0.02,448,99.72,140.77,11860,248,23439
+Outdoor Storage,Shelves,OK,10/14/18,272.5,54.5,218,5,4,6,0.02,474,53.98,134.05,12110,253,23933
+Outdoor Storage,Shelves,OK,10/7/18,56,28,28,2,1,2,0,61,74.23,128.66,12246,256,24202
+Outdoor Storage,Envelopes,Perfect,1/13/19,995.83,39.83,956,25,24,23,0.06,1125,194.43,209.65,16906,359,24862
+Outdoor Storage,Envelopes,Perfect,1/6/19,1412.16,37.16,1375,38,37,35,0.09,1618,180.64,202.58,17791,380,26164
+Outdoor Storage,Envelopes,Perfect,12/30/18,762,0,762,20,20,22,0.05,896,217.37,196.91,19380,419,28500
+Outdoor Storage,Envelopes,Perfect,12/23/18,805.38,47.38,758,17,16,17,0.04,892,133.29,192.15,19832,433,29165
+Outdoor Storage,Envelopes,Perfect,12/16/18,595.83,45.83,550,13,12,22,0.03,647,125.43,185.5,20193,441,29695
+Outdoor Storage,Envelopes,Perfect,12/9/18,859,0,859,26,26,34,0.06,1011,165.32,183.05,19773,431,29077
+Outdoor Storage,Envelopes,Perfect,12/2/18,2433.8,46.8,2387,52,51,45,0.1,2808,186.34,181.79,20451,452,30075
+Outdoor Storage,Envelopes,Perfect,11/25/18,896,0,896,20,20,26,0.04,1054,157.62,179.83,21905,485,32214
+Outdoor Storage,Envelopes,Perfect,11/18/18,813.87,50.87,763,16,15,16,0.03,898,102.64,178.57,22310,492,32809
+Outdoor Storage,Envelopes,Perfect,11/11/18,953,0,953,20,20,19,0.04,1121,163.47,175.07,22158,491,32586
+Outdoor Storage,Envelopes,Perfect,11/4/18,1287.69,47.69,1240,27,26,29,0.05,1459,209.9,177.8,22220,494,32676
+Outdoor Storage,Envelopes,Perfect,10/28/18,950,50,900,19,18,24,0.03,1059,142.84,174.51,23080,511,33941
+Outdoor Storage,Envelopes,Perfect,10/21/18,1617.58,47.58,1570,34,33,31,0.06,1847,114.73,171.22,23221,512,34149
+Outdoor Storage,Envelopes,Perfect,10/14/18,2385.71,47.71,2338,50,49,47,0.09,2751,126.13,168.98,23933,529,35195
+Outdoor Storage,Envelopes,Perfect,10/7/18,2100,50,2050,42,41,44,0.07,2412,139.99,163.45,25808,565,37953
+Outdoor Storage,Envelopes,Great,1/13/19,482,0,482,12,12,11,0.11,567,291.06,216.51,4634,98,6815
+Outdoor Storage,Envelopes,Great,1/6/19,262.86,32.86,230,8,7,10,0.06,271,148.3,210.35,5002,107,7355
+Outdoor Storage,Envelopes,Great,12/30/18,441.1,40.1,401,11,10,12,0.08,472,128.28,198.59,5227,113,7687
+Outdoor Storage,Envelopes,Great,12/23/18,201.25,40.25,161,5,4,5,0.03,189,60.37,194.6,5550,121,8161
+Outdoor Storage,Envelopes,Great,12/16/18,288,0,288,7,7,7,0.06,339,173.56,197.75,5393,118,7931
+Outdoor Storage,Envelopes,Great,12/9/18,421.67,76.67,345,11,9,10,0.07,406,142.37,186.55,5448,119,8012
+Outdoor Storage,Envelopes,Great,12/2/18,546.92,72.92,474,15,13,14,0.09,558,184.03,185.5,5837,129,8583
+Outdoor Storage,Envelopes,Great,11/25/18,367.88,40.88,327,9,8,8,0.06,385,128.74,186.62,5959,135,8763
+Outdoor Storage,Envelopes,Great,11/18/18,216.67,86.67,130,5,3,3,0.02,153,154,185.08,6175,141,9081
+Outdoor Storage,Envelopes,Great,11/11/18,124,0,124,3,3,3,0.02,146,31.72,176.4,6201,142,9119
+Outdoor Storage,Envelopes,Great,11/4/18,485.45,40.45,445,12,11,12,0.07,524,123.28,169.12,6156,141,9052
+Outdoor Storage,Envelopes,Great,10/28/18,360,0,360,8,8,9,0.05,424,210.21,175.21,6310,147,9279
+Outdoor Storage,Envelopes,Great,10/21/18,501.82,41.82,460,12,11,12,0.07,541,89.55,164.57,6592,153,9695
+Outdoor Storage,Envelopes,Great,10/14/18,585,0,585,14,14,13,0.08,688,113.04,160.86,6959,162,10233
+Outdoor Storage,Envelopes,Great,10/7/18,643,0,643,14,14,14,0.07,756,121.51,151.34,7417,174,10908
+Outdoor Storage,Envelopes,OK,1/13/19,0,0,0,0,0,0,0,0,0,234.64,842,19,1238
+Outdoor Storage,Envelopes,OK,1/6/19,54,0,54,1,1,1,0.05,64,14.94,218.96,842,19,1238
+Outdoor Storage,Envelopes,OK,12/30/18,36,0,36,1,1,1,0.05,42,200.28,212.66,886,20,1302
+Outdoor Storage,Envelopes,OK,12/23/18,40,20,20,2,1,1,0.05,24,37.88,199.99,922,21,1356
+Outdoor Storage,Envelopes,OK,12/16/18,0,0,0,0,0,0,0,0,0,199.64,942,22,1385
+Outdoor Storage,Envelopes,OK,12/9/18,89,0,89,3,3,3,0.14,105,195.66,205.66,759,18,1116
+Outdoor Storage,Envelopes,OK,12/2/18,108,36,72,3,2,2,0.09,85,159.7,214.06,849,21,1249
+Outdoor Storage,Envelopes,OK,11/25/18,127,0,127,2,2,3,0.08,149,107.57,203.56,884,22,1301
+Outdoor Storage,Envelopes,OK,11/18/18,-8,-4,-4,2,1,2,0.04,-5,285.05,188.3,1049,25,1543
+Outdoor Storage,Envelopes,OK,11/11/18,0,0,0,0,0,0,0,0,0,192.36,989,25,1454
+Outdoor Storage,Envelopes,OK,11/4/18,0,0,0,0,0,0,0,0,0,187.46,989,25,1454
+Outdoor Storage,Envelopes,OK,10/28/18,126,0,126,3,3,3,0.12,148,68.38,190.19,876,22,1288
+Outdoor Storage,Envelopes,OK,10/21/18,60,0,60,1,1,1,0.04,71,9.39,179.06,991,26,1458
+Outdoor Storage,Envelopes,OK,10/14/18,144,0,144,4,4,4,0.14,169,137.75,180.74,997,25,1466
+Outdoor Storage,Envelopes,OK,10/7/18,98,0,98,3,3,4,0.09,115,99.41,164.99,1170,29,1721
+Outdoor Storage,Cabinets,Perfect,1/13/19,382.5,127.5,255,3,2,2,0.02,327,135.83,213.85,12607,83,14694
+Outdoor Storage,Cabinets,Perfect,1/6/19,170,85,85,2,1,1,0.01,109,106.49,207.69,12888,85,15021
+Outdoor Storage,Cabinets,Perfect,12/30/18,0,0,0,0,0,0,0,0,0,202.79,12981,86,15129
+Outdoor Storage,Cabinets,Perfect,12/23/18,109,0,109,1,1,1,0.01,140,82.85,196.49,12981,86,15129
+Outdoor Storage,Cabinets,Perfect,12/16/18,0,0,0,0,0,0,0,0,0,191.66,13088,87,15254
+Outdoor Storage,Cabinets,Perfect,12/9/18,0,0,0,0,0,0,0,0,0,186.76,13088,87,15254
+Outdoor Storage,Cabinets,Perfect,12/2/18,0,0,0,0,0,0,0,0,0,181.86,13088,87,15254
+Outdoor Storage,Cabinets,Perfect,11/25/18,125,0,125,1,1,1,0.01,160,106.57,176.89,12939,85,15081
+Outdoor Storage,Cabinets,Perfect,11/18/18,0,0,0,0,0,0,0,0,0,175.07,13090,86,15256
+Outdoor Storage,Cabinets,Perfect,11/11/18,0,0,0,0,0,0,0,0,0,171.22,12828,85,14951
+Outdoor Storage,Cabinets,Perfect,11/4/18,700,350,350,2,1,1,0.01,449,51.13,164.92,12828,85,14951
+Outdoor Storage,Cabinets,Perfect,10/28/18,0,0,0,0,0,0,0,0,0,160.09,13156,86,15333
+Outdoor Storage,Cabinets,Perfect,10/21/18,120,60,60,2,1,1,0.01,77,48.9,153.93,13156,86,15333
+Outdoor Storage,Cabinets,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,149.03,13215,87,15403
+Outdoor Storage,Cabinets,Perfect,10/7/18,0,0,0,0,0,0,0,0,0,144.13,13215,87,15403
+Outdoor Storage,Cabinets,Great,1/13/19,1579,0,1579,11,11,11,0.09,2024,186.03,228.76,15938,107,18576
+Outdoor Storage,Cabinets,Great,1/6/19,648,162,486,4,3,3,0.03,623,304.54,227.22,17685,118,20612
+Outdoor Storage,Cabinets,Great,12/30/18,41.76,136.76,-95,1,0,1,0,-122,136.52,222.25,18128,120,21128
+Outdoor Storage,Cabinets,Great,12/23/18,255,170,85,3,1,1,0.01,109,412.1,220.99,18043,120,21029
+Outdoor Storage,Cabinets,Great,12/16/18,342,171,171,2,1,1,0.01,219,124.97,215.67,18128,121,21128
+Outdoor Storage,Cabinets,Great,12/9/18,0,0,0,0,0,0,0,0,0,210.42,18296,122,21324
+Outdoor Storage,Cabinets,Great,12/2/18,0,0,0,0,0,0,0,0,0,205.52,18296,122,21324
+Outdoor Storage,Cabinets,Great,11/25/18,360,180,180,2,1,1,0.01,231,65.22,199.43,18296,122,21324
+Outdoor Storage,Cabinets,Great,11/18/18,35.59,26.59,9,2,0,1,0,12,161.01,193.06,18307,123,21337
+Outdoor Storage,Cabinets,Great,11/11/18,0,0,0,0,0,0,0,0,0,189,18547,124,21617
+Outdoor Storage,Cabinets,Great,11/4/18,134,67,67,2,1,1,0.01,86,79.62,183.19,18547,124,21617
+Outdoor Storage,Cabinets,Great,10/28/18,63,0,63,1,1,1,0.01,81,182.57,179.62,18459,124,21514
+Outdoor Storage,Cabinets,Great,10/21/18,303,202,101,3,1,1,0.01,129,37.5,173.67,18516,125,21581
+Outdoor Storage,Cabinets,Great,10/14/18,26.98,184.98,-158,1,0,1,0,-203,75.08,168.91,18631,126,21714
+Outdoor Storage,Cabinets,Great,10/7/18,0,0,0,0,0,0,0,0,0,163.31,18295,124,21323
+Outdoor Storage,Cabinets,OK,1/13/19,621,0,621,3,3,3,0.08,796,240.55,225.75,4704,33,5482
+Outdoor Storage,Cabinets,OK,1/6/19,0,0,0,0,0,0,0,0,0,221.13,5387,36,6278
+Outdoor Storage,Cabinets,OK,12/30/18,136,0,136,1,1,1,0.03,174,204.2,215.46,5387,36,6278
+Outdoor Storage,Cabinets,OK,12/23/18,0,0,0,0,0,0,0,0,0,216.51,5477,36,6383
+Outdoor Storage,Cabinets,OK,12/16/18,0,0,0,0,0,0,0,0,0,211.61,5477,36,6383
+Outdoor Storage,Cabinets,OK,12/9/18,84,42,42,2,1,1,0.03,54,189.73,205.8,5477,36,6383
+Outdoor Storage,Cabinets,OK,12/2/18,0,0,0,0,0,0,0,0,0,200.9,5518,37,6431
+Outdoor Storage,Cabinets,OK,11/25/18,0,0,0,0,0,0,0,0,0,196,5518,37,6431
+Outdoor Storage,Cabinets,OK,11/18/18,0,0,0,0,0,0,0,0,0,191.1,5518,37,6431
+Outdoor Storage,Cabinets,OK,11/11/18,0,0,0,0,0,0,0,0,0,186.2,5518,37,6431
+Outdoor Storage,Cabinets,OK,11/4/18,0,0,0,0,0,0,0,0,0,181.3,5518,37,6431
+Outdoor Storage,Cabinets,OK,10/28/18,0,0,0,0,0,0,0,0,0,176.4,5518,37,6431
+Outdoor Storage,Cabinets,OK,10/21/18,0,0,0,0,0,0,0,0,0,171.5,5518,37,6431
+Outdoor Storage,Cabinets,OK,10/14/18,0,0,0,0,0,0,0,0,0,166.6,5518,37,6431
+Outdoor Storage,Cabinets,OK,10/7/18,0,0,0,0,0,0,0,0,0,161.7,5518,37,6431
+Kids Storage,Boxes,Perfect,1/13/19,596.62,42.62,554,14,13,12,0.07,1231,208.05,168.84,10418,183,21047
+Kids Storage,Boxes,Perfect,1/6/19,791.92,60.92,731,13,12,14,0.06,1624,192.04,166.53,10881,194,21982
+Kids Storage,Boxes,Perfect,12/30/18,586.3,53.3,533,11,10,10,0.05,1184,155.23,159.25,11759,207,23756
+Kids Storage,Boxes,Perfect,12/23/18,552,0,552,11,11,9,0.05,1227,198.43,155.54,12220,215,24687
+Kids Storage,Boxes,Perfect,12/16/18,382.5,42.5,340,9,8,8,0.03,756,143.37,153.23,12741,225,25740
+Kids Storage,Boxes,Perfect,12/9/18,263,0,263,6,6,7,0.03,584,175.95,151.62,12825,228,25909
+Kids Storage,Boxes,Perfect,12/2/18,1040.55,49.55,991,21,20,16,0.08,2202,168.86,146.23,12957,232,26176
+Kids Storage,Boxes,Perfect,11/25/18,625.09,52.09,573,12,11,11,0.04,1273,125.36,142.17,13707,247,27691
+Kids Storage,Boxes,Perfect,11/18/18,381,0,381,7,7,7,0.03,847,144.91,140.35,14024,256,28331
+Kids Storage,Boxes,Perfect,11/11/18,250,0,250,5,5,5,0.02,556,118.58,136.08,14304,261,28898
+Kids Storage,Boxes,Perfect,11/4/18,289.2,48.2,241,6,5,5,0.02,536,120.12,132.3,14304,262,28898
+Kids Storage,Boxes,Perfect,10/28/18,217,0,217,4,4,6,0.02,482,62.76,127.61,14402,265,29096
+Kids Storage,Boxes,Perfect,10/21/18,262.5,52.5,210,5,4,5,0.02,467,67.45,124.39,14176,260,28638
+Kids Storage,Boxes,Perfect,10/14/18,491,0,491,9,9,9,0.03,1091,41.5,118.37,14307,263,28902
+Kids Storage,Boxes,Perfect,10/7/18,156,52,104,3,2,5,0.01,231,97.02,118.02,14102,259,28489
+Kids Storage,Boxes,Great,1/13/19,603.5,35.5,568,17,16,17,0.11,1262,110.5,138.74,7275,132,14698
+Kids Storage,Boxes,Great,1/6/19,622,0,622,13,13,12,0.08,1382,104.49,131.6,7910,148,15980
+Kids Storage,Boxes,Great,12/30/18,337.17,48.17,289,7,6,6,0.04,642,171.86,128.8,8537,160,17247
+Kids Storage,Boxes,Great,12/23/18,442.13,49.13,393,9,8,9,0.05,873,110.34,125.65,8624,160,17422
+Kids Storage,Boxes,Great,12/16/18,218,0,218,5,5,7,0.03,484,118.58,130.41,8797,162,17771
+Kids Storage,Boxes,Great,12/9/18,317,0,317,7,7,8,0.04,704,128.51,128.1,8526,158,17224
+Kids Storage,Boxes,Great,12/2/18,507.27,42.27,465,12,11,11,0.06,1033,133.9,122.85,8851,165,17880
+Kids Storage,Boxes,Great,11/25/18,267,0,267,5,5,6,0.03,593,123.05,121.24,9149,173,18482
+Kids Storage,Boxes,Great,11/18/18,364,91,273,8,6,7,0.03,607,127.59,117.46,9266,176,18720
+Kids Storage,Boxes,Great,11/11/18,366.67,91.67,275,8,6,6,0.03,611,189.96,115.15,9493,181,19178
+Kids Storage,Boxes,Great,11/4/18,244.5,81.5,163,6,4,4,0.02,362,88.09,112.77,9577,184,19347
+Kids Storage,Boxes,Great,10/28/18,0,153,-153,0,-3,0,-0.02,-340,0,108.85,9570,185,19333
+Kids Storage,Boxes,Great,10/21/18,183,61,122,3,2,2,0.01,271,49.9,106.19,9255,178,18698
+Kids Storage,Boxes,Great,10/14/18,159,53,106,3,2,4,0.01,236,93.63,104.65,8987,174,18156
+Kids Storage,Boxes,Great,10/7/18,293,0,293,5,5,6,0.03,651,82.01,101.92,8841,172,17860
+Kids Storage,Boxes,OK,1/13/19,77,0,77,1,1,1,0.02,171,98.87,132.51,2616,50,5284
+Kids Storage,Boxes,OK,1/6/19,140,0,140,3,3,3,0.06,311,142.99,127.89,2701,51,5456
+Kids Storage,Boxes,OK,12/30/18,197,0,197,6,6,6,0.1,438,159.7,125.44,2855,54,5767
+Kids Storage,Boxes,OK,12/23/18,0,0,0,0,0,0,0,0,0,125.09,2911,58,5880
+Kids Storage,Boxes,OK,12/16/18,47,0,47,1,1,2,0.02,104,77.15,125.72,2742,55,5540
+Kids Storage,Boxes,OK,12/9/18,175,35,140,5,4,4,0.07,311,108.96,121.03,2729,55,5513
+Kids Storage,Boxes,OK,12/2/18,144,36,108,4,3,3,0.05,240,133.9,116.55,2878,59,5813
+Kids Storage,Boxes,OK,11/25/18,80,40,40,2,1,1,0.02,89,131.13,113.82,2911,60,5880
+Kids Storage,Boxes,OK,11/18/18,0,17,-17,0,0,1,0,-38,38.81,111.72,2903,60,5864
+Kids Storage,Boxes,OK,11/11/18,70,0,70,1,1,1,0.02,156,38.89,108.36,2838,59,5733
+Kids Storage,Boxes,OK,11/4/18,103.5,34.5,69,3,2,3,0.03,153,80.54,102.76,2856,59,5769
+Kids Storage,Boxes,OK,10/28/18,108,0,108,2,2,1,0.03,240,98.56,99.89,2929,61,5918
+Kids Storage,Boxes,OK,10/21/18,62,0,62,1,1,2,0.02,138,57.44,96.04,2962,62,5984
+Kids Storage,Boxes,OK,10/14/18,78,0,78,1,1,1,0.02,173,18.87,90.65,2974,62,6009
+Kids Storage,Boxes,OK,10/7/18,98,0,98,2,2,2,0.03,218,77.39,84.77,3001,62,6062
+Kids Storage,Bags,Perfect,1/13/19,71,0,71,2,2,3,0.12,104,108.57,96.11,910,15,1672
+Kids Storage,Bags,Perfect,1/6/19,132,0,132,2,2,4,0.13,194,91.32,142.17,816,13,1500
+Kids Storage,Bags,Perfect,12/30/18,430,0,430,6,6,6,0.29,632,44.89,74.76,972,15,1788
+Kids Storage,Bags,Perfect,12/23/18,280,70,210,4,3,4,0.17,309,4.54,69.51,986,15,1812
+Kids Storage,Bags,Perfect,12/16/18,56,0,56,1,1,2,0.07,82,16.86,92.96,952,14,1749
+Kids Storage,Bags,Perfect,12/9/18,358.17,51.17,307,7,6,7,0.32,451,230.31,136.08,848,13,1559
+Kids Storage,Bags,Perfect,12/2/18,179,0,179,3,3,3,0.14,263,81.93,134.47,1143,19,2101
+Kids Storage,Bags,Perfect,11/25/18,98,49,49,2,1,1,0.05,72,15.79,131.18,1224,20,2251
+Kids Storage,Bags,Perfect,11/18/18,0,49,-49,0,-1,0,-0.06,-72,0,142.94,1150,19,2113
+Kids Storage,Bags,Perfect,11/11/18,285,57,228,5,4,5,0.18,335,8.24,121.17,1095,18,2012
+Kids Storage,Bags,Perfect,11/4/18,84,42,42,2,1,2,0.05,62,106.65,115.99,1137,19,2091
+Kids Storage,Bags,Perfect,10/28/18,180,60,120,3,2,2,0.13,176,11.55,150.78,810,14,1488
+Kids Storage,Bags,Perfect,10/21/18,195,0,195,3,3,4,0.18,287,36.5,139.16,761,14,1399
+Kids Storage,Bags,Perfect,10/14/18,263,0,263,5,5,5,0.23,387,70.46,136.64,985,17,1810
+Kids Storage,Bags,Perfect,10/7/18,434.4,72.4,362,6,5,5,0.22,532,6.31,120.47,1019,18,1872
+Kids Storage,Bags,Great,1/13/19,346,0,346,5,5,5,0.46,509,59.6,96.67,322,6,592
+Kids Storage,Bags,Great,1/6/19,361,0,361,6,6,7,0.38,531,23.18,70.84,633,10,1163
+Kids Storage,Bags,Great,12/30/18,700.36,58.36,642,12,11,11,0.42,944,28.57,49.21,992,15,1824
+Kids Storage,Bags,Great,12/23/18,894.92,63.92,831,14,13,12,0.37,1222,1.62,32.13,1348,22,2477
+Kids Storage,Bags,Great,12/16/18,192,96,96,4,2,2,0.11,141,191.73,95.97,1144,17,2103
+Kids Storage,Bags,Great,12/9/18,130,0,130,2,2,3,0.15,191,197.2,152.39,685,11,1260
+Kids Storage,Bags,Great,12/2/18,79.38,63.38,16,2,0,1,0,24,68.07,128.59,754,12,1385
+Kids Storage,Bags,Great,11/25/18,35.56,40.56,-5,1,0,2,0,-7,88.09,118.51,671,11,1233
+Kids Storage,Bags,Great,11/18/18,0,37,-37,0,0,1,0,-54,284.82,145.95,733,12,1347
+Kids Storage,Bags,Great,11/11/18,192,64,128,3,2,2,0.14,188,35.5,133.63,694,12,1276
+Kids Storage,Bags,Great,11/4/18,0,-16,16,0,0,2,0,24,36.88,114.31,756,13,1389
+Kids Storage,Bags,Great,10/28/18,336,168,168,4,2,3,0.13,247,9.39,107.17,745,13,1369
+Kids Storage,Bags,Great,10/21/18,189,63,126,3,2,2,0.13,185,19.94,102.13,832,14,1529
+Kids Storage,Bags,Great,10/14/18,288.33,115.33,173,5,3,3,0.16,254,7.24,90.51,932,16,1713
+Kids Storage,Bags,Great,10/7/18,381.6,63.6,318,6,5,6,0.25,468,8.09,64.54,873,15,1606
+Kids Storage,Bags,OK,1/13/19,67,0,67,1,1,1,0.2,99,0.23,250.11,178,4,328
+Kids Storage,Bags,OK,1/6/19,158.67,39.67,119,4,3,3,0.43,175,63.53,175.42,178,4,328
+Kids Storage,Bags,OK,12/30/18,187,0,187,4,4,4,0.36,275,3.47,126.56,308,7,566
+Kids Storage,Bags,OK,12/23/18,176,0,176,4,4,4,0.29,259,0.77,90.16,462,10,849
+Kids Storage,Bags,OK,12/16/18,142,0,142,2,2,2,0.25,209,31.96,196.07,295,6,542
+Kids Storage,Bags,OK,12/9/18,0,0,0,0,0,0,0,0,0,224,307,6,564
+Kids Storage,Bags,OK,12/2/18,0,0,0,0,0,0,0,0,0,263.41,230,5,423
+Kids Storage,Bags,OK,11/25/18,0,0,0,0,0,0,0,0,0,258.51,230,5,423
+Kids Storage,Bags,OK,11/18/18,0,0,0,0,0,0,0,0,0,253.61,230,5,423
+Kids Storage,Bags,OK,11/11/18,0,0,0,0,0,0,0,0,0,248.71,230,5,423
+Kids Storage,Bags,OK,11/4/18,0,4,-4,0,0,1,0,-6,105.72,191.59,167,4,307
+Kids Storage,Bags,OK,10/28/18,0,7,-7,0,0,1,0,-10,11.63,166.74,222,5,408
+Kids Storage,Bags,OK,10/21/18,63,0,63,1,1,1,0.17,93,3.93,183.05,222,5,408
+Kids Storage,Bags,OK,10/14/18,108,0,108,2,2,2,0.25,159,9.47,157.36,278,6,512
+Kids Storage,Bags,OK,10/7/18,219,73,146,3,2,3,0.22,215,7.62,97.65,329,7,605
+Kids Storage,Shelves,Perfect,1/13/19,864.64,57.64,807,15,14,14,0.08,1754,123.82,150.22,11505,161,22737
+Kids Storage,Shelves,Perfect,1/6/19,1263.16,63.16,1200,20,19,23,0.1,2609,96.87,141.89,11750,166,23222
+Kids Storage,Shelves,Perfect,12/30/18,1034,0,1034,16,16,16,0.08,2248,69.69,135.73,13269,187,26224
+Kids Storage,Shelves,Perfect,12/23/18,953.6,59.6,894,16,15,17,0.07,1943,107.11,130.13,14077,200,27820
+Kids Storage,Shelves,Perfect,12/16/18,925,0,925,14,14,14,0.07,2011,132.67,135.59,13901,198,27472
+Kids Storage,Shelves,Perfect,12/9/18,1149,0,1149,17,17,23,0.08,2498,143.3,136.64,13707,197,27089
+Kids Storage,Shelves,Perfect,12/2/18,663,0,663,10,10,14,0.05,1441,136.83,138.53,14389,209,28437
+Kids Storage,Shelves,Perfect,11/25/18,856,0,856,13,13,13,0.06,1861,195.73,140.84,13974,205,27617
+Kids Storage,Shelves,Perfect,11/18/18,1179,0,1179,17,17,17,0.08,2563,143.68,143.85,14135,209,27935
+Kids Storage,Shelves,Perfect,11/11/18,1377.89,68.89,1309,20,19,19,0.08,2846,103.95,135.94,15088,224,29817
+Kids Storage,Shelves,Perfect,11/4/18,1227.61,64.61,1163,19,18,23,0.07,2528,78.54,132.23,15368,229,30372
+Kids Storage,Shelves,Perfect,10/28/18,1074,0,1074,16,16,22,0.06,2335,100.02,128.52,16281,242,32176
+Kids Storage,Shelves,Perfect,10/21/18,920,0,920,14,14,14,0.05,2000,65.76,126.77,16631,248,32867
+Kids Storage,Shelves,Perfect,10/14/18,984.64,65.64,919,15,14,17,0.05,1998,84.78,125.65,16773,251,33148
+Kids Storage,Shelves,Perfect,10/7/18,1508,0,1508,24,24,26,0.09,3278,99.02,127.75,15941,241,31504
+Kids Storage,Shelves,Great,1/13/19,990.25,58.25,932,17,16,21,0.1,2026,123.66,126.28,9293,147,18365
+Kids Storage,Shelves,Great,1/6/19,1691,0,1691,29,29,31,0.15,3676,84.78,114.87,10402,164,20557
+Kids Storage,Shelves,Great,12/30/18,1001.6,62.6,939,16,15,17,0.07,2041,55.52,107.17,12169,191,24050
+Kids Storage,Shelves,Great,12/23/18,1021.13,120.13,901,17,15,16,0.07,1959,81.39,107.59,11903,187,23524
+Kids Storage,Shelves,Great,12/16/18,772.36,64.36,708,12,11,12,0.06,1539,190.42,128.38,10760,168,21265
+Kids Storage,Shelves,Great,12/9/18,957.69,127.69,830,15,13,15,0.08,1804,119.74,134.05,10079,158,19920
+Kids Storage,Shelves,Great,12/2/18,1449.8,131.8,1318,22,20,22,0.1,2865,134.67,130.9,11059,174,21857
+Kids Storage,Shelves,Great,11/25/18,1042.31,61.31,981,17,16,16,0.08,2133,104.34,127.19,12076,190,23865
+Kids Storage,Shelves,Great,11/18/18,978.21,65.21,913,15,14,14,0.07,1985,81.24,121.94,12739,201,25176
+Kids Storage,Shelves,Great,11/11/18,506,0,506,9,9,11,0.04,1100,144.38,115.92,13706,216,27087
+Kids Storage,Shelves,Great,11/4/18,1269.4,115.4,1154,22,20,20,0.08,2509,77.54,110.88,13941,221,27552
+Kids Storage,Shelves,Great,10/28/18,733.33,133.33,600,11,9,13,0.04,1304,83.47,104.72,14553,233,28761
+Kids Storage,Shelves,Great,10/21/18,1061.93,124.93,937,17,15,16,0.06,2037,62.29,100.45,14887,238,29422
+Kids Storage,Shelves,Great,10/14/18,1498.29,130.29,1368,23,21,23,0.08,2974,51.9,94.15,15770,251,31165
+Kids Storage,Shelves,Great,10/7/18,1949.87,121.87,1828,32,30,29,0.1,3974,102.1,88.9,16625,264,32857
+Kids Storage,Shelves,OK,1/13/19,222,0,222,5,5,6,0.07,483,167.24,108.43,4278,72,8454
+Kids Storage,Shelves,OK,1/6/19,266,0,266,5,5,7,0.06,578,27.1,101.43,4530,77,8952
+Kids Storage,Shelves,OK,12/30/18,263,0,263,5,5,6,0.06,572,120.35,97.23,4835,82,9554
+Kids Storage,Shelves,OK,12/23/18,157,0,157,3,3,3,0.04,341,82.01,90.58,4770,81,9426
+Kids Storage,Shelves,OK,12/16/18,165,0,165,3,3,4,0.04,359,146.99,109.34,4364,74,8624
+Kids Storage,Shelves,OK,12/9/18,342,0,342,6,6,6,0.08,743,184.57,118.51,4052,68,8009
+Kids Storage,Shelves,OK,12/2/18,309,0,309,5,5,4,0.06,672,176.48,118.37,4346,74,8589
+Kids Storage,Shelves,OK,11/25/18,315,0,315,5,5,5,0.06,685,63.6,110.46,4634,79,9159
+Kids Storage,Shelves,OK,11/18/18,25.49,21.49,4,1,0,1,0,9,117.89,107.66,4882,83,9648
+Kids Storage,Shelves,OK,11/11/18,84,0,84,2,2,4,0.02,183,74.84,101.5,4786,82,9459
+Kids Storage,Shelves,OK,11/4/18,180,0,180,3,3,3,0.03,391,81.93,98.28,4873,84,9630
+Kids Storage,Shelves,OK,10/28/18,316,0,316,6,6,8,0.07,687,82.08,93.73,4980,86,9841
+Kids Storage,Shelves,OK,10/21/18,94,0,94,2,2,2,0.02,204,135.14,91.49,5129,89,10137
+Kids Storage,Shelves,OK,10/14/18,382,0,382,7,7,8,0.07,830,66.14,86.73,5166,90,10209
+Kids Storage,Shelves,OK,10/7/18,717,0,717,14,14,16,0.13,1559,70.46,78.33,5388,94,10648
+Kids Storage,Boxes,Perfect,1/13/19,1298,0,1298,18,18,20,0.08,2884,121.12,146.86,18875,219,38131
+Kids Storage,Boxes,Perfect,1/6/19,2165.28,83.28,2082,26,25,29,0.1,4627,88.55,138.46,19787,230,39973
+Kids Storage,Boxes,Perfect,12/30/18,1407,0,1407,16,16,18,0.06,3127,122.43,134.47,22292,257,45033
+Kids Storage,Boxes,Perfect,12/23/18,1132.36,94.36,1038,12,11,12,0.04,2307,112.65,134.75,22338,258,45127
+Kids Storage,Boxes,Perfect,12/16/18,636,0,636,9,9,11,0.03,1413,82.62,139.02,22010,255,44464
+Kids Storage,Boxes,Perfect,12/9/18,1828,0,1828,24,24,21,0.09,4062,74.46,128.66,21770,257,43980
+Kids Storage,Boxes,Perfect,12/2/18,2876,0,2876,31,31,31,0.1,6391,101.18,124.04,23003,275,46471
+Kids Storage,Boxes,Perfect,11/25/18,1153,0,1153,12,12,18,0.04,2562,78.62,120.82,24340,288,49171
+Kids Storage,Boxes,Perfect,11/18/18,552,0,552,7,7,8,0.02,1227,123.28,125.44,24263,288,49016
+Kids Storage,Boxes,Perfect,11/11/18,940,0,940,11,11,12,0.04,2089,71.69,120.33,24210,290,48909
+Kids Storage,Boxes,Perfect,11/4/18,1243,0,1243,15,15,15,0.05,2762,52.21,117.04,24143,292,48773
+Kids Storage,Boxes,Perfect,10/28/18,1269.69,90.69,1179,14,13,15,0.04,2620,41.43,110.81,24151,294,48789
+Kids Storage,Boxes,Perfect,10/21/18,841.11,84.11,757,10,9,12,0.03,1682,47.59,108.78,24644,297,49787
+Kids Storage,Boxes,Perfect,10/14/18,1725,0,1725,17,17,17,0.05,3833,63.45,107.45,24365,296,49222
+Kids Storage,Boxes,Perfect,10/7/18,1727.37,86.37,1641,20,19,26,0.06,3647,68.53,105.98,23583,285,47642
+Kids Storage,Boxes,Great,1/13/19,1882,0,1882,26,26,27,0.12,4182,148.61,125.16,15337,190,30984
+Kids Storage,Boxes,Great,1/6/19,3368.33,78.33,3290,43,42,42,0.17,7311,64.83,111.79,16885,211,34111
+Kids Storage,Boxes,Great,12/30/18,1633,0,1633,20,20,25,0.08,3629,57.52,103.11,20070,247,40544
+Kids Storage,Boxes,Great,12/23/18,1294.27,152.27,1142,17,15,15,0.06,2538,77,103.95,20115,247,40636
+Kids Storage,Boxes,Great,12/16/18,1053,162,891,13,11,11,0.05,1980,93.17,120.05,18127,225,36620
+Kids Storage,Boxes,Great,12/9/18,1083,0,1083,15,15,18,0.06,2407,139.99,123.76,17590,221,35536
+Kids Storage,Boxes,Great,12/2/18,2238.41,144.41,2094,31,29,28,0.11,4653,134.29,117.95,18010,230,36384
+Kids Storage,Boxes,Great,11/25/18,1601,0,1601,21,21,22,0.08,3558,67.45,112.28,19876,255,40153
+Kids Storage,Boxes,Great,11/18/18,1088.08,145.08,943,15,13,15,0.05,2096,116.81,110.67,21056,271,42538
+Kids Storage,Boxes,Great,11/11/18,1726.42,164.42,1562,21,19,15,0.06,3471,118.43,106.96,21959,282,44362
+Kids Storage,Boxes,Great,11/4/18,1613.68,80.68,1533,20,19,18,0.06,3407,37.73,99.05,22748,292,45956
+Kids Storage,Boxes,Great,10/28/18,588,147,441,8,6,14,0.02,980,76.85,96.95,23486,301,47447
+Kids Storage,Boxes,Great,10/21/18,661,0,661,11,11,15,0.04,1469,88.09,95.48,23389,299,47251
+Kids Storage,Boxes,Great,10/14/18,1893.1,172.1,1721,22,20,19,0.06,3824,41.5,90.23,23771,305,48022
+Kids Storage,Boxes,Great,10/7/18,1493.61,78.61,1415,19,18,22,0.06,3144,77.08,85.4,23702,303,47882
+Kids Storage,Boxes,OK,1/13/19,185,0,185,2,2,5,0.02,411,42.66,127.19,6322,87,12771
+Kids Storage,Boxes,OK,1/6/19,893,0,893,13,13,12,0.13,1984,60.91,110.81,6615,90,13364
+Kids Storage,Boxes,OK,12/30/18,1055.17,81.17,974,13,12,11,0.11,2164,34.8,98.14,7388,100,14924
+Kids Storage,Boxes,OK,12/23/18,490,0,490,7,7,8,0.07,1089,85.47,100.59,7438,100,15027
+Kids Storage,Boxes,OK,12/16/18,181,0,181,2,2,3,0.02,402,129.98,115.22,6892,94,13922
+Kids Storage,Boxes,OK,12/9/18,535,0,535,8,8,8,0.08,1189,70.53,110.32,6654,90,13442
+Kids Storage,Boxes,OK,12/2/18,614,0,614,10,10,9,0.1,1364,164.55,112.84,6996,95,14133
+Kids Storage,Boxes,OK,11/25/18,406,0,406,6,6,7,0.06,902,77.77,110.46,7341,102,14831
+Kids Storage,Boxes,OK,11/18/18,44,0,44,1,1,2,0.01,98,90.71,108.78,7626,106,15407
+Kids Storage,Boxes,OK,11/11/18,593,0,593,9,9,9,0.08,1318,78.77,101.43,7586,106,15324
+Kids Storage,Boxes,OK,11/4/18,670,0,670,10,10,10,0.08,1489,75.46,95.69,8016,113,16193
+Kids Storage,Boxes,OK,10/28/18,311,0,311,2,2,5,0.02,691,76.08,91.84,8613,122,17400
+Kids Storage,Boxes,OK,10/21/18,733,0,733,9,9,9,0.07,1629,43.12,88.69,8754,121,17684
+Kids Storage,Boxes,OK,10/14/18,539.43,67.43,472,8,7,7,0.05,1049,21.25,82.39,9543,131,19278
+Kids Storage,Boxes,OK,10/7/18,711,0,711,9,9,10,0.06,1580,40.35,74.55,9720,134,19636
+Kids Storage,Shelves,Perfect,1/13/19,2630.45,58.45,2572,45,44,45,0.14,5591,171.33,169.75,18125,274,35820
+Kids Storage,Shelves,Perfect,1/6/19,3411.83,57.83,3354,59,58,58,0.16,7291,147.07,164.5,20422,311,40359
+Kids Storage,Shelves,Perfect,12/30/18,1379,0,1379,23,23,27,0.06,2998,97.48,155.54,24121,368,47670
+Kids Storage,Shelves,Perfect,12/23/18,1662,0,1662,28,28,29,0.07,3613,110.03,149.52,24954,383,49315
+Kids Storage,Shelves,Perfect,12/16/18,1252,0,1252,21,21,24,0.05,2722,155.93,151.97,25271,391,49943
+Kids Storage,Shelves,Perfect,12/9/18,2839.41,60.41,2779,47,46,43,0.1,6041,140.91,150.29,25386,398,50170
+Kids Storage,Shelves,Perfect,12/2/18,2216.84,56.84,2160,39,38,40,0.08,4696,127.9,146.02,27429,434,54207
+Kids Storage,Shelves,Perfect,11/25/18,2512.11,66.11,2446,38,37,38,0.08,5317,127.74,141.47,28532,456,56387
+Kids Storage,Shelves,Perfect,11/18/18,2098.7,67.7,2031,31,30,28,0.06,4415,88.4,140.63,29997,480,59283
+Kids Storage,Shelves,Perfect,11/11/18,1821,0,1821,29,29,33,0.06,3959,97.17,134.82,30934,496,61135
+Kids Storage,Shelves,Perfect,11/4/18,1674.4,64.4,1610,26,25,28,0.05,3500,91.78,131.53,31292,506,61841
+Kids Storage,Shelves,Perfect,10/28/18,1530.55,66.55,1464,23,22,25,0.04,3183,61.45,127.68,31976,519,63193
+Kids Storage,Shelves,Perfect,10/21/18,2010.84,62.84,1948,32,31,30,0.06,4235,76.69,123.69,32282,524,63798
+Kids Storage,Shelves,Perfect,10/14/18,2015,65,1950,31,30,29,0.05,4239,82.85,123.9,32513,531,64254
+Kids Storage,Shelves,Perfect,10/7/18,2680,0,2680,42,42,44,0.07,5826,70.53,119.63,32427,531,64085
+Kids Storage,Shelves,Great,1/13/19,2075.22,109.22,1966,38,36,41,0.14,4274,167.86,151.69,13050,216,25791
+Kids Storage,Shelves,Great,1/6/19,2383.82,51.82,2332,46,45,47,0.16,5070,128.82,144.41,14741,245,29133
+Kids Storage,Shelves,Great,12/30/18,1815.74,56.74,1759,32,31,39,0.1,3824,56.52,130.9,17513,293,34611
+Kids Storage,Shelves,Great,12/23/18,2026.91,57.91,1969,35,34,36,0.1,4280,79.77,128.59,17637,296,34857
+Kids Storage,Shelves,Great,12/16/18,1389.58,55.58,1334,25,24,25,0.08,2900,127.44,146.16,17200,291,33991
+Kids Storage,Shelves,Great,12/9/18,1225.27,53.27,1172,23,22,22,0.07,2548,165.47,148.33,16672,288,32948
+Kids Storage,Shelves,Great,12/2/18,2460.59,58.59,2402,42,41,41,0.12,5222,106.18,142.24,17612,307,34807
+Kids Storage,Shelves,Great,11/25/18,1725.5,59.5,1666,29,28,30,0.08,3622,128.51,140.42,19487,341,38511
+Kids Storage,Shelves,Great,11/18/18,863,0,863,14,14,12,0.04,1876,114.19,134.89,20855,366,41215
+Kids Storage,Shelves,Great,11/11/18,1243.2,59.2,1184,21,20,20,0.05,2574,99.64,128.94,21303,373,42100
+Kids Storage,Shelves,Great,11/4/18,2332.82,59.82,2273,39,38,40,0.09,4941,74.07,121.59,21776,381,43035
+Kids Storage,Shelves,Great,10/28/18,839,0,839,14,14,19,0.03,1824,79.39,121.73,23035,405,45524
+Kids Storage,Shelves,Great,10/21/18,1186,0,1186,21,21,21,0.05,2578,81.85,118.3,23161,405,45772
+Kids Storage,Shelves,Great,10/14/18,847,121,726,14,12,17,0.03,1578,74.31,112.42,24230,425,47885
+Kids Storage,Shelves,Great,10/7/18,1562.5,62.5,1500,25,24,27,0.05,3261,69.15,105.63,23972,421,47376
+Kids Storage,Shelves,OK,1/13/19,449,0,449,10,10,11,0.14,976,126.82,128.17,3497,63,6911
+Kids Storage,Shelves,OK,1/6/19,605,55,550,11,10,12,0.12,1196,77.85,116.13,3931,72,7770
+Kids Storage,Shelves,OK,12/30/18,475.56,47.56,428,10,9,10,0.1,930,73.07,109.76,4562,82,9015
+Kids Storage,Shelves,OK,12/23/18,165,0,165,5,5,9,0.06,359,62.91,104.93,4695,85,9278
+Kids Storage,Shelves,OK,12/16/18,135,0,135,3,3,4,0.04,293,144.99,118.58,4333,81,8563
+Kids Storage,Shelves,OK,12/9/18,539,0,539,11,11,11,0.13,1172,125.82,122.5,3735,71,7380
+Kids Storage,Shelves,OK,12/2/18,438,0,438,9,9,10,0.1,952,144.53,127.96,4194,81,8289
+Kids Storage,Shelves,OK,11/25/18,403,0,403,7,7,8,0.07,876,79.23,122.71,4452,87,8798
+Kids Storage,Shelves,OK,11/18/18,370,0,370,7,7,7,0.07,804,79.46,117.25,4829,93,9543
+Kids Storage,Shelves,OK,11/11/18,193.33,48.33,145,4,3,4,0.03,315,60.6,109.9,5179,100,10235
+Kids Storage,Shelves,OK,11/4/18,156,0,156,3,3,3,0.03,339,49.51,104.79,5155,100,10187
+Kids Storage,Shelves,OK,10/28/18,409.14,51.14,358,8,7,7,0.07,778,51.28,100.45,5214,101,10304
+Kids Storage,Shelves,OK,10/21/18,223,0,223,4,4,4,0.04,485,74,94.78,5622,108,11111
+Kids Storage,Shelves,OK,10/14/18,275,0,275,5,5,5,0.04,598,35.96,90.72,5781,110,11424
+Kids Storage,Shelves,OK,10/7/18,0,-14,14,0,0,2,0,30,19.17,84,5839,111,11539
+Kids Storage,Envelopes,Perfect,1/13/19,565,0,565,15,15,15,0.09,665,150.92,189.42,6642,148,9767
+Kids Storage,Envelopes,Perfect,1/6/19,157.2,26.2,131,6,5,10,0.03,154,165.4,181.23,7103,161,10445
+Kids Storage,Envelopes,Perfect,12/30/18,658,47,611,14,13,13,0.07,719,115.42,178.29,7387,168,10863
+Kids Storage,Envelopes,Perfect,12/23/18,340.57,42.57,298,8,7,8,0.04,351,105.49,172.48,7794,176,11461
+Kids Storage,Envelopes,Perfect,12/16/18,608.83,46.83,562,13,12,13,0.06,661,109.65,172.34,7806,176,11479
+Kids Storage,Envelopes,Perfect,12/9/18,814.24,45.24,769,18,17,20,0.09,905,106.65,163.45,8122,183,11945
+Kids Storage,Envelopes,Perfect,12/2/18,1098,0,1098,24,24,23,0.11,1292,135.44,165.06,8280,190,12176
+Kids Storage,Envelopes,Perfect,11/25/18,549,0,549,12,12,14,0.06,646,153.15,166.74,8509,200,12513
+Kids Storage,Envelopes,Perfect,11/18/18,573.08,44.08,529,13,12,10,0.06,622,163.78,171.08,8786,207,12920
+Kids Storage,Envelopes,Perfect,11/11/18,689,53,636,13,12,13,0.05,748,127.82,164.78,9028,215,13276
+Kids Storage,Envelopes,Perfect,11/4/18,791.56,46.56,745,17,16,16,0.07,876,156.16,166.95,9126,218,13420
+Kids Storage,Envelopes,Perfect,10/28/18,530.18,44.18,486,12,11,13,0.05,572,153.46,164.29,9458,227,13909
+Kids Storage,Envelopes,Perfect,10/21/18,792.53,49.53,743,16,15,15,0.06,874,127.67,161.91,9845,234,14478
+Kids Storage,Envelopes,Perfect,10/14/18,747,0,747,15,15,14,0.06,879,105.8,159.11,10431,244,15340
+Kids Storage,Envelopes,Perfect,10/7/18,1208.35,50.35,1158,24,23,23,0.08,1362,118.43,152.39,10743,251,15798
+Kids Storage,Envelopes,Great,1/13/19,165.33,41.33,124,4,3,5,0.04,146,198.66,171.92,3080,70,4529
+Kids Storage,Envelopes,Great,1/6/19,379.13,42.13,337,9,8,10,0.1,396,100.79,158.13,3095,70,4552
+Kids Storage,Envelopes,Great,12/30/18,126,0,126,3,3,4,0.04,148,163.63,157.01,3519,79,5175
+Kids Storage,Envelopes,Great,12/23/18,198,66,132,6,4,5,0.05,155,120.12,156.8,3115,72,4581
+Kids Storage,Envelopes,Great,12/16/18,62,0,62,3,3,5,0.04,73,126.74,178.22,2775,66,4081
+Kids Storage,Envelopes,Great,12/9/18,283.43,35.43,248,8,7,8,0.1,292,155.16,177.52,2651,64,3899
+Kids Storage,Envelopes,Great,12/2/18,484.25,37.25,447,13,12,12,0.15,526,153.69,173.25,2859,71,4204
+Kids Storage,Envelopes,Great,11/25/18,354.29,44.29,310,8,7,7,0.08,365,139.52,167.44,3278,82,4821
+Kids Storage,Envelopes,Great,11/18/18,197,0,197,5,5,7,0.06,232,133.44,169.61,3412,85,5018
+Kids Storage,Envelopes,Great,11/11/18,252,84,168,6,4,4,0.04,198,109.03,165.97,3482,88,5120
+Kids Storage,Envelopes,Great,11/4/18,389.25,43.25,346,9,8,8,0.08,407,165.7,165.62,3559,89,5233
+Kids Storage,Envelopes,Great,10/28/18,554.18,46.18,508,12,11,13,0.11,598,139.91,159.67,3666,94,5392
+Kids Storage,Envelopes,Great,10/21/18,382,0,382,8,8,8,0.07,449,154.31,160.51,4137,103,6084
+Kids Storage,Envelopes,Great,10/14/18,524.7,47.7,477,11,10,10,0.08,561,108.26,153.37,4556,111,6700
+Kids Storage,Envelopes,Great,10/7/18,382.86,47.86,335,8,7,9,0.06,394,54.9,138.32,4919,119,7234
+Kids Storage,Envelopes,OK,1/13/19,41,0,41,1,1,1,0.13,48,209.59,209.09,244,7,359
+Kids Storage,Envelopes,OK,1/6/19,0,0,0,0,0,0,0,0,0,204.4,289,8,425
+Kids Storage,Envelopes,OK,12/30/18,32,0,32,1,1,1,0.11,38,37.42,181.16,289,8,425
+Kids Storage,Envelopes,OK,12/23/18,44,0,44,1,1,1,0.1,52,185.65,175.77,321,9,472
+Kids Storage,Envelopes,OK,12/16/18,-72,0,-72,-1,-1,1,-0.13,-85,429.28,182.7,327,9,480
+Kids Storage,Envelopes,OK,12/9/18,23,0,23,1,1,1,0.13,27,179.56,225.68,224,7,330
+Kids Storage,Envelopes,OK,12/2/18,136,0,136,3,3,3,0.27,160,210.83,213.15,246,8,362
+Kids Storage,Envelopes,OK,11/25/18,82,0,82,2,2,2,0.15,96,103.1,191.52,351,11,516
+Kids Storage,Envelopes,OK,11/18/18,218.75,43.75,175,5,4,4,0.22,206,114.81,173.11,486,14,715
+Kids Storage,Envelopes,OK,11/11/18,76,0,76,2,2,3,0.11,89,21.95,142.1,637,17,937
+Kids Storage,Envelopes,OK,11/4/18,80,0,80,2,2,1,0.1,94,99.64,141.12,717,19,1055
+Kids Storage,Envelopes,OK,10/28/18,123,41,82,3,2,2,0.09,96,89.47,131.81,829,21,1220
+Kids Storage,Envelopes,OK,10/21/18,0,0,0,0,0,0,0,0,0,127.19,927,23,1364
+Kids Storage,Envelopes,OK,10/14/18,120,0,120,3,3,3,0.12,141,65.22,118.44,927,23,1364
+Kids Storage,Envelopes,OK,10/7/18,108,54,54,2,1,1,0.04,64,4.08,106.54,1030,26,1514
+Kids Storage,Cabinets,Perfect,1/13/19,1274.67,318.67,956,4,3,3,0.04,1226,207.98,191.03,13933,83,16238
+Kids Storage,Cabinets,Perfect,1/6/19,952,238,714,4,3,3,0.03,915,209.21,186.48,14984,86,17464
+Kids Storage,Cabinets,Perfect,12/30/18,94,0,94,1,1,1,0.01,121,90.4,180.53,15770,89,18379
+Kids Storage,Cabinets,Perfect,12/23/18,123,0,123,1,1,1,0.01,158,85.09,174.65,15873,90,18500
+Kids Storage,Cabinets,Perfect,12/16/18,0,0,0,0,0,0,0,0,0,169.75,15995,91,18642
+Kids Storage,Cabinets,Perfect,12/9/18,190,95,95,2,1,1,0.01,122,78.08,163.8,15871,90,18497
+Kids Storage,Cabinets,Perfect,12/2/18,0,0,0,0,0,0,0,0,0,158.97,16089,92,18751
+Kids Storage,Cabinets,Perfect,11/25/18,126,63,63,2,1,1,0.01,81,104.18,155.19,15640,91,18228
+Kids Storage,Cabinets,Perfect,11/18/18,180,0,180,1,1,1,0.01,231,66.53,149.31,15718,92,18319
+Kids Storage,Cabinets,Perfect,11/11/18,0,0,0,0,0,0,0,0,0,144.41,15905,93,18537
+Kids Storage,Cabinets,Perfect,11/4/18,0,0,0,0,0,0,0,0,0,139.51,15905,93,18537
+Kids Storage,Cabinets,Perfect,10/28/18,100,0,100,1,1,1,0.01,128,43.2,133.63,15905,93,18537
+Kids Storage,Cabinets,Perfect,10/21/18,0,0,0,0,0,0,0,0,0,128.73,15998,94,18646
+Kids Storage,Cabinets,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,123.83,15998,94,18646
+Kids Storage,Cabinets,Perfect,10/7/18,0,0,0,0,0,0,0,0,0,120.26,15384,92,17929
+Kids Storage,Cabinets,Great,1/13/19,1315,0,1315,8,8,8,0.08,1686,197.12,191.66,18762,98,21867
+Kids Storage,Cabinets,Great,1/6/19,1484,212,1272,7,6,6,0.05,1631,220.07,187.67,20208,106,23553
+Kids Storage,Cabinets,Great,12/30/18,0,0,0,0,0,0,0,0,0,184.24,21902,113,25527
+Kids Storage,Cabinets,Great,12/23/18,410,205,205,2,1,1,0.01,263,186.73,179.27,21902,113,25527
+Kids Storage,Cabinets,Great,12/16/18,0,0,0,0,0,0,0,0,0,174.44,22103,114,25762
+Kids Storage,Cabinets,Great,12/9/18,0,0,0,0,0,0,0,0,0,169.54,22103,114,25762
+Kids Storage,Cabinets,Great,12/2/18,446,223,223,2,1,1,0.01,286,110.34,164.08,22103,114,25762
+Kids Storage,Cabinets,Great,11/25/18,304,0,304,1,1,1,0.01,390,46.97,156.24,22201,114,25876
+Kids Storage,Cabinets,Great,11/18/18,0,0,0,0,0,0,0,0,0,152.04,22370,114,26072
+Kids Storage,Cabinets,Great,11/11/18,594,198,396,3,2,2,0.02,508,155.39,147.77,22499,114,26223
+Kids Storage,Cabinets,Great,11/4/18,0,0,0,0,0,0,0,0,0,144.2,22779,115,26549
+Kids Storage,Cabinets,Great,10/28/18,0,0,0,0,0,0,0,0,0,141.75,22501,113,26224
+Kids Storage,Cabinets,Great,10/21/18,0,0,0,0,0,0,0,0,0,138.11,21948,110,25581
+Kids Storage,Cabinets,Great,10/14/18,810,540,270,3,1,1,0.01,346,58.67,136.64,21578,109,25149
+Kids Storage,Cabinets,Great,10/7/18,0,0,0,0,0,0,0,0,0,131.39,21831,110,25444
+Kids Storage,Cabinets,OK,1/13/19,561,0,561,2,2,2,0.08,719,107.26,272.09,4851,24,5654
+Kids Storage,Cabinets,OK,1/6/19,109,0,109,1,1,1,0.04,140,136.75,262.01,5421,26,6318
+Kids Storage,Cabinets,OK,12/30/18,180,0,180,1,1,1,0.04,231,64.37,251.09,5541,27,6458
+Kids Storage,Cabinets,OK,12/23/18,0,0,0,0,0,0,0,0,0,246.19,5739,28,6688
+Kids Storage,Cabinets,OK,12/16/18,0,0,0,0,0,0,0,0,0,241.29,5739,28,6688
+Kids Storage,Cabinets,OK,12/9/18,0,0,0,0,0,0,0,0,0,236.39,5739,28,6688
+Kids Storage,Cabinets,OK,12/2/18,0,0,0,0,0,0,0,0,0,231.49,5739,28,6688
+Kids Storage,Cabinets,OK,11/25/18,0,0,0,0,0,0,0,0,0,226.59,5739,28,6688
+Kids Storage,Cabinets,OK,11/18/18,0,0,0,0,0,0,0,0,0,221.69,5739,28,6688
+Kids Storage,Cabinets,OK,11/11/18,0,0,0,0,0,0,0,0,0,216.79,5739,28,6688
+Kids Storage,Cabinets,OK,11/4/18,0,0,0,0,0,0,0,0,0,211.89,5739,28,6688
+Kids Storage,Cabinets,OK,10/28/18,0,0,0,0,0,0,0,0,0,206.99,5739,28,6688
+Kids Storage,Cabinets,OK,10/21/18,0,0,0,0,0,0,0,0,0,202.09,5739,28,6688
+Kids Storage,Cabinets,OK,10/14/18,0,0,0,0,0,0,0,0,0,197.19,5739,28,6688
+Kids Storage,Cabinets,OK,10/7/18,0,0,0,0,0,0,0,0,0,192.29,5739,28,6688
+Kids Furniture,Dining Tables,Perfect,1/13/19,868,0,868,33,33,29,0.07,1127,137.14,150.71,11957,439,19411
+Kids Furniture,Dining Tables,Perfect,1/6/19,677.19,24.19,653,28,27,25,0.05,848,137.21,144.55,12813,471,20800
+Kids Furniture,Dining Tables,Perfect,12/30/18,1040.23,45.23,995,23,22,21,0.04,1292,119.43,138.11,13399,497,21752
+Kids Furniture,Dining Tables,Perfect,12/23/18,449,0,449,20,20,19,0.04,583,125.59,134.61,14311,504,23232
+Kids Furniture,Dining Tables,Perfect,12/16/18,481,0,481,14,14,14,0.03,625,99.64,128.66,14586,519,23679
+Kids Furniture,Dining Tables,Perfect,12/9/18,550,0,550,27,27,26,0.05,714,140.37,125.72,15105,531,24521
+Kids Furniture,Dining Tables,Perfect,12/2/18,940.95,22.95,918,41,40,38,0.07,1192,141.76,121.52,15431,552,25050
+Kids Furniture,Dining Tables,Perfect,11/25/18,670.96,23.96,647,28,27,22,0.04,840,116.96,117.32,16244,585,26370
+Kids Furniture,Dining Tables,Perfect,11/18/18,388,0,388,21,21,18,0.03,504,91.94,119.28,16690,590,27095
+Kids Furniture,Dining Tables,Perfect,11/11/18,348,0,348,9,9,11,0.02,452,133.36,115.64,16686,591,27088
+Kids Furniture,Dining Tables,Perfect,11/4/18,421,0,421,19,19,16,0.03,547,99.87,112.56,16902,595,27438
+Kids Furniture,Dining Tables,Perfect,10/28/18,232.88,25.88,207,9,8,8,0.01,269,81.93,108.5,16970,606,27548
+Kids Furniture,Dining Tables,Perfect,10/21/18,312,0,312,13,13,10,0.02,405,61.22,106.96,16376,586,26584
+Kids Furniture,Dining Tables,Perfect,10/14/18,530.25,25.25,505,21,20,19,0.03,656,108.11,105.77,15960,572,25909
+Kids Furniture,Dining Tables,Perfect,10/7/18,508.24,28.24,480,18,17,12,0.03,623,64.99,104.37,15980,572,25941
+Kids Furniture,Dining Tables,Great,1/13/19,93,62,31,3,1,2,0.02,40,99.18,127.47,2168,47,3520
+Kids Furniture,Dining Tables,Great,1/6/19,317.33,45.33,272,7,6,6,0.11,353,70.15,114.87,2088,47,3389
+Kids Furniture,Dining Tables,Great,12/30/18,252,63,189,8,6,5,0.11,245,110.34,109.34,2263,51,3673
+Kids Furniture,Dining Tables,Great,12/23/18,31,0,31,2,2,2,0.03,40,118.35,108.5,2415,56,3920
+Kids Furniture,Dining Tables,Great,12/16/18,50,25,25,2,1,1,0.02,32,37.81,108.78,2369,56,3846
+Kids Furniture,Dining Tables,Great,12/9/18,230,46,184,5,4,4,0.07,239,47.82,101.15,2378,56,3861
+Kids Furniture,Dining Tables,Great,12/2/18,13.5,4.5,9,3,2,3,0.03,12,211.83,104.93,2522,58,4095
+Kids Furniture,Dining Tables,Great,11/25/18,123.33,49.33,74,5,3,3,0.05,96,17.86,98.42,2420,56,3929
+Kids Furniture,Dining Tables,Great,11/18/18,106.25,21.25,85,5,4,4,0.07,110,107.88,95.69,2472,58,4013
+Kids Furniture,Dining Tables,Great,11/11/18,82,41,41,4,2,2,0.03,53,165.09,92.89,2545,61,4132
+Kids Furniture,Dining Tables,Great,11/4/18,184,23,161,8,7,5,0.1,209,108.49,90.58,2589,63,4204
+Kids Furniture,Dining Tables,Great,10/28/18,28.28,30.28,-2,1,0,1,0,-3,75.69,86.24,2716,69,4409
+Kids Furniture,Dining Tables,Great,10/21/18,61,0,61,3,3,3,0.04,79,121.35,87.5,2566,65,4166
+Kids Furniture,Dining Tables,Great,10/14/18,48,32,16,3,1,1,0.02,21,47.74,89.04,2508,65,4071
+Kids Furniture,Dining Tables,Great,10/7/18,62,0,62,1,1,1,0.02,81,63.22,83.51,2412,63,3916
+Kids Furniture,Dining Tables,OK,1/13/19,0,0,0,0,0,0,0,0,0,140.42,442,13,718
+Kids Furniture,Dining Tables,OK,1/6/19,14,0,14,1,1,1,0.07,18,8.16,127.26,442,13,718
+Kids Furniture,Dining Tables,OK,12/30/18,0,0,0,0,0,0,0,0,0,122.43,458,14,743
+Kids Furniture,Dining Tables,OK,12/23/18,40.5,13.5,27,3,2,2,0.13,35,152.92,120.33,442,13,718
+Kids Furniture,Dining Tables,OK,12/16/18,0,0,0,0,0,0,0,0,0,123.13,476,15,773
+Kids Furniture,Dining Tables,OK,12/9/18,400,200,200,2,1,1,0.06,260,16.32,111.93,476,15,773
+Kids Furniture,Dining Tables,OK,12/2/18,48,24,24,2,1,1,0.06,31,67.53,111.51,718,15,1166
+Kids Furniture,Dining Tables,OK,11/25/18,0,0,0,0,0,0,0,0,0,106.82,741,16,1204
+Kids Furniture,Dining Tables,OK,11/18/18,0,0,0,0,0,0,0,0,0,101.92,741,16,1204
+Kids Furniture,Dining Tables,OK,11/11/18,0,0,0,0,0,0,0,0,0,97.02,477,15,775
+Kids Furniture,Dining Tables,OK,11/4/18,0,0,0,0,0,0,0,0,0,98.56,402,14,652
+Kids Furniture,Dining Tables,OK,10/28/18,0,0,0,0,0,0,0,0,0,108.57,386,13,627
+Kids Furniture,Dining Tables,OK,10/21/18,0,0,0,0,0,0,0,0,0,112.63,355,12,577
+Kids Furniture,Dining Tables,OK,10/14/18,0,0,0,0,0,0,0,0,0,107.73,355,12,577
+Kids Furniture,Dining Tables,OK,10/7/18,0,0,0,0,0,0,0,0,0,102.83,355,12,577
+Kids Furniture,Chairs,Perfect,1/13/19,380.15,27.15,353,14,13,11,0.16,401,189.5,142.45,2864,69,2959
+Kids Furniture,Chairs,Perfect,1/6/19,184.8,30.8,154,6,5,5,0.06,175,97.56,135.1,3252,82,3359
+Kids Furniture,Chairs,Perfect,12/30/18,256,32,224,8,7,6,0.08,255,181.03,132.86,3368,86,3480
+Kids Furniture,Chairs,Perfect,12/23/18,145,29,116,5,4,3,0.04,132,194.12,137.41,3427,89,3540
+Kids Furniture,Chairs,Perfect,12/16/18,124,0,124,2,2,2,0.02,141,51.13,130.97,3553,93,3670
+Kids Furniture,Chairs,Perfect,12/9/18,318,0,318,10,10,8,0.1,361,135.29,132.16,3465,91,3580
+Kids Furniture,Chairs,Perfect,12/2/18,340,0,340,9,9,9,0.08,386,158.62,130.2,3764,100,3889
+Kids Furniture,Chairs,Perfect,11/25/18,563.23,40.23,523,14,13,12,0.11,594,82.39,123.34,3952,106,4083
+Kids Furniture,Chairs,Perfect,11/18/18,181,0,181,6,6,5,0.05,206,22.1,121.03,4380,116,4525
+Kids Furniture,Chairs,Perfect,11/11/18,391.64,32.64,359,12,11,11,0.09,408,72.3,113.47,4303,117,4445
+Kids Furniture,Chairs,Perfect,11/4/18,57,0,57,2,2,2,0.02,65,233.62,114.94,4365,120,4509
+Kids Furniture,Chairs,Perfect,10/28/18,0,0,0,0,0,0,0,0,0,113.82,4320,119,4463
+Kids Furniture,Chairs,Perfect,10/21/18,386,0,386,9,9,7,0.07,439,20.17,106.96,4133,115,4269
+Kids Furniture,Chairs,Perfect,10/14/18,470.8,42.8,428,11,10,8,0.08,486,48.13,104.72,4197,115,4335
+Kids Furniture,Chairs,Perfect,10/7/18,318,0,318,8,8,5,0.06,361,84.32,103.6,4327,119,4470
+Kids Furniture,Chairs,Great,1/13/19,103,0,103,3,3,3,0.25,117,170.63,127.33,305,9,315
+Kids Furniture,Chairs,Great,1/6/19,210,140,70,3,1,1,0.08,80,0.39,113.61,418,12,432
+Kids Furniture,Chairs,Great,12/30/18,80,40,40,2,1,1,0.09,45,10.32,119.28,326,10,336
+Kids Furniture,Chairs,Great,12/23/18,130.5,43.5,87,3,2,1,0.15,99,238.93,139.79,378,11,391
+Kids Furniture,Chairs,Great,12/16/18,0,0,0,0,0,0,0,0,0,135.31,468,13,483
+Kids Furniture,Chairs,Great,12/9/18,140,70,70,4,2,2,0.15,80,285.75,158.83,388,11,401
+Kids Furniture,Chairs,Great,12/2/18,120,0,120,3,3,3,0.19,136,36.11,141.54,470,13,485
+Kids Furniture,Chairs,Great,11/25/18,44,22,22,2,1,1,0.06,25,2.62,129.29,612,16,632
+Kids Furniture,Chairs,Great,11/18/18,0,0,0,0,0,0,0,0,0,133,567,16,585
+Kids Furniture,Chairs,Great,11/11/18,136,0,136,4,4,4,0.21,155,170.63,134.26,547,15,565
+Kids Furniture,Chairs,Great,11/4/18,22,0,22,1,1,1,0.05,25,6.24,124.11,717,19,741
+Kids Furniture,Chairs,Great,10/28/18,0,0,0,0,0,0,0,0,0,119.35,737,20,761
+Kids Furniture,Chairs,Great,10/21/18,38,19,19,2,1,1,0.05,22,7.93,102.27,717,19,741
+Kids Furniture,Chairs,Great,10/14/18,118,0,118,3,3,2,0.14,134,21.1,113.4,715,19,739
+Kids Furniture,Chairs,Great,10/7/18,0,0,0,0,0,0,0,0,0,107.59,796,21,823
+Kids Furniture,Chairs,OK,1/13/19,0,0,0,0,0,0,0,0,0,113.54,119,4,123
+Kids Furniture,Chairs,OK,1/6/19,0,0,0,0,0,0,0,0,0,146.16,72,3,74
+Kids Furniture,Chairs,OK,12/30/18,0,0,0,0,0,0,0,0,0,141.26,72,3,74
+Kids Furniture,Chairs,OK,12/23/18,0,0,0,0,0,0,0,0,0,205.8,45,2,47
+Kids Furniture,Chairs,OK,12/16/18,0,0,0,0,0,0,0,0,0,200.9,45,2,47
+Kids Furniture,Chairs,OK,12/9/18,28,0,28,1,1,1,0.33,32,289.14,281.75,45,2,47
+Kids Furniture,Chairs,OK,12/2/18,20,0,20,1,1,1,0.25,23,14.25,212.8,73,3,75
+Kids Furniture,Chairs,OK,11/25/18,60,0,60,1,1,1,0.2,68,61.22,178.5,99,4,102
+Kids Furniture,Chairs,OK,11/18/18,0,0,0,0,0,0,0,0,0,174.3,177,5,183
+Kids Furniture,Chairs,OK,11/11/18,0,0,0,0,0,0,0,0,0,169.4,177,5,183
+Kids Furniture,Chairs,OK,11/4/18,0,0,0,0,0,0,0,0,0,164.5,151,4,156
+Kids Furniture,Chairs,OK,10/28/18,0,0,0,0,0,0,0,0,0,200.34,151,4,156
+Kids Furniture,Chairs,OK,10/21/18,36,0,36,1,1,1,0.2,41,3.31,157.01,151,4,156
+Kids Furniture,Chairs,OK,10/14/18,0,0,0,0,0,0,0,0,0,152.53,190,5,197
+Kids Furniture,Chairs,OK,10/7/18,0,0,0,0,0,0,0,0,0,185.64,151,4,156
+Kids Furniture,Rugs,Perfect,1/13/19,9937.82,82.82,9855,120,119,108,0.07,16703,179.26,179.97,159151,1718,245225
+Kids Furniture,Rugs,Perfect,1/6/19,7773,0,7773,96,96,89,0.05,13175,184.72,175,169253,1830,260790
+Kids Furniture,Rugs,Perfect,12/30/18,6238.48,97.48,6141,64,63,62,0.03,10408,172.02,170.03,177889,1926,274097
+Kids Furniture,Rugs,Perfect,12/23/18,3401.94,91.94,3310,37,36,40,0.02,5610,171.94,166.88,181743,1970,280036
+Kids Furniture,Rugs,Perfect,12/16/18,2878.67,84.67,2794,34,33,34,0.02,4736,129.21,162.75,183247,1988,282353
+Kids Furniture,Rugs,Perfect,12/9/18,6661.82,88.82,6573,75,74,78,0.04,11141,146.22,158.13,183436,1998,282644
+Kids Furniture,Rugs,Perfect,12/2/18,7032,0,7032,83,83,78,0.04,11919,153,154.77,188155,2053,289915
+Kids Furniture,Rugs,Perfect,11/25/18,6648.53,105.53,6543,63,62,61,0.03,11090,113.42,150.22,192594,2106,296754
+Kids Furniture,Rugs,Perfect,11/18/18,3657.12,83.12,3574,44,43,39,0.02,6058,112.73,147.91,195301,2136,300925
+Kids Furniture,Rugs,Perfect,11/11/18,3463.72,78.72,3385,44,43,45,0.02,5737,119.04,143.5,193772,2133,298569
+Kids Furniture,Rugs,Perfect,11/4/18,3088.8,85.8,3003,36,35,38,0.02,5090,105.26,140.77,195012,2151,300481
+Kids Furniture,Rugs,Perfect,10/28/18,3320.59,118.59,3202,28,27,32,0.01,5427,82.01,137.2,194480,2150,299661
+Kids Furniture,Rugs,Perfect,10/21/18,3219.87,103.87,3116,31,30,31,0.01,5281,105.95,134.89,192585,2129,296741
+Kids Furniture,Rugs,Perfect,10/14/18,3450,115,3335,30,29,33,0.01,5653,92.71,133,190421,2106,293407
+Kids Furniture,Rugs,Perfect,10/7/18,3701.88,108.88,3593,34,33,32,0.02,6090,77.85,129.64,188097,2083,289825
+Kids Furniture,Rugs,Great,1/13/19,1825.41,101.41,1724,18,17,19,0.04,2922,115.65,137.13,32551,368,50156
+Kids Furniture,Rugs,Great,1/6/19,1139.2,71.2,1068,16,15,18,0.04,1810,130.9,133.98,34318,381,52878
+Kids Furniture,Rugs,Great,12/30/18,1879.88,208.88,1671,18,16,16,0.04,2832,113.58,128.87,34725,387,53505
+Kids Furniture,Rugs,Great,12/23/18,664,0,664,9,9,8,0.02,1125,83.31,127.75,35463,394,54642
+Kids Furniture,Rugs,Great,12/16/18,873,194,679,9,7,8,0.02,1151,148.53,125.65,35770,398,55115
+Kids Furniture,Rugs,Great,12/9/18,1671.47,104.47,1567,16,15,17,0.04,2656,160.24,123.83,34800,390,53620
+Kids Furniture,Rugs,Great,12/2/18,1512,84,1428,18,17,17,0.04,2420,129.21,120.54,36488,405,56222
+Kids Furniture,Rugs,Great,11/25/18,977.9,88.9,889,11,10,10,0.02,1507,102.56,117.74,36506,414,56249
+Kids Furniture,Rugs,Great,11/18/18,1194,199,995,12,10,10,0.02,1686,63.91,114.31,36861,419,56797
+Kids Furniture,Rugs,Great,11/11/18,695.8,198.8,497,7,5,5,0.01,842,79.23,109.83,37073,419,57124
+Kids Furniture,Rugs,Great,11/4/18,1266.42,97.42,1169,13,12,12,0.03,1981,58.29,106.05,36953,415,56939
+Kids Furniture,Rugs,Great,10/28/18,657.33,164.33,493,4,3,5,0.01,836,42.66,104.16,37243,416,57385
+Kids Furniture,Rugs,Great,10/21/18,483,322,161,3,1,1,0,273,8.62,102.55,36391,405,56073
+Kids Furniture,Rugs,Great,10/14/18,778,0,778,7,7,8,0.02,1319,121.2,101.64,35464,391,54644
+Kids Furniture,Rugs,Great,10/7/18,1046.25,209.25,837,10,8,8,0.02,1419,21.18,100.03,34231,376,52744
+Kids Furniture,Rugs,OK,1/13/19,385,0,385,4,4,5,0.04,653,170.63,173.11,8974,106,13827
+Kids Furniture,Rugs,OK,1/6/19,1076,0,1076,11,11,11,0.09,1824,83.55,161.14,9459,110,14575
+Kids Furniture,Rugs,OK,12/30/18,72,0,72,1,1,2,0.01,122,200.89,156.1,10091,117,15549
+Kids Furniture,Rugs,OK,12/23/18,85,0,85,1,1,1,0.01,144,14.86,158.41,9925,114,15293
+Kids Furniture,Rugs,OK,12/16/18,324,0,324,3,3,3,0.03,549,78.62,159.32,9742,113,15010
+Kids Furniture,Rugs,OK,12/9/18,185.33,46.33,139,4,3,3,0.03,236,229.15,157.5,9759,113,15037
+Kids Furniture,Rugs,OK,12/2/18,195,0,195,3,3,3,0.03,331,107.65,152.6,9825,116,15139
+Kids Furniture,Rugs,OK,11/25/18,259,0,259,2,2,2,0.02,439,27.18,148.26,9906,117,15263
+Kids Furniture,Rugs,OK,11/18/18,116,0,116,2,2,2,0.02,197,51.98,143.01,10161,119,15656
+Kids Furniture,Rugs,OK,11/11/18,483.6,80.6,403,6,5,5,0.04,683,82.01,135.66,10100,119,15563
+Kids Furniture,Rugs,OK,11/4/18,123,0,123,2,2,3,0.02,208,126.59,134.33,10207,120,15727
+Kids Furniture,Rugs,OK,10/28/18,0,0,0,0,0,0,0,0,0,132.93,10061,119,15502
+Kids Furniture,Rugs,OK,10/21/18,117,0,117,2,2,3,0.02,198,24.33,126.91,10010,118,15424
+Kids Furniture,Rugs,OK,10/14/18,537,0,537,5,5,4,0.04,910,154.62,121.66,10069,119,15515
+Kids Furniture,Rugs,OK,10/7/18,143,0,143,2,2,2,0.02,242,164.78,121.8,10195,120,15708
+Kids Furniture,Side Tables,Perfect,1/13/19,2469.91,44.91,2425,55,54,48,0.05,5389,160.16,165.13,63334,1087,175927
+Kids Furniture,Side Tables,Perfect,1/6/19,1684.62,36.62,1648,46,45,46,0.04,3662,160.08,161.28,65174,1127,181039
+Kids Furniture,Side Tables,Perfect,12/30/18,1117.81,50.81,1067,22,21,25,0.02,2371,141.91,156.73,67278,1176,186884
+Kids Furniture,Side Tables,Perfect,12/23/18,1684.08,41.08,1643,41,40,39,0.03,3651,111.73,151.62,67443,1178,187342
+Kids Furniture,Side Tables,Perfect,12/16/18,1571,0,1571,28,28,25,0.02,3491,178.49,148.33,68534,1207,190373
+Kids Furniture,Side Tables,Perfect,12/9/18,3620.72,51.72,3569,70,69,58,0.05,7931,151.38,145.81,68867,1216,191296
+Kids Furniture,Side Tables,Perfect,12/2/18,2915.8,47.8,2868,61,60,52,0.05,6373,139.68,144.48,71174,1257,197707
+Kids Furniture,Side Tables,Perfect,11/25/18,3318,0,3318,57,57,52,0.04,7373,133.29,142.17,72322,1271,200894
+Kids Furniture,Side Tables,Perfect,11/18/18,2364.55,52.55,2312,45,44,39,0.03,5138,75.31,141.05,74716,1300,207546
+Kids Furniture,Side Tables,Perfect,11/11/18,1151.05,50.05,1101,23,22,26,0.02,2447,105.72,137.27,74797,1299,207769
+Kids Furniture,Side Tables,Perfect,11/4/18,2552.73,56.73,2496,45,44,41,0.03,5547,103.41,135.17,74110,1283,205862
+Kids Furniture,Side Tables,Perfect,10/28/18,1329,0,1329,27,27,30,0.02,2953,126.28,134.4,74408,1287,206690
+Kids Furniture,Side Tables,Perfect,10/21/18,1277,0,1277,25,25,27,0.02,2838,93.94,135.31,71137,1240,197603
+Kids Furniture,Side Tables,Perfect,10/14/18,2093,0,2093,36,36,34,0.03,4651,84.85,134.82,68752,1225,190978
+Kids Furniture,Side Tables,Perfect,10/7/18,1644,0,1644,32,32,31,0.03,3653,97.33,131.95,68520,1225,190334
+Kids Furniture,Side Tables,Great,1/13/19,577.33,144.33,433,8,6,8,0.03,962,167.63,147.77,13699,218,38054
+Kids Furniture,Side Tables,Great,1/6/19,487,0,487,8,8,7,0.04,1082,59.52,143.22,13910,220,38638
+Kids Furniture,Side Tables,Great,12/30/18,714.23,95.23,619,15,13,15,0.06,1376,83.55,135.52,14301,225,39725
+Kids Furniture,Side Tables,Great,12/23/18,471.38,52.38,419,9,8,8,0.03,931,138.99,134.47,14675,234,40764
+Kids Furniture,Side Tables,Great,12/16/18,590.33,84.33,506,7,6,6,0.02,1124,142.07,131.53,14780,239,41054
+Kids Furniture,Side Tables,Great,12/9/18,278.89,27.89,251,10,9,13,0.04,558,109.8,126,14677,236,40770
+Kids Furniture,Side Tables,Great,12/2/18,477,0,477,12,12,11,0.05,1060,79,123.2,15312,246,42533
+Kids Furniture,Side Tables,Great,11/25/18,590,59,531,10,9,10,0.04,1180,149,123.34,15418,249,42827
+Kids Furniture,Side Tables,Great,11/18/18,137.33,34.33,103,4,3,4,0.01,229,87.7,121.38,15936,256,44266
+Kids Furniture,Side Tables,Great,11/11/18,555,0,555,10,10,10,0.04,1233,58.21,115.36,15825,255,43957
+Kids Furniture,Side Tables,Great,11/4/18,20,0,20,2,2,3,0.01,44,11.7,112.42,16031,256,44532
+Kids Furniture,Side Tables,Great,10/28/18,391,0,391,9,9,9,0.04,869,90.01,110.25,15627,250,43407
+Kids Furniture,Side Tables,Great,10/21/18,90,45,45,2,1,2,0,100,23.41,107.59,15286,251,42460
+Kids Furniture,Side Tables,Great,10/14/18,668.42,51.42,617,13,12,11,0.05,1371,106.65,106.82,14705,239,40847
+Kids Furniture,Side Tables,Great,10/7/18,142,71,71,2,1,3,0,158,87.86,107.94,14451,238,40141
+Kids Furniture,Side Tables,OK,1/13/19,67,0,67,1,1,1,0.02,149,13.32,167.44,4120,62,11443
+Kids Furniture,Side Tables,OK,1/6/19,332,0,332,3,3,3,0.05,738,43.43,157.08,4148,62,11523
+Kids Furniture,Side Tables,OK,12/30/18,58,0,58,1,1,1,0.02,129,203.59,160.09,4332,62,12033
+Kids Furniture,Side Tables,OK,12/23/18,0,-3,3,0,0,2,0,7,257.41,157.22,4233,59,11758
+Kids Furniture,Side Tables,OK,12/16/18,159,0,159,1,1,1,0.02,353,78,173.88,4072,58,11312
+Kids Furniture,Side Tables,OK,12/9/18,322,0,322,7,7,7,0.11,716,77.46,157.92,4213,58,11703
+Kids Furniture,Side Tables,OK,12/2/18,708.4,64.4,644,11,10,9,0.13,1431,72.3,144.83,4554,65,12650
+Kids Furniture,Side Tables,OK,11/25/18,179,0,179,4,4,4,0.05,398,131.21,137.76,5309,75,14746
+Kids Furniture,Side Tables,OK,11/18/18,135,0,135,4,4,4,0.05,300,65.68,133.7,5222,77,14505
+Kids Furniture,Side Tables,OK,11/11/18,0,125,-125,0,-2,0,-0.03,-278,0,127.4,5312,79,14755
+Kids Furniture,Side Tables,OK,11/4/18,0,-4,4,0,0,1,0,9,150.15,127.68,5199,77,14441
+Kids Furniture,Side Tables,OK,10/28/18,232,0,232,4,4,3,0.05,516,48.2,124.95,4533,73,12592
+Kids Furniture,Side Tables,OK,10/21/18,170.67,42.67,128,4,3,3,0.04,284,146.45,123.13,4704,76,13066
+Kids Furniture,Side Tables,OK,10/14/18,220,0,220,5,5,5,0.06,489,15.94,116.69,4770,78,13249
+Kids Furniture,Side Tables,OK,10/7/18,0,0,0,0,0,0,0,0,0,110.25,4824,82,13399
+Kids Furniture,Desks,Perfect,1/13/19,1385,0,1385,54,54,37,0.09,3078,139.68,154,18975,549,38333
+Kids Furniture,Desks,Perfect,1/6/19,1666.03,26.03,1640,64,63,47,0.1,3644,149.69,150.71,20165,588,40738
+Kids Furniture,Desks,Perfect,12/30/18,1147.19,30.19,1117,38,37,31,0.05,2482,162.62,147.49,22020,649,44484
+Kids Furniture,Desks,Perfect,12/23/18,539,0,539,19,19,16,0.03,1198,152.54,143.99,23038,679,46542
+Kids Furniture,Desks,Perfect,12/16/18,773.68,26.68,747,29,28,21,0.04,1660,157.31,138.95,23377,693,47227
+Kids Furniture,Desks,Perfect,12/9/18,1631.19,27.19,1604,60,59,45,0.08,3564,156.39,140.21,22974,682,46411
+Kids Furniture,Desks,Perfect,12/2/18,1760,0,1760,66,66,45,0.09,3911,144.3,140.63,23682,711,47842
+Kids Furniture,Desks,Perfect,11/25/18,1600,0,1600,63,63,39,0.08,3556,131.9,141.89,23419,712,47311
+Kids Furniture,Desks,Perfect,11/18/18,1039,0,1039,44,44,31,0.06,2309,133.21,150.92,24156,745,48800
+Kids Furniture,Desks,Perfect,11/11/18,1081.76,25.76,1056,42,41,29,0.05,2347,148.84,149.03,24250,747,48989
+Kids Furniture,Desks,Perfect,11/4/18,1238.81,25.81,1213,48,47,31,0.06,2696,113.11,148.47,24244,753,48978
+Kids Furniture,Desks,Perfect,10/28/18,1317.96,23.96,1294,55,54,36,0.07,2876,141.06,145.53,25070,783,50647
+Kids Furniture,Desks,Perfect,10/21/18,1420,0,1420,53,53,38,0.06,3156,129.82,145.6,25570,807,51656
+Kids Furniture,Desks,Perfect,10/14/18,1900,0,1900,72,72,38,0.08,4222,133.06,144.9,26230,825,52989
+Kids Furniture,Desks,Perfect,10/7/18,1618.53,26.53,1592,61,60,40,0.07,3538,103.1,140.28,27458,868,55471
+Kids Furniture,Desks,Great,1/13/19,112.5,22.5,90,5,4,5,0.04,200,94.02,128.59,3615,105,7302
+Kids Furniture,Desks,Great,1/6/19,78,26,52,3,2,3,0.02,116,19.79,121.31,3669,108,7411
+Kids Furniture,Desks,Great,12/30/18,133,38,95,7,5,5,0.04,211,97.56,113.19,3689,108,7453
+Kids Furniture,Desks,Great,12/23/18,126,42,84,6,4,4,0.04,187,88.7,108.5,3774,111,7624
+Kids Furniture,Desks,Great,12/16/18,71.25,14.25,57,5,4,4,0.03,127,236.85,110.11,3860,113,7798
+Kids Furniture,Desks,Great,12/9/18,223.88,24.88,199,9,8,9,0.07,442,134.29,112.91,3586,108,7244
+Kids Furniture,Desks,Great,12/2/18,210,0,210,8,8,9,0.07,467,124.05,110.11,3709,114,7493
+Kids Furniture,Desks,Great,11/25/18,307.64,25.64,282,12,11,9,0.09,627,91.4,116.2,3617,112,7307
+Kids Furniture,Desks,Great,11/18/18,141.25,28.25,113,5,4,4,0.03,251,182.18,120.96,3816,121,7709
+Kids Furniture,Desks,Great,11/11/18,114,0,114,5,5,5,0.04,253,123.97,121.73,3662,115,7398
+Kids Furniture,Desks,Great,11/4/18,272.46,19.46,253,14,13,14,0.1,562,122.35,117.81,3644,116,7362
+Kids Furniture,Desks,Great,10/28/18,53.33,13.33,40,4,3,4,0.02,89,80.39,113.68,3865,127,7809
+Kids Furniture,Desks,Great,10/21/18,26.25,5.25,21,5,4,6,0.03,47,123.97,114.66,3630,122,7333
+Kids Furniture,Desks,Great,10/14/18,341,0,341,9,9,7,0.07,758,120.81,115.71,3645,120,7364
+Kids Furniture,Desks,Great,10/7/18,114.67,28.67,86,4,3,4,0.02,191,27.1,113.26,3722,120,7520
+Kids Furniture,Desks,OK,1/13/19,13,0,13,1,1,1,0.03,29,90.32,139.09,768,31,1551
+Kids Furniture,Desks,OK,1/6/19,14,0,14,1,1,1,0.03,31,167.17,134.82,750,31,1516
+Kids Furniture,Desks,OK,12/30/18,0,0,0,0,0,0,0,0,0,134.19,766,32,1547
+Kids Furniture,Desks,OK,12/23/18,38,0,38,1,1,1,0.03,84,122.51,128.73,701,29,1416
+Kids Furniture,Desks,OK,12/16/18,28,0,28,1,1,1,0.03,62,77.15,144.13,683,28,1380
+Kids Furniture,Desks,OK,12/9/18,52,0,52,3,3,3,0.09,116,76.77,132.86,710,29,1433
+Kids Furniture,Desks,OK,12/2/18,38,0,38,2,2,2,0.06,84,216.52,132.3,776,32,1567
+Kids Furniture,Desks,OK,11/25/18,14,0,14,1,1,1,0.03,31,1.85,128.24,779,33,1573
+Kids Furniture,Desks,OK,11/18/18,36,18,18,2,1,1,0.03,40,1,130.34,767,33,1549
+Kids Furniture,Desks,OK,11/11/18,41,0,41,2,2,2,0.07,91,102.18,130.97,690,29,1393
+Kids Furniture,Desks,OK,11/4/18,78.67,19.67,59,4,3,3,0.09,131,129.28,133.42,716,30,1447
+Kids Furniture,Desks,OK,10/28/18,18,0,18,1,1,1,0.03,40,202.74,138.67,758,31,1531
+Kids Furniture,Desks,OK,10/21/18,0,0,0,0,0,0,0,0,0,133.91,779,32,1573
+Kids Furniture,Desks,OK,10/14/18,0,16,-16,0,-1,0,-0.03,-36,0,126.07,779,32,1573
+Kids Furniture,Desks,OK,10/7/18,46,0,46,2,2,2,0.07,102,61.52,120.54,734,29,1482
+Kids Furniture,Beds,Perfect,1/13/19,944,0,944,19,19,21,0.09,973,155.77,156.17,10069,195,9437
+Kids Furniture,Beds,Perfect,1/6/19,579,0,579,13,13,14,0.06,597,134.13,148.82,11123,213,10425
+Kids Furniture,Beds,Perfect,12/30/18,586,0,586,10,10,9,0.04,604,109.42,143.15,11673,225,10940
+Kids Furniture,Beds,Perfect,12/23/18,510.4,46.4,464,11,10,9,0.04,478,72,137.2,12146,233,11384
+Kids Furniture,Beds,Perfect,12/16/18,363,0,363,7,7,7,0.03,374,74.46,130.9,12657,243,11862
+Kids Furniture,Beds,Perfect,12/9/18,802.19,47.19,755,17,16,15,0.06,778,93.79,123.62,12999,249,12182
+Kids Furniture,Beds,Perfect,12/2/18,386.29,48.29,338,8,7,9,0.03,348,98.79,118.37,13684,263,12825
+Kids Furniture,Beds,Perfect,11/25/18,648,0,648,9,9,7,0.03,668,82.39,115.78,13703,263,12842
+Kids Furniture,Beds,Perfect,11/18/18,266,0,266,6,6,8,0.02,274,88.17,113.4,14218,268,13325
+Kids Furniture,Beds,Perfect,11/11/18,422,0,422,6,6,6,0.02,435,99.87,112.42,13594,260,12740
+Kids Furniture,Beds,Perfect,11/4/18,396,0,396,8,8,8,0.03,408,74.54,110.18,13774,260,12909
+Kids Furniture,Beds,Perfect,10/28/18,30,15,15,2,1,2,0,15,45.28,107.66,13836,262,12967
+Kids Furniture,Beds,Perfect,10/21/18,337.5,67.5,270,5,4,6,0.02,278,81.31,104.58,13427,256,12584
+Kids Furniture,Beds,Perfect,10/14/18,351,0,351,6,6,6,0.02,362,61.06,102.76,13218,253,12388
+Kids Furniture,Beds,Perfect,10/7/18,135,0,135,3,3,3,0.01,139,152.77,101.01,13118,251,12294
+Kids Furniture,Beds,Great,1/13/19,36,0,36,1,1,1,0.03,37,170.4,167.93,1327,32,1243
+Kids Furniture,Beds,Great,1/6/19,105,0,105,2,2,2,0.06,108,94.48,163.52,1318,32,1235
+Kids Furniture,Beds,Great,12/30/18,72,36,36,2,1,1,0.03,37,94.86,156.8,1510,35,1415
+Kids Furniture,Beds,Great,12/23/18,44,0,44,1,1,2,0.03,45,101.41,147,1546,36,1448
+Kids Furniture,Beds,Great,12/16/18,18,0,18,1,1,1,0.03,19,80.62,142.45,1646,38,1542
+Kids Furniture,Beds,Great,12/9/18,96,32,64,3,2,2,0.05,66,108.03,135.66,1663,39,1559
+Kids Furniture,Beds,Great,12/2/18,34.3,34.3,0,1,0,1,0,0,45.66,127.82,1726,41,1618
+Kids Furniture,Beds,Great,11/25/18,132,0,132,3,3,3,0.07,136,74.84,121.17,1751,41,1641
+Kids Furniture,Beds,Great,11/18/18,201,67,134,3,2,2,0.04,138,80.31,117.67,1857,43,1740
+Kids Furniture,Beds,Great,11/11/18,171,114,57,3,1,1,0.02,59,40.27,110.81,1981,45,1857
+Kids Furniture,Beds,Great,11/4/18,165,55,110,3,2,2,0.04,113,44.43,103.32,2034,46,1906
+Kids Furniture,Beds,Great,10/28/18,0,0,0,0,0,0,0,0,0,98.49,2145,48,2010
+Kids Furniture,Beds,Great,10/21/18,30.86,3.86,27,1,0,1,0,28,84.16,94.15,2087,47,1956
+Kids Furniture,Beds,Great,10/14/18,160,80,80,2,1,1,0.02,82,4.77,90.72,2087,47,1956
+Kids Furniture,Beds,Great,10/7/18,177,59,118,3,2,2,0.04,122,42.27,83.23,2175,48,2038
+Kids Furniture,Beds,OK,1/13/19,76,0,76,2,2,2,0.18,78,141.91,91.84,377,9,354
+Kids Furniture,Beds,OK,1/6/19,0,0,0,0,0,0,0,0,0,87.36,461,11,432
+Kids Furniture,Beds,OK,12/30/18,48,0,48,1,1,1,0.08,49,71.15,81.13,461,11,432
+Kids Furniture,Beds,OK,12/23/18,0,39,-39,0,-1,0,-0.09,-40,0,85.89,524,12,491
+Kids Furniture,Beds,OK,12/16/18,0,0,0,0,0,0,0,0,0,60.48,495,11,464
+Kids Furniture,Beds,OK,12/9/18,0,0,0,0,0,0,0,0,0,55.58,495,11,464
+Kids Furniture,Beds,OK,12/2/18,107,0,107,2,2,2,0.15,110,40.96,48.79,495,11,464
+Kids Furniture,Beds,OK,11/25/18,95,0,95,2,2,2,0.13,98,118.5,52.92,594,13,557
+Kids Furniture,Beds,OK,11/18/18,40,0,40,1,1,1,0.07,41,37.96,52.43,623,14,584
+Kids Furniture,Beds,OK,11/11/18,0,0,0,0,0,0,0,0,0,49.28,636,14,596
+Kids Furniture,Beds,OK,11/4/18,0,0,0,0,0,0,0,0,0,44.38,636,14,596
+Kids Furniture,Beds,OK,10/28/18,0,0,0,0,0,0,0,0,0,42.77,582,13,545
+Kids Furniture,Beds,OK,10/21/18,0,60,-60,0,-1,0,-0.08,-62,0,37.73,582,13,545
+Kids Furniture,Beds,OK,10/14/18,96,48,48,2,1,1,0.08,49,31.34,33.04,526,12,493
+Kids Furniture,Beds,OK,10/7/18,0,0,0,0,0,0,0,0,0,30.8,510,12,478
+Furniture,Dining Tables,Perfect,1/13/19,0,0,0,0,0,0,0,0,0,185.15,1353,88,2196
+Furniture,Dining Tables,Perfect,1/6/19,88.8,14.8,74,6,5,5,0.05,96,188.27,179.9,1353,88,2196
+Furniture,Dining Tables,Perfect,12/30/18,25,0,25,2,2,1,0.02,32,295.22,177.38,1434,93,2329
+Furniture,Dining Tables,Perfect,12/23/18,12,0,12,1,1,1,0.01,16,409.87,178.5,1422,91,2309
+Furniture,Dining Tables,Perfect,12/16/18,18,0,18,1,1,1,0.01,23,215.06,172.2,1434,92,2329
+Furniture,Dining Tables,Perfect,12/9/18,106,0,106,7,7,4,0.07,138,249.25,173.25,1434,92,2329
+Furniture,Dining Tables,Perfect,12/2/18,161.7,14.7,147,11,10,6,0.09,191,249.02,175.28,1528,98,2480
+Furniture,Dining Tables,Perfect,11/25/18,0,0,0,0,0,0,0,0,0,170.59,1614,106,2620
+Furniture,Dining Tables,Perfect,11/18/18,33,0,33,2,2,2,0.02,43,182.72,176.54,1566,104,2543
+Furniture,Dining Tables,Perfect,11/11/18,17,0,17,1,1,1,0.01,22,46.51,172.2,1546,102,2509
+Furniture,Dining Tables,Perfect,11/4/18,0,0,0,0,0,0,0,0,0,167.72,1552,102,2520
+Furniture,Dining Tables,Perfect,10/28/18,69.33,17.33,52,4,3,3,0.03,68,246.4,167.72,1515,100,2459
+Furniture,Dining Tables,Perfect,10/21/18,35,0,35,2,2,1,0.02,45,204.44,164.85,1537,101,2495
+Furniture,Dining Tables,Perfect,10/14/18,34,17,17,2,1,1,0.01,22,219.76,166.39,1560,102,2532
+Furniture,Dining Tables,Perfect,10/7/18,0,1,-1,0,0,1,0,-1,67.99,164.57,1546,101,2509
+Furniture,Dining Tables,Great,1/13/19,26,13,13,2,1,1,0.17,17,93.25,194.46,81,5,132
+Furniture,Dining Tables,Great,1/6/19,0,0,0,0,0,0,0,0,0,189.84,96,6,155
+Furniture,Dining Tables,Great,12/30/18,0,0,0,0,0,0,0,0,0,184.94,96,6,155
+Furniture,Dining Tables,Great,12/23/18,0,0,0,0,0,0,0,0,0,180.04,107,7,173
+Furniture,Dining Tables,Great,12/16/18,0,0,0,0,0,0,0,0,0,175.14,107,7,173
+Furniture,Dining Tables,Great,12/9/18,38,19,19,2,1,1,0.13,25,193.89,171.01,107,7,173
+Furniture,Dining Tables,Great,12/2/18,0,0,0,0,0,0,0,0,0,166.25,128,8,207
+Furniture,Dining Tables,Great,11/25/18,0,0,0,0,0,0,0,0,0,161.35,128,8,207
+Furniture,Dining Tables,Great,11/18/18,0,0,0,0,0,0,0,0,0,141.26,128,8,207
+Furniture,Dining Tables,Great,11/11/18,0,0,0,0,0,0,0,0,0,136.36,128,8,207
+Furniture,Dining Tables,Great,11/4/18,0,0,0,0,0,0,0,0,0,111.16,128,8,207
+Furniture,Dining Tables,Great,10/28/18,0,0,0,0,0,0,0,0,0,106.26,128,8,207
+Furniture,Dining Tables,Great,10/21/18,0,0,0,0,0,0,0,0,0,111.86,110,7,179
+Furniture,Dining Tables,Great,10/14/18,0,0,0,0,0,0,0,0,0,119.35,110,7,179
+Furniture,Dining Tables,Great,10/7/18,0,0,0,0,0,0,0,0,0,114.45,110,7,179
+Furniture,Dining Tables,OK,11/18/18,10,0,10,1,1,1,1,13,72.07,68.46,0,0,0
+Furniture,Dining Tables,OK,11/11/18,0,0,0,0,0,0,0,0,0,64.61,10,1,16
+Furniture,Dining Tables,OK,11/4/18,0,0,0,0,0,0,0,0,0,59.71,10,1,16
+Furniture,Dining Tables,OK,10/28/18,0,0,0,0,0,0,0,0,0,54.81,10,1,16
+Furniture,Dining Tables,OK,10/21/18,0,0,0,0,0,0,0,0,0,49.91,10,1,16
+Furniture,Dining Tables,OK,10/14/18,0,0,0,0,0,0,0,0,0,45.01,10,1,16
+Furniture,Dining Tables,OK,10/7/18,0,0,0,0,0,0,0,0,0,40.11,10,1,16
+Furniture,Chairs,Perfect,1/13/19,36,0,36,1,1,1,0.01,41,21.95,213.22,1614,69,1667
+Furniture,Chairs,Perfect,1/6/19,25,0,25,1,1,1,0.01,28,35.65,205.87,1652,70,1707
+Furniture,Chairs,Perfect,12/30/18,148,0,148,6,6,2,0.08,168,214.6,205.03,1681,71,1736
+Furniture,Chairs,Perfect,12/23/18,73.75,14.75,59,5,4,2,0.05,67,131.59,185.22,1818,77,1878
+Furniture,Chairs,Perfect,12/16/18,233.45,19.45,214,12,11,5,0.12,243,208.59,183.33,1851,80,1913
+Furniture,Chairs,Perfect,12/9/18,166.5,18.5,148,9,8,4,0.09,168,234.47,190.33,1884,85,1947
+Furniture,Chairs,Perfect,12/2/18,196,0,196,9,9,6,0.09,223,211.21,189.91,2039,93,2107
+Furniture,Chairs,Perfect,11/25/18,62.67,15.67,47,4,3,3,0.03,53,195.12,188.72,2251,101,2325
+Furniture,Chairs,Perfect,11/18/18,75,0,75,4,4,3,0.04,85,102.49,184.1,2295,103,2370
+Furniture,Chairs,Perfect,11/11/18,276.77,19.77,257,14,13,7,0.11,292,205.36,181.72,2297,104,2373
+Furniture,Chairs,Perfect,11/4/18,53.33,13.33,40,4,3,1,0.03,45,171.25,176.68,2587,117,2673
+Furniture,Chairs,Perfect,10/28/18,176,22,154,8,7,2,0.06,175,174.17,173.88,2599,118,2685
+Furniture,Chairs,Perfect,10/21/18,0,0,0,0,0,0,0,0,0,171.92,2730,123,2820
+Furniture,Chairs,Perfect,10/14/18,30,15,15,2,1,1,0.01,17,38.12,167.86,2730,123,2820
+Furniture,Chairs,Perfect,10/7/18,36,18,18,2,1,1,0.01,20,175.87,166.53,2692,121,2781
+Furniture,Chairs,Great,1/13/19,50,25,25,2,1,1,0.14,28,249.79,238,127,6,131
+Furniture,Chairs,Great,1/6/19,0,0,0,0,0,0,0,0,0,233.24,155,7,160
+Furniture,Chairs,Great,12/30/18,0,0,0,0,0,0,0,0,0,228.34,155,7,160
+Furniture,Chairs,Great,12/23/18,46,23,23,2,1,1,0.13,26,230.46,221.69,155,7,160
+Furniture,Chairs,Great,12/16/18,36,0,36,1,1,1,0.11,41,389.93,225.4,180,8,186
+Furniture,Chairs,Great,12/9/18,53,0,53,3,3,2,0.27,60,255.72,229.6,200,8,207
+Furniture,Chairs,Great,12/2/18,0,0,0,0,0,0,0,0,0,225.33,272,12,281
+Furniture,Chairs,Great,11/25/18,36,18,18,2,1,1,0.08,20,105.95,210.98,272,12,281
+Furniture,Chairs,Great,11/18/18,0,0,0,0,0,0,0,0,0,206.22,292,13,301
+Furniture,Chairs,Great,11/11/18,46,23,23,2,1,1,0.07,26,235.7,202.23,292,13,301
+Furniture,Chairs,Great,11/4/18,0,0,0,0,0,0,0,0,0,197.54,318,14,328
+Furniture,Chairs,Great,10/28/18,0,0,0,0,0,0,0,0,0,192.64,318,14,328
+Furniture,Chairs,Great,10/21/18,50,25,25,2,1,1,0.07,28,196.81,187.18,318,14,328
+Furniture,Chairs,Great,10/14/18,0,0,0,0,0,0,0,0,0,182.49,345,15,357
+Furniture,Chairs,Great,10/7/18,0,0,0,0,0,0,0,0,0,177.59,345,15,357
+Furniture,Rugs,Perfect,1/13/19,2497.6,44.6,2453,56,55,36,0.07,4158,261.18,211.33,35023,718,53964
+Furniture,Rugs,Perfect,1/6/19,1375.43,47.43,1328,29,28,23,0.04,2251,218.53,206.5,37635,772,57990
+Furniture,Rugs,Perfect,12/30/18,810.67,42.67,768,19,18,13,0.02,1302,255.95,202.58,39043,799,60159
+Furniture,Rugs,Perfect,12/23/18,446,0,446,13,13,10,0.02,756,242.4,198.03,39733,816,61222
+Furniture,Rugs,Perfect,12/16/18,452.25,50.25,402,9,8,10,0.01,681,276.2,194.18,40064,828,61732
+Furniture,Rugs,Perfect,12/9/18,1084,0,1084,27,27,19,0.03,1837,270.19,191.73,40178,832,61907
+Furniture,Rugs,Perfect,12/2/18,1951,0,1951,43,43,33,0.05,3307,273.2,190.96,41149,857,63403
+Furniture,Rugs,Perfect,11/25/18,397,0,397,10,10,8,0.01,673,252.95,189.21,42800,889,65947
+Furniture,Rugs,Perfect,11/18/18,467,0,467,11,11,10,0.01,792,141.37,184.73,42930,895,66147
+Furniture,Rugs,Perfect,11/11/18,486,0,486,13,13,8,0.01,824,298.91,182,43116,899,66434
+Furniture,Rugs,Perfect,11/4/18,834.95,37.95,797,22,21,14,0.02,1351,254.41,180.81,43295,904,66710
+Furniture,Rugs,Perfect,10/28/18,378,0,378,6,6,6,0.01,641,298.84,177.59,43711,918,67351
+Furniture,Rugs,Perfect,10/21/18,297,0,297,7,7,7,0.01,503,243.55,176.54,43024,906,66293
+Furniture,Rugs,Perfect,10/14/18,294,0,294,6,6,7,0.01,498,244.86,174.09,42502,898,65488
+Furniture,Rugs,Perfect,10/7/18,514.44,51.44,463,10,9,7,0.01,785,168.09,171.85,42018,891,64742
+Furniture,Rugs,Great,1/13/19,129,43,86,3,2,2,0.03,146,412.57,189.56,4154,77,6400
+Furniture,Rugs,Great,1/6/19,266,76,190,7,5,3,0.06,322,328.17,191.66,4249,79,6547
+Furniture,Rugs,Great,12/30/18,93,62,31,3,1,1,0.01,53,118.73,185.99,4293,81,6615
+Furniture,Rugs,Great,12/23/18,120,60,60,2,1,1,0.01,102,83.39,186.48,4282,81,6598
+Furniture,Rugs,Great,12/16/18,124,62,62,4,2,2,0.02,105,157.23,185.71,4298,81,6622
+Furniture,Rugs,Great,12/9/18,0,0,0,0,0,0,0,0,0,182.63,4219,81,6500
+Furniture,Rugs,Great,12/2/18,329,94,235,7,5,5,0.06,398,102.41,172.97,4285,82,6602
+Furniture,Rugs,Great,11/25/18,0,0,0,0,0,0,0,0,0,168.21,4447,86,6853
+Furniture,Rugs,Great,11/18/18,0,0,0,0,0,0,0,0,0,165.27,4447,86,6853
+Furniture,Rugs,Great,11/11/18,0,0,0,0,0,0,0,0,0,160.37,4447,86,6853
+Furniture,Rugs,Great,11/4/18,54,0,54,1,1,1,0.01,92,249.1,156.31,4447,86,6853
+Furniture,Rugs,Great,10/28/18,0,0,0,0,0,0,0,0,0,151.41,4506,87,6942
+Furniture,Rugs,Great,10/21/18,0,0,0,0,0,0,0,0,0,150.08,4425,85,6819
+Furniture,Rugs,Great,10/14/18,0,0,0,0,0,0,0,0,0,148.75,4342,82,6690
+Furniture,Rugs,Great,10/7/18,54,27,27,2,1,1,0.01,46,458.3,154.63,4128,78,6361
+Furniture,Rugs,OK,1/13/19,0,0,0,0,0,0,0,0,0,228.27,1232,24,1898
+Furniture,Rugs,OK,1/6/19,98,0,98,2,2,2,0.08,166,400.17,234.85,1232,24,1898
+Furniture,Rugs,OK,12/30/18,0,0,0,0,0,0,0,0,0,230.02,1327,26,2044
+Furniture,Rugs,OK,12/23/18,0,0,0,0,0,0,0,0,0,225.12,1327,26,2044
+Furniture,Rugs,OK,12/16/18,63,0,63,1,1,1,0.04,107,196.2,219.45,1327,26,2044
+Furniture,Rugs,OK,12/9/18,24,0,24,1,1,1,0.04,41,50.28,207.9,1385,27,2134
+Furniture,Rugs,OK,12/2/18,88,0,88,2,2,2,0.07,149,205.44,202.16,1411,28,2175
+Furniture,Rugs,OK,11/25/18,32,0,32,1,1,1,0.03,54,44.2,192.36,1519,30,2341
+Furniture,Rugs,OK,11/18/18,0,0,0,0,0,0,0,0,0,187.6,1558,31,2400
+Furniture,Rugs,OK,11/11/18,0,0,0,0,0,0,0,0,0,182.7,1558,31,2400
+Furniture,Rugs,OK,11/4/18,38,0,38,1,1,1,0.03,64,300.45,187.32,1499,30,2310
+Furniture,Rugs,OK,10/28/18,0,0,0,0,0,0,0,0,0,182.56,1542,31,2376
+Furniture,Rugs,OK,10/21/18,0,0,0,0,0,0,0,0,0,169.12,1493,30,2300
+Furniture,Rugs,OK,10/14/18,114,0,114,2,2,1,0.06,193,164.63,163.73,1493,30,2300
+Furniture,Rugs,OK,10/7/18,67,0,67,1,1,1,0.03,114,80.23,155.96,1610,32,2481
+Furniture,Side Tables,Perfect,1/13/19,332,0,332,10,10,9,0.04,738,215.06,190.19,10639,255,29553
+Furniture,Side Tables,Perfect,1/6/19,251,0,251,8,8,8,0.03,558,227.92,186.76,10948,263,30412
+Furniture,Side Tables,Perfect,12/30/18,131,0,131,4,4,4,0.02,291,218.06,182.49,11224,271,31179
+Furniture,Side Tables,Perfect,12/23/18,89,0,89,2,2,3,0.01,198,205.59,178.5,11307,274,31408
+Furniture,Side Tables,Perfect,12/16/18,141.25,28.25,113,5,4,4,0.01,251,94.02,172.97,11395,276,31653
+Furniture,Side Tables,Perfect,12/9/18,257.63,28.63,229,9,8,6,0.03,509,196.66,169.54,11238,274,31216
+Furniture,Side Tables,Perfect,12/2/18,447,0,447,14,14,13,0.05,993,193.35,165.97,11600,285,32221
+Furniture,Side Tables,Perfect,11/25/18,333,0,333,12,12,9,0.04,740,167.86,163.45,11900,295,33055
+Furniture,Side Tables,Perfect,11/18/18,314,0,314,13,13,7,0.04,698,248.86,163.73,12038,302,33440
+Furniture,Side Tables,Perfect,11/11/18,54,0,54,2,2,3,0.01,120,118.58,160.51,12119,310,33663
+Furniture,Side Tables,Perfect,11/4/18,211,0,211,9,9,9,0.03,469,310.77,164.85,11866,303,32960
+Furniture,Side Tables,Perfect,10/28/18,125,0,125,5,5,4,0.02,278,168.09,162.47,11924,307,33122
+Furniture,Side Tables,Perfect,10/21/18,290.4,26.4,264,11,10,8,0.03,587,272.66,161.84,11856,309,32933
+Furniture,Side Tables,Perfect,10/14/18,152,0,152,5,5,5,0.02,338,178.56,159.18,11921,314,33113
+Furniture,Side Tables,Perfect,10/7/18,141.25,28.25,113,5,4,4,0.01,251,253.64,160.02,11635,310,32319
+Furniture,Side Tables,Great,1/13/19,0,-16,16,0,0,1,0,36,291.52,177.94,864,25,2399
+Furniture,Side Tables,Great,1/6/19,121.5,40.5,81,3,2,2,0.07,180,128.98,169.19,904,26,2512
+Furniture,Side Tables,Great,12/30/18,0,47,-47,0,-1,1,-0.04,-104,160.39,163.1,993,28,2759
+Furniture,Side Tables,Great,12/23/18,87,58,29,3,1,1,0.04,64,52.44,156.52,922,26,2561
+Furniture,Side Tables,Great,12/16/18,0,0,0,0,0,0,0,0,0,157.64,921,26,2558
+Furniture,Side Tables,Great,12/9/18,0,0,0,0,0,0,0,0,0,152.74,921,26,2558
+Furniture,Side Tables,Great,12/2/18,75,25,50,3,2,3,0.07,111,91.09,140.28,953,27,2646
+Furniture,Side Tables,Great,11/25/18,152.4,25.4,127,6,5,3,0.15,282,155.54,137.62,1010,29,2805
+Furniture,Side Tables,Great,11/18/18,0,0,0,0,0,0,0,0,0,133.07,1113,33,3092
+Furniture,Side Tables,Great,11/11/18,60,20,40,3,2,2,0.06,89,304.69,136.43,1141,34,3169
+Furniture,Side Tables,Great,11/4/18,0,32,-32,0,-1,0,-0.03,-71,0,130.9,1164,35,3233
+Furniture,Side Tables,Great,10/28/18,0,24,-24,0,-1,0,-0.03,-53,0,134.47,1131,34,3141
+Furniture,Side Tables,Great,10/21/18,54,0,54,2,2,2,0.06,120,460.31,140.28,1112,33,3089
+Furniture,Side Tables,Great,10/14/18,112,56,56,4,2,2,0.05,124,171.25,136.08,1164,35,3233
+Furniture,Side Tables,Great,10/7/18,0,0,0,0,0,0,0,0,0,139.58,1128,35,3132
+Furniture,Side Tables,OK,1/13/19,0,0,0,0,0,0,0,0,0,139.86,228,6,633
+Furniture,Side Tables,OK,1/6/19,0,0,0,0,0,0,0,0,0,134.96,228,6,633
+Furniture,Side Tables,OK,12/30/18,0,0,0,0,0,0,0,0,0,130.06,228,6,633
+Furniture,Side Tables,OK,12/23/18,0,0,0,0,0,0,0,0,0,150.78,143,4,397
+Furniture,Side Tables,OK,12/16/18,0,0,0,0,0,0,0,0,0,183.4,143,4,397
+Furniture,Side Tables,OK,12/9/18,0,0,0,0,0,0,0,0,0,178.5,143,4,397
+Furniture,Side Tables,OK,12/2/18,0,0,0,0,0,0,0,0,0,173.6,143,4,397
+Furniture,Side Tables,OK,11/25/18,0,0,0,0,0,0,0,0,0,168.7,143,4,397
+Furniture,Side Tables,OK,11/18/18,0,0,0,0,0,0,0,0,0,163.8,143,4,397
+Furniture,Side Tables,OK,11/11/18,0,0,0,0,0,0,0,0,0,158.9,143,4,397
+Furniture,Side Tables,OK,11/4/18,0,0,0,0,0,0,0,0,0,154,143,4,397
+Furniture,Side Tables,OK,10/28/18,28,14,14,2,1,1,0.2,31,372.06,187.46,143,4,397
+Furniture,Side Tables,OK,10/21/18,0,0,0,0,0,0,0,0,0,183.26,158,5,440
+Furniture,Side Tables,OK,10/14/18,0,0,0,0,0,0,0,0,0,178.36,158,5,440
+Furniture,Side Tables,OK,10/7/18,0,0,0,0,0,0,0,0,0,173.46,158,5,440
+Furniture,Desks,Perfect,1/13/19,36,12,24,3,2,3,0.02,53,236.39,180.18,1663,96,3360
+Furniture,Desks,Perfect,1/6/19,64,16,48,4,3,3,0.03,107,161.24,170.52,1692,98,3418
+Furniture,Desks,Perfect,12/30/18,102,0,102,6,6,6,0.06,227,230.54,170.1,1745,101,3524
+Furniture,Desks,Perfect,12/23/18,87,0,87,4,4,2,0.04,193,137.52,164.99,1841,106,3720
+Furniture,Desks,Perfect,12/16/18,9,0,9,1,1,1,0.01,20,153.46,161.91,1928,110,3896
+Furniture,Desks,Perfect,12/9/18,29,0,29,2,2,2,0.02,64,116.89,156.17,1937,111,3913
+Furniture,Desks,Perfect,12/2/18,230,0,230,13,13,9,0.11,511,199.82,156.94,1923,111,3884
+Furniture,Desks,Perfect,11/25/18,60,20,40,3,2,1,0.02,89,153.15,153.44,2135,123,4313
+Furniture,Desks,Perfect,11/18/18,81.25,16.25,65,5,4,3,0.03,144,208.98,150.36,2135,122,4313
+Furniture,Desks,Perfect,11/11/18,24,0,24,1,1,1,0.01,53,319.78,148.4,2211,127,4467
+Furniture,Desks,Perfect,11/4/18,128.4,21.4,107,6,5,4,0.04,238,189.34,144.62,2242,128,4529
+Furniture,Desks,Perfect,10/28/18,14,0,14,1,1,1,0.01,31,257.41,144.97,2258,129,4562
+Furniture,Desks,Perfect,10/21/18,44,22,22,2,1,1,0.01,49,373.68,147.28,2178,125,4400
+Furniture,Desks,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,144.83,2111,122,4264
+Furniture,Desks,Perfect,10/7/18,13,0,13,1,1,1,0.01,29,172.71,143.71,2057,119,4156
+Furniture,Desks,Great,1/13/19,0,0,0,0,0,0,0,0,0,187.53,190,13,384
+Furniture,Desks,Great,1/6/19,0,0,0,0,0,0,0,0,0,182.63,190,13,384
+Furniture,Desks,Great,12/30/18,0,0,0,0,0,0,0,0,0,177.73,190,13,384
+Furniture,Desks,Great,12/23/18,0,0,0,0,0,0,0,0,0,172.83,190,13,384
+Furniture,Desks,Great,12/16/18,0,16,-16,0,-1,0,-0.08,-36,0,174.09,190,13,384
+Furniture,Desks,Great,12/9/18,36,18,18,2,1,1,0.08,40,108.19,145.32,175,12,353
+Furniture,Desks,Great,12/2/18,48,32,16,3,1,1,0.07,36,353.74,153.44,198,13,400
+Furniture,Desks,Great,11/25/18,0,0,0,0,0,0,0,0,0,160.51,197,13,398
+Furniture,Desks,Great,11/18/18,0,0,0,0,0,0,0,0,0,155.61,186,12,376
+Furniture,Desks,Great,11/11/18,0,0,0,0,0,0,0,0,0,150.71,197,13,398
+Furniture,Desks,Great,11/4/18,0,0,0,0,0,0,0,0,0,145.81,197,13,398
+Furniture,Desks,Great,10/28/18,0,0,0,0,0,0,0,0,0,140.91,197,13,398
+Furniture,Desks,Great,10/21/18,0,0,0,0,0,0,0,0,0,136.01,197,13,398
+Furniture,Desks,Great,10/14/18,0,0,0,0,0,0,0,0,0,131.11,197,13,398
+Furniture,Desks,Great,10/7/18,0,0,0,0,0,0,0,0,0,126.21,197,13,398
+Furniture,Desks,OK,1/13/19,0,0,0,0,0,0,0,0,0,98.35,50,3,100
+Furniture,Desks,OK,1/6/19,0,0,0,0,0,0,0,0,0,93.45,50,3,100
+Furniture,Desks,OK,12/30/18,0,0,0,0,0,0,0,0,0,88.55,50,3,100
+Furniture,Desks,OK,12/23/18,0,0,0,0,0,0,0,0,0,83.65,50,3,100
+Furniture,Desks,OK,12/16/18,0,0,0,0,0,0,0,0,0,78.75,50,3,100
+Furniture,Desks,OK,12/9/18,0,0,0,0,0,0,0,0,0,73.85,50,3,100
+Furniture,Desks,OK,12/2/18,0,0,0,0,0,0,0,0,0,68.95,50,3,100
+Furniture,Desks,OK,11/25/18,0,0,0,0,0,0,0,0,0,64.05,50,3,100
+Furniture,Desks,OK,11/18/18,0,0,0,0,0,0,0,0,0,59.15,50,3,100
+Furniture,Desks,OK,11/11/18,0,0,0,0,0,0,0,0,0,54.25,50,3,100
+Furniture,Desks,OK,11/4/18,0,0,0,0,0,0,0,0,0,49.35,50,3,100
+Furniture,Desks,OK,10/28/18,0,0,0,0,0,0,0,0,0,44.45,50,3,100
+Furniture,Desks,OK,10/21/18,0,0,0,0,0,0,0,0,0,39.55,50,3,100
+Furniture,Desks,OK,10/14/18,0,0,0,0,0,0,0,0,0,34.65,50,3,100
+Furniture,Desks,OK,10/7/18,0,0,0,0,0,0,0,0,0,46.27,28,2,56
+Furniture,Beds,Perfect,1/13/19,97,0,97,3,3,3,0.13,100,369.29,249.69,762,20,714
+Furniture,Beds,Perfect,1/6/19,117,39,78,3,2,2,0.08,80,304.84,247.66,869,23,814
+Furniture,Beds,Perfect,12/30/18,101,0,101,2,2,2,0.07,104,314.78,246.26,955,25,895
+Furniture,Beds,Perfect,12/23/18,0,0,0,0,0,0,0,0,0,241.57,1054,27,988
+Furniture,Beds,Perfect,12/16/18,29,0,29,1,1,1,0.04,30,416.8,239.26,1054,27,988
+Furniture,Beds,Perfect,12/9/18,170.67,42.67,128,4,3,2,0.1,132,334.57,243.88,1082,28,1014
+Furniture,Beds,Perfect,12/2/18,143.75,28.75,115,5,4,4,0.11,119,279.05,241.01,1213,31,1137
+Furniture,Beds,Perfect,11/25/18,161,0,161,5,5,4,0.13,166,276.74,238.35,1332,35,1248
+Furniture,Beds,Perfect,11/18/18,23,0,23,1,1,1,0.02,24,262.88,233.87,1510,40,1415
+Furniture,Beds,Perfect,11/11/18,0,0,0,0,0,0,0,0,0,229.04,1531,41,1435
+Furniture,Beds,Perfect,11/4/18,175,35,140,5,4,3,0.09,144,137.29,215.32,1531,41,1435
+Furniture,Beds,Perfect,10/28/18,0,0,0,0,0,0,0,0,0,215.46,1653,44,1549
+Furniture,Beds,Perfect,10/21/18,0,0,0,0,0,0,0,0,0,210.56,1653,44,1549
+Furniture,Beds,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,210.56,1595,43,1495
+Furniture,Beds,Perfect,10/7/18,0,0,0,0,0,0,0,0,0,210.63,1566,42,1468
+Furniture,Beds,Great,12/23/18,105,70,35,3,1,1,1,36,274.35,249.48,0,0,0
+Furniture,Beds,Great,12/16/18,0,0,0,0,0,0,0,0,0,245.28,31,1,29
+Furniture,Beds,Great,12/9/18,0,0,0,0,0,0,0,0,0,240.38,31,1,29
+Furniture,Beds,Great,12/2/18,0,0,0,0,0,0,0,0,0,235.48,31,1,29
+Furniture,Beds,Great,11/25/18,0,0,0,0,0,0,0,0,0,230.58,31,1,29
+Furniture,Beds,Great,11/18/18,0,0,0,0,0,0,0,0,0,225.68,31,1,29
+Furniture,Beds,Great,11/11/18,0,0,0,0,0,0,0,0,0,220.78,31,1,29
+Furniture,Beds,Great,11/4/18,0,0,0,0,0,0,0,0,0,215.88,31,1,29
+Furniture,Beds,Great,10/28/18,0,0,0,0,0,0,0,0,0,210.98,31,1,29
+Furniture,Beds,Great,10/21/18,0,0,0,0,0,0,0,0,0,206.08,31,1,29
+Furniture,Beds,Great,10/14/18,0,0,0,0,0,0,0,0,0,201.18,31,1,29
+Furniture,Beds,Great,10/7/18,0,0,0,0,0,0,0,0,0,196.28,31,1,29
+Storage,Boxes,Perfect,1/13/19,378,0,378,14,14,11,0.11,840,263.65,216.51,4004,116,8089
+Storage,Boxes,Perfect,1/6/19,347,0,347,12,12,10,0.08,771,216.37,213.29,4439,131,8967
+Storage,Boxes,Perfect,12/30/18,262.9,23.9,239,11,10,10,0.07,531,156.93,200.41,4824,143,9744
+Storage,Boxes,Perfect,12/23/18,274.44,27.44,247,10,9,7,0.06,549,215.68,196.77,5059,153,10220
+Storage,Boxes,Perfect,12/16/18,107,0,107,5,5,5,0.03,238,226.38,193.34,5262,160,10631
+Storage,Boxes,Perfect,12/9/18,383.5,29.5,354,13,12,12,0.07,787,177.33,187.39,5375,165,10858
+Storage,Boxes,Perfect,12/2/18,406.25,31.25,375,13,12,11,0.06,833,218.53,186.69,5675,175,11464
+Storage,Boxes,Perfect,11/25/18,18.22,15.22,3,1,0,1,0,7,287.52,187.67,5904,183,11927
+Storage,Boxes,Perfect,11/18/18,178.75,35.75,143,5,4,3,0.02,318,195.5,181.02,5867,181,11853
+Storage,Boxes,Perfect,11/11/18,0,0,0,0,0,0,0,0,0,176.4,6048,186,12218
+Storage,Boxes,Perfect,11/4/18,153.33,38.33,115,4,3,3,0.02,256,106.88,171.22,5998,185,12118
+Storage,Boxes,Perfect,10/28/18,84,0,84,2,2,2,0.01,187,214.37,166.67,6074,188,12271
+Storage,Boxes,Perfect,10/21/18,108,0,108,3,3,3,0.02,240,177.33,162.68,6126,189,12376
+Storage,Boxes,Perfect,10/14/18,41,0,41,1,1,1,0.01,91,166.55,161.21,6067,187,12256
+Storage,Boxes,Perfect,10/7/18,124.5,41.5,83,3,2,2,0.01,184,165.17,161.42,5976,183,12073
+Storage,Boxes,Great,1/13/19,158.67,22.67,136,7,6,6,0.25,302,183.8,219.87,574,18,1160
+Storage,Boxes,Great,1/6/19,95,0,95,3,3,3,0.11,211,99.33,201.74,724,24,1462
+Storage,Boxes,Great,12/30/18,90.67,22.67,68,4,3,3,0.1,151,184.18,194.53,828,27,1673
+Storage,Boxes,Great,12/23/18,127.5,25.5,102,5,4,4,0.12,227,124.66,181.02,891,30,1800
+Storage,Boxes,Great,12/16/18,0,0,0,0,0,0,0,0,0,200.27,890,30,1798
+Storage,Boxes,Great,12/9/18,75,0,75,3,3,3,0.09,167,187.8,193.34,890,30,1798
+Storage,Boxes,Great,12/2/18,114,57,57,4,2,2,0.06,127,128.28,184.66,964,33,1947
+Storage,Boxes,Great,11/25/18,56,0,56,2,2,2,0.05,124,205.28,180.39,1023,35,2067
+Storage,Boxes,Great,11/18/18,0,0,0,0,0,0,0,0,0,175.63,1036,36,2093
+Storage,Boxes,Great,11/11/18,134,67,67,4,2,2,0.05,149,278.97,175.07,1080,37,2182
+Storage,Boxes,Great,11/4/18,93,62,31,3,1,1,0.03,69,453.92,176.4,1155,39,2333
+Storage,Boxes,Great,10/28/18,117,39,78,3,2,2,0.05,173,200.35,172.06,1189,40,2402
+Storage,Boxes,Great,10/21/18,57,38,19,3,1,1,0.02,42,353.05,175.14,1220,40,2464
+Storage,Boxes,Great,10/14/18,113,0,113,3,3,2,0.07,251,143.76,173.11,1242,41,2509
+Storage,Boxes,Great,10/7/18,38,0,38,1,1,1,0.02,84,458.69,173.11,1312,43,2651
+Storage,Boxes,OK,1/13/19,56,28,28,2,1,1,0.25,62,13.32,153.09,73,3,147
+Storage,Boxes,OK,1/6/19,20,0,20,1,1,1,0.2,44,118.04,141.4,103,4,209
+Storage,Boxes,OK,12/30/18,0,0,0,0,0,0,0,0,0,137.06,125,5,253
+Storage,Boxes,OK,12/23/18,0,0,0,0,0,0,0,0,0,132.16,95,4,191
+Storage,Boxes,OK,12/16/18,0,0,0,0,0,0,0,0,0,214.97,64,3,129
+Storage,Boxes,OK,12/9/18,23,0,23,1,1,1,0.25,51,80.16,175.84,64,3,129
+Storage,Boxes,OK,12/2/18,0,0,0,0,0,0,0,0,0,171.43,87,4,176
+Storage,Boxes,OK,11/25/18,32,0,32,1,1,1,0.2,71,51.05,142.8,87,4,176
+Storage,Boxes,OK,11/18/18,0,0,0,0,0,0,0,0,0,138.6,122,5,247
+Storage,Boxes,OK,11/11/18,0,0,0,0,0,0,0,0,0,133.7,122,5,247
+Storage,Boxes,OK,11/4/18,0,0,0,0,0,0,0,0,0,128.8,122,5,247
+Storage,Boxes,OK,10/28/18,68,34,34,2,1,1,0.17,76,30.26,108.15,122,5,247
+Storage,Boxes,OK,10/21/18,0,0,0,0,0,0,0,0,0,104.3,144,6,291
+Storage,Boxes,OK,10/14/18,34,0,34,1,1,1,0.14,76,141.06,101.36,144,6,291
+Storage,Boxes,OK,10/7/18,34,0,34,1,1,1,0.13,76,147.92,102.69,175,7,353
+Storage,Bags,Perfect,12/16/18,78,0,78,1,1,1,1,115,459.23,417.62,0,0,0
+Storage,Bags,Perfect,12/9/18,0,0,0,0,0,0,0,0,0,414.82,72,1,131
+Storage,Bags,Perfect,12/2/18,72,36,36,2,1,1,0.5,53,24.1,215.95,72,1,131
+Storage,Bags,Perfect,11/25/18,0,0,0,0,0,0,0,0,0,211.4,105,2,192
+Storage,Bags,Perfect,11/18/18,0,0,0,0,0,0,0,0,0,206.5,105,2,192
+Storage,Bags,Perfect,11/11/18,0,0,0,0,0,0,0,0,0,201.6,105,2,192
+Storage,Bags,Perfect,11/4/18,0,0,0,0,0,0,0,0,0,196.7,105,2,192
+Storage,Bags,Perfect,10/28/18,0,0,0,0,0,0,0,0,0,385.42,72,1,131
+Storage,Bags,Perfect,10/21/18,36,0,36,1,1,1,0.5,53,31.8,205.8,72,1,131
+Storage,Bags,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,202.65,105,2,192
+Storage,Bags,Perfect,10/7/18,0,0,0,0,0,0,0,0,0,197.75,105,2,192
+Storage,Bags,Great,1/13/19,0,0,0,0,0,0,0,0,0,14.98,24,1,44
+Storage,Bags,Great,1/6/19,0,0,0,0,0,0,0,0,0,10.08,24,1,44
+Storage,Bags,Great,12/30/18,0,0,0,0,0,0,0,0,0,5.18,24,1,44
+Storage,Bags,Great,12/23/18,0,0,0,0,0,0,,0,0,0.28,0,0,0
+Storage,Shelves,Perfect,1/13/19,153.6,25.6,128,6,5,4,0.17,278,289.83,228.9,748,25,1478
+Storage,Shelves,Perfect,1/6/19,55,0,55,2,2,2,0.06,120,220.91,223.09,889,30,1757
+Storage,Shelves,Perfect,12/30/18,121.25,24.25,97,5,4,4,0.11,211,233.93,217.7,949,32,1876
+Storage,Shelves,Perfect,12/23/18,115,0,115,5,5,5,0.12,250,36.04,191.17,1051,36,2076
+Storage,Shelves,Perfect,12/16/18,0,9,-9,0,-1,0,-0.03,-20,0,188.93,1154,40,2280
+Storage,Shelves,Perfect,12/9/18,258.5,23.5,235,11,10,8,0.21,511,229.69,199.22,1090,37,2154
+Storage,Shelves,Perfect,12/2/18,78,26,52,3,2,2,0.04,113,61.91,197.4,1284,45,2537
+Storage,Shelves,Perfect,11/25/18,87,0,87,3,3,3,0.06,189,138.75,188.65,1328,47,2624
+Storage,Shelves,Perfect,11/18/18,109,0,109,3,3,3,0.06,237,130.52,185.57,1320,48,2609
+Storage,Shelves,Perfect,11/11/18,122,0,122,4,4,4,0.08,265,150.84,182.63,1335,49,2639
+Storage,Shelves,Perfect,11/4/18,113.33,28.33,85,4,3,3,0.05,185,309.08,186.83,1430,53,2826
+Storage,Shelves,Perfect,10/28/18,132,33,99,4,3,3,0.05,215,146.61,179.55,1499,56,2963
+Storage,Shelves,Perfect,10/21/18,115,0,115,3,3,2,0.05,250,38.12,168.07,1577,59,3117
+Storage,Shelves,Perfect,10/14/18,66,0,66,2,2,3,0.03,143,86.86,160.86,1670,62,3300
+Storage,Shelves,Perfect,10/7/18,223.2,37.2,186,6,5,5,0.08,404,318.01,179.06,1580,59,3122
+Storage,Shelves,Great,1/13/19,0,0,0,0,0,0,0,0,0,100.03,199,7,393
+Storage,Shelves,Great,1/6/19,74,37,37,4,2,2,0.22,80,37.58,81.69,199,7,393
+Storage,Shelves,Great,12/30/18,0,0,0,0,0,0,0,0,0,77.07,240,9,474
+Storage,Shelves,Great,12/23/18,56,28,28,4,2,2,0.18,61,83.39,72.94,240,9,474
+Storage,Shelves,Great,12/16/18,0,0,0,0,0,0,0,0,0,75.39,251,10,496
+Storage,Shelves,Great,12/9/18,0,0,0,0,0,0,0,0,0,78.68,221,9,437
+Storage,Shelves,Great,12/2/18,0,0,0,0,0,0,0,0,0,73.78,221,9,437
+Storage,Shelves,Great,11/25/18,0,0,0,0,0,0,0,0,0,68.88,221,9,437
+Storage,Shelves,Great,11/18/18,0,0,0,0,0,0,0,0,0,63.98,221,9,437
+Storage,Shelves,Great,11/11/18,118.5,39.5,79,3,2,2,0.18,172,51.74,57.4,221,9,437
+Storage,Shelves,Great,11/4/18,21,0,21,1,1,1,0.09,46,401.56,86.59,283,10,559
+Storage,Shelves,Great,10/28/18,137.33,34.33,103,4,3,3,0.21,224,20.48,66.22,307,11,607
+Storage,Shelves,Great,10/21/18,20,0,20,1,1,1,0.07,43,74,62.3,375,14,741
+Storage,Shelves,Great,10/14/18,0,0,0,0,0,0,0,0,0,71.61,316,12,624
+Storage,Shelves,Great,10/7/18,161.25,32.25,129,5,4,3,0.29,280,223.53,112.77,262,10,517
+Storage,Shelves,OK,1/13/19,0,30,-30,0,-1,0,,-65,0,442.05,24,1,48
+Storage,Shelves,OK,12/9/18,61,0,61,2,2,2,1,133,454.69,416.43,0,0,0
+Storage,Shelves,OK,12/2/18,0,0,0,0,0,0,0,0,0,415.03,50,2,98
+Storage,Shelves,OK,11/25/18,0,0,0,0,0,0,0,0,0,410.13,50,2,98
+Storage,Shelves,OK,11/18/18,18,0,18,1,1,1,0.33,39,362.9,380.8,50,2,98
+Storage,Shelves,OK,11/11/18,18,0,18,1,1,1,0.25,39,429.89,380.1,68,3,135
+Storage,Shelves,OK,11/4/18,0,0,0,0,0,0,0,0,0,375.9,89,4,176
+Storage,Shelves,OK,10/28/18,0,0,0,0,0,0,0,0,0,371,89,4,176
+Storage,Shelves,OK,10/21/18,0,0,0,0,0,0,0,0,0,366.1,89,4,176
+Storage,Shelves,OK,10/14/18,0,0,0,0,0,0,0,0,0,361.2,89,4,176
+Storage,Shelves,OK,10/7/18,26,0,26,1,1,1,0.2,57,87.24,301.35,89,4,176
+Storage,Envelopes,Perfect,1/13/19,63,0,63,3,3,3,0.01,74,420.19,249.97,8029,322,11807
+Storage,Envelopes,Perfect,1/6/19,0,24,-24,0,-1,1,0,-28,33.42,244.65,8075,324,11875
+Storage,Envelopes,Perfect,12/30/18,156,0,156,6,6,5,0.02,184,127.36,237.09,8080,324,11882
+Storage,Envelopes,Perfect,12/23/18,73.5,24.5,49,3,2,2,0.01,58,452.91,234.01,8188,329,12042
+Storage,Envelopes,Perfect,12/16/18,110.4,18.4,92,6,5,5,0.02,108,134.83,229.39,8212,330,12076
+Storage,Envelopes,Perfect,12/9/18,290,0,290,12,12,11,0.04,341,246.79,224.56,8245,331,12124
+Storage,Envelopes,Perfect,12/2/18,318.55,26.55,292,12,11,9,0.03,344,155.31,221.83,8320,336,12236
+Storage,Envelopes,Perfect,11/25/18,379.08,27.08,352,14,13,11,0.04,414,204.51,217.77,8480,342,12470
+Storage,Envelopes,Perfect,11/18/18,141.25,28.25,113,5,4,5,0.01,133,290.14,216.65,8737,353,12849
+Storage,Envelopes,Perfect,11/11/18,249.14,31.14,218,8,7,6,0.02,256,124.74,211.47,8680,351,12765
+Storage,Envelopes,Perfect,11/4/18,327.27,27.27,300,12,11,10,0.03,353,147.84,207.76,8770,354,12898
+Storage,Envelopes,Perfect,10/28/18,391,0,391,14,14,11,0.04,460,212.67,203.14,8995,364,13228
+Storage,Envelopes,Perfect,10/21/18,271.7,24.7,247,11,10,10,0.03,291,206.05,200.76,9189,373,13514
+Storage,Envelopes,Perfect,10/14/18,355.3,32.3,323,11,10,7,0.03,380,190.81,197.19,9367,380,13774
+Storage,Envelopes,Perfect,10/7/18,264,0,264,8,8,6,0.02,311,219.91,194.32,9536,386,14023
+Storage,Envelopes,Great,1/13/19,61.5,20.5,41,3,2,2,0.15,48,271.04,224,244,11,359
+Storage,Envelopes,Great,1/6/19,0,0,0,0,0,0,0,0,0,219.45,288,13,424
+Storage,Envelopes,Great,12/30/18,0,0,0,0,0,0,0,0,0,214.55,288,13,424
+Storage,Envelopes,Great,12/23/18,21,0,21,1,1,1,0.07,25,253.48,211.12,288,13,424
+Storage,Envelopes,Great,12/16/18,0,0,0,0,0,0,0,0,0,206.36,311,14,458
+Storage,Envelopes,Great,12/9/18,64.5,21.5,43,3,2,2,0.13,51,302.46,210.91,311,14,458
+Storage,Envelopes,Great,12/2/18,26,13,13,2,1,1,0.06,15,72.46,198.03,353,16,519
+Storage,Envelopes,Great,11/25/18,100,40,60,5,3,3,0.15,71,240.16,197.19,365,17,537
+Storage,Envelopes,Great,11/18/18,55.5,18.5,37,3,2,2,0.1,44,277.89,207.9,405,19,595
+Storage,Envelopes,Great,11/11/18,0,27,-27,0,-1,0,-0.05,-32,0,210.91,442,21,650
+Storage,Envelopes,Great,11/4/18,0,0,0,0,0,0,0,0,0,189.63,422,20,621
+Storage,Envelopes,Great,10/28/18,125,0,125,5,5,5,0.2,147,162.16,177.52,422,20,621
+Storage,Envelopes,Great,10/21/18,115,46,69,5,3,3,0.11,81,360.05,190.68,545,25,801
+Storage,Envelopes,Great,10/14/18,81,27,54,3,2,1,0.07,64,328.25,190.05,602,28,885
+Storage,Envelopes,Great,10/7/18,27,0,27,1,1,1,0.03,32,124.74,186.55,646,30,950
+Storage,Envelopes,OK,1/13/19,0,0,0,0,0,0,0,0,0,179.9,29,2,42
+Storage,Envelopes,OK,1/6/19,0,0,0,0,0,0,0,0,0,175,29,2,42
+Storage,Envelopes,OK,12/30/18,0,0,0,0,0,0,0,0,0,170.1,29,2,42
+Storage,Envelopes,OK,12/23/18,0,0,0,0,0,0,0,0,0,165.2,29,2,42
+Storage,Envelopes,OK,12/16/18,0,0,0,0,0,0,0,0,0,160.3,29,2,42
+Storage,Envelopes,OK,12/9/18,0,0,0,0,0,0,0,0,0,155.4,29,2,42
+Storage,Envelopes,OK,12/2/18,0,0,0,0,0,0,0,0,0,150.5,29,2,42
+Storage,Envelopes,OK,11/25/18,15,0,15,1,1,1,0.33,18,419.34,224.35,29,2,42
+Storage,Envelopes,OK,11/18/18,0,0,0,0,0,0,0,0,0,220.15,46,3,68
+Storage,Envelopes,OK,11/11/18,0,17,-17,0,-1,0,-0.5,-20,0,255.01,46,3,68
+Storage,Envelopes,OK,11/4/18,0,0,0,0,0,0,0,0,0,130.9,29,2,42
+Storage,Envelopes,OK,10/28/18,15,0,15,1,1,1,0.33,18,246.48,159.67,29,2,42
+Storage,Envelopes,OK,10/21/18,17,0,17,1,1,1,0.25,20,392.39,206.29,46,3,68
+Storage,Envelopes,OK,10/14/18,0,0,0,0,0,0,0,0,0,201.95,63,4,92
+Storage,Envelopes,OK,10/7/18,0,0,0,0,0,0,0,0,0,197.05,63,4,92
+Storage,Cabinets,Perfect,1/13/19,0,0,0,0,0,0,0,0,0,247.31,2012,29,2345
+Storage,Cabinets,Perfect,1/6/19,0,0,0,0,0,0,0,0,0,242.41,2012,29,2345
+Storage,Cabinets,Perfect,12/30/18,0,0,0,0,0,0,0,0,0,237.51,2012,29,2345
+Storage,Cabinets,Perfect,12/23/18,0,0,0,0,0,0,0,0,0,232.61,2012,29,2345
+Storage,Cabinets,Perfect,12/16/18,0,0,0,0,0,0,0,0,0,227.71,2012,29,2345
+Storage,Cabinets,Perfect,12/9/18,0,0,0,0,0,0,0,0,0,222.81,2012,29,2345
+Storage,Cabinets,Perfect,12/2/18,0,0,0,0,0,0,0,0,0,217.91,2012,29,2345
+Storage,Cabinets,Perfect,11/25/18,0,0,0,0,0,0,0,0,0,213.01,2012,29,2345
+Storage,Cabinets,Perfect,11/18/18,0,0,0,0,0,0,0,0,0,208.11,2012,29,2345
+Storage,Cabinets,Perfect,11/11/18,0,0,0,0,0,0,0,0,0,203.21,2012,29,2345
+Storage,Cabinets,Perfect,11/4/18,0,0,0,0,0,0,0,0,0,198.31,2012,29,2345
+Storage,Cabinets,Perfect,10/28/18,0,0,0,0,0,0,0,0,0,193.41,2012,29,2345
+Storage,Cabinets,Perfect,10/21/18,0,0,0,0,0,0,0,0,0,195.37,1962,28,2287
+Storage,Cabinets,Perfect,10/14/18,0,0,0,0,0,0,0,0,0,190.47,1962,28,2287
+Storage,Cabinets,Perfect,10/7/18,0,0,0,0,0,0,0,0,0,185.57,1962,28,2287
+Storage,Cabinets,Great,1/13/19,0,0,0,0,0,0,0,0,0,234.29,1035,15,1206
+Storage,Cabinets,Great,1/6/19,0,0,0,0,0,0,0,0,0,229.39,1035,15,1206
+Storage,Cabinets,Great,12/30/18,0,0,0,0,0,0,0,0,0,224.49,1035,15,1206
+Storage,Cabinets,Great,12/23/18,0,0,0,0,0,0,0,0,0,219.59,1035,15,1206
+Storage,Cabinets,Great,12/16/18,0,0,0,0,0,0,0,0,0,214.69,1035,15,1206
+Storage,Cabinets,Great,12/9/18,0,0,0,0,0,0,0,0,0,209.79,1035,15,1206
+Storage,Cabinets,Great,12/2/18,0,0,0,0,0,0,0,0,0,204.89,1035,15,1206
+Storage,Cabinets,Great,11/25/18,0,0,0,0,0,0,0,0,0,199.99,1035,15,1206
+Storage,Cabinets,Great,11/18/18,0,0,0,0,0,0,0,0,0,195.09,1035,15,1206
+Storage,Cabinets,Great,11/11/18,0,0,0,0,0,0,0,0,0,190.19,1035,15,1206
+Storage,Cabinets,Great,11/4/18,0,0,0,0,0,0,0,0,0,185.29,1035,15,1206
+Storage,Cabinets,Great,10/28/18,0,0,0,0,0,0,0,0,0,180.39,1035,15,1206
+Storage,Cabinets,Great,10/21/18,0,0,0,0,0,0,0,0,0,175.49,1035,15,1206
+Storage,Cabinets,Great,10/14/18,0,0,0,0,0,0,0,0,0,170.59,1035,15,1206
+Storage,Cabinets,Great,10/7/18,0,0,0,0,0,0,0,0,0,165.69,1035,15,1206
+Storage,Cabinets,OK,1/13/19,41,0,41,1,1,1,0.2,53,504.58,353.78,257,4,300
+Storage,Cabinets,OK,1/6/19,0,0,0,0,0,0,0,0,0,349.3,303,5,353
+Storage,Cabinets,OK,12/30/18,0,0,0,0,0,0,0,0,0,344.4,303,5,353
+Storage,Cabinets,OK,12/23/18,0,0,0,0,0,0,0,0,0,339.5,303,5,353
+Storage,Cabinets,OK,12/16/18,0,0,0,0,0,0,0,0,0,334.6,303,5,353
+Storage,Cabinets,OK,12/9/18,0,0,0,0,0,0,0,0,0,329.7,303,5,353
+Storage,Cabinets,OK,12/2/18,0,0,0,0,0,0,0,0,0,324.8,303,5,353
+Storage,Cabinets,OK,11/25/18,0,0,0,0,0,0,0,0,0,319.9,303,5,353
+Storage,Cabinets,OK,11/18/18,0,0,0,0,0,0,0,0,0,315,303,5,353
+Storage,Cabinets,OK,11/11/18,0,0,0,0,0,0,0,0,0,310.1,303,5,353
+Storage,Cabinets,OK,11/4/18,0,0,0,0,0,0,0,0,0,305.2,303,5,353
+Storage,Cabinets,OK,10/28/18,0,0,0,0,0,0,0,0,0,300.3,303,5,353
+Storage,Cabinets,OK,10/21/18,0,0,0,0,0,0,0,0,0,295.4,303,5,353
+Storage,Cabinets,OK,10/14/18,0,0,0,0,0,0,0,0,0,290.5,303,5,353
+Storage,Cabinets,OK,10/7/18,0,0,0,0,0,0,0,0,0,285.6,303,5,353
